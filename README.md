@@ -1,6 +1,6 @@
 # COVID-Housing-Comparison
 
-Our project is to uncover patterns between COVID-19 cases in Marion, Hancock, Johnson, Hamilton, Hendricks and Boone county residendential real-estate trends.  
+Our project is to uncover patterns between COVID-19 cases in Marion, Hancock, Johnson, Hamilton, Hendricks and Boone county Indiana residendential real-estate trends.  
 
 Compare Housing data to coronavirus data. Comparing housing data from 2019 and 2020
 
