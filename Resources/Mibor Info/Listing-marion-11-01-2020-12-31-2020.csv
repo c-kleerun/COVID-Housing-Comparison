@@ -1,35 +1,8 @@
 MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,StreetName,ListAgentFullName,CoListAgentFullName,OriginalListPrice,ListPrice,ListingContractDate,ExpirationDate,SellingOfficeName,SellingAgentFullName 
-21758770,,Residential,Condo,,SPRING CREEK,Anna Morken-Mullin,,1195,1195,2020-12-30,,,
-21757767,,Residential,Condo,,Tuscany,Osadebamwen Omorogbe,Liz M. Humphrey,1200,1200,2020-12-17,,,
-21758326,,Residential,Single Fam,,Patoka Lake,Marcelene Edwards,,1400,1375,2020-12-24,,,
-21757672,,Residential,Single Fam,,PERSHING,Ryan Matthew Wolfe,,1495,1495,2020-12-17,,,
 21755387,,Residential,Single Fam,,DABNY,Amanda Hull,,145000,145000,2020-11-30,,,
 21753081,,Residential,Single Fam,,Deer Creek,Ben Li,,235000,235000,2020-12-02,,,
 21750855,,Residential,Single Fam,,79th,Christopher Doyle,Michele Doyle,275000,240000,2020-11-03,,,
 21756376,,Residential,Single Fam,,Fauna,Matt McLaughlin,,2200000,2200000,2020-12-11,,,
-21756769,,Residential,Single Fam,,Hillside,Mark Jones,,629,629,2020-12-10,,,
-21756403,,Residential,Single Fam,,Evanston,Mark Jones,,899,849,2020-12-07,,,
-21755391,,Residential,Single Fam,,Cornelius,John C. Stainbrook,,850,850,2020-11-30,,,
-21758538,,Residential,Single Fam,,Indianola,Mark Jones,,899,869,2020-12-28,,,
-21756497,,Residential,Single Fam,,46th,Mark Jones,,899,869,2020-12-08,,,
-21757580,,Residential,Condo,,Hoover Village,Daniel Baldini,,995,900,2020-12-16,,,
-21756014,,Residential,Single Fam,,College,Glenn Bill,,950,900,2020-12-04,,,
-21758038,,Residential,Condo,,HOOVER VILLAGE,Janis Bradley,,950,950,2020-12-21,,,
-21758716,,Residential,Single Fam,,39th,Christopher A. Wynkoop,,975,975,2020-12-30,,,
-21756895,,Residential,Condo,,56TH,Chad Stickley,,1299,1099,2020-12-10,,,
-21754274,,Residential,Single Fam,,Hoover,Jeremy Tallman,Claire L. Holdsworth,1200,1100,2020-11-19,,,
-21754546,,Residential,Condo,,"King George Drive,Unit A",Mary Wernke,Maryanne O'Brien,1250,1250,2020-11-23,,,
-21754233,,Residential,Condo,,DELLINGHAM,Mary Wernke,Maryanne O'Brien,1250,1250,2020-11-20,,,
-21756542,,Residential,Single Fam,,Washington,Jeremy Tallman,Claire L. Holdsworth,1300,1300,2020-12-08,,,
-21756730,,Residential,Single Fam,,Graceland,Shane Burns,,1350,1350,2020-12-10,,,
-21751755,,Residential,Single Fam,,52ND,Alyce M. Penry,,1500,1500,2020-11-27,,,
-21755953,,Residential,Single Fam,,Graceland,Evona N. Watson,,1550,1550,2020-12-03,,,
-21759009,,Residential,Single Fam,,Meridian,Melinda Young,,1650,1650,2021-01-01,,,
-21757445,,Residential,Single Fam,,Central,Harvey E. Levin,,1675,1650,2020-12-15,,,
-21754552,,Residential,Single Fam,,FAIRVIEW,James Cherry,,2300,2300,2020-11-21,,,
-21756888,,Residential,Single Fam,,Compton,Glenn Bill,,3500,3300,2020-12-10,,,
-21750286,,Residential,Single Fam,,Cold Spring,William J. McLane Jr.,,3500,3500,2020-11-02,,,
-21757872,,Residential,Single Fam,,CROWS NEST,Tom Lazzara,,3750,3750,2020-12-18,,,
 21754961,,Residential,Single Fam,,Primrose,Monica Klein-Dollens,,62000,62000,2020-11-25,,,
 21754759,,Residential,Condo,,PARK CENTRAL S DR,Jen Webster,Marsha Wilson,75000,67000,2020-11-25,,,
 21750222,,Residential,Single Fam,,39th,Scott A. Wynkoop,,110000,105000,2020-11-13,,,
@@ -82,12 +55,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21755791,,Residential,Single Fam,,Boulevard,Alaina Wastl,,685000,685000,2020-12-03,,,
 21751957,,Residential,Single Fam,,Meridian,Kimberly S. Carpenter,,1199900,1050000,2020-11-13,,,
 21756425,,Residential,Single Fam,,WINTHROP,Lisa F. Phillips,,1100000,1100000,2020-12-08,,,
-21758672,,Residential,Single Fam,,42nd,John C. Stainbrook,,775,775,2020-12-29,,,
-21751638,,Residential,Single Fam,,MEADOWLARK,Tasheana Hanza,,950,950,2020-11-10,,,
-21751561,,Residential,Condo,,FAIRWAY,Daniel J. Baldini,,1035,1035,2020-11-18,,,
-21755396,,Residential,Single Fam,,Dillon,Stephen J. Ladig,,1400,1400,2020-11-30,,,
-21754604,,Residential,Single Fam,,High Grass,Jason C. McCart,,1495,1450,2020-11-23,,,
-21758327,,Residential,Single Fam,,Shortleaf,Marcelene Edwards,,1530,1490,2020-12-24,,,
 21756912,,Residential,Single Fam,,WYNNE,Samuel Hudnall,,64500,55000,2020-12-10,,,
 21754225,,Residential,Condo,,Benjamin,Barbara Brooks,,75000,72999,2020-12-01,,,
 21755979,,Residential,Single Fam,,Pasadena,Patricia Y. Wilson,,75000,75000,2020-12-03,,,
@@ -121,10 +88,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21754327,,Residential,Single Fam,,Cherbourg,Ricky Gowdy,,550000,550000,2020-11-20,,,
 21756961,,Residential,Single Fam,,Landborough North,Timothy O'Connor,Sean O'Connor,599900,574900,2020-12-11,,,
 21755031,,Residential,Single Fam,,SANDBURY,Donna White,,749900,749900,2020-11-28,,,
-21756515,,Residential,Single Fam,,Campbell,Mark Jones,,685,685,2020-12-08,,,
-21758913,,Residential,Condo,,NEWGATE,Anna Morken-Mullin,,775,775,2020-12-31,,,
-21758309,,Residential,Single Fam,,36TH,Maxwell Richter,,975,975,2020-12-23,,,
-21756708,,Residential,Single Fam,,21st,Evona N. Watson,,800,1050,2020-12-09,,,
 21754927,,Residential,Single Fam,,Whittier,Bruce R. Baird,Stephanie Quick,26750,26750,2020-11-24,,,
 21750987,,Residential,Single Fam,,24TH,Angela D. McDaniel,,62900,62900,2020-11-07,,,
 21751153,,Residential,Single Fam,,Franklin,LaToya D. Dix,,99000,79900,2020-11-09,,,
@@ -148,7 +111,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21756166,,Residential,Single Fam,,Palmyra,Crystal Bennett,,245500,250000,2020-12-05,,,
 21756919,,Residential,Single Fam,,COLE WOOD,Christie Kuehl,,272000,272000,2020-12-11,,,
 21750732,,Residential,Single Fam,,Post,Joshua Vida,,387700,377700,2020-11-05,,,
-21758656,,Residential,Single Fam,,Inverness,Jeremy Tallman,Claire L. Holdsworth,1400,1350,2020-12-29,,,
 21751771,,Residential,Condo,,Waybridge,Gary V. Boehle,,184900,184900,2020-11-10,,,
 21758493,,Residential,Single Fam,,Brouse,Eric Joest,,199999,189900,2020-12-30,,,
 21755410,,Residential,Single Fam,,Troon,Patricia Hodges,,224900,224900,2020-11-30,,,
@@ -166,9 +128,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21756976,,Residential,Single Fam,,Askin,Marie Edwards,,467000,464000,2020-12-11,,,
 21756501,,Residential,Single Fam,,Royal Gate,David C. Brenton,,475000,475000,2020-12-08,,,
 21754983,,Residential,Single Fam,,MILANO,Karmpal Dhaliwal,,699900,665000,2020-12-01,,,
-21752354,,Residential,Single Fam,,Cedarbrook,Clifford Ellis,,1295,1195,2020-11-13,,,
-21752358,,Residential,Single Fam,,Southfield,Clifford Ellis,,1495,1395,2020-11-13,,,
-21756677,,Residential,Condo,,Gavin,Pamela Madsen,,1500,1450,2020-12-09,,,
 21752644,,Residential,Condo,,Foxglove,Carlos J. Higareda,,89900,84900,2020-11-20,,,
 21757244,,Residential,Single Fam,,Lawrence,Julia Burns,,159000,157000,2020-12-14,,,
 21758318,,Residential,Single Fam,,COREY,Kisna Adhikari,La Tawng Dum Daw,169900,169900,2020-12-24,,,
@@ -190,13 +149,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21756610,,Residential,Single Fam,,Meridian,Rebecca Glazier,,599900,599900,2020-12-15,,,
 21751091,,Residential,Single Fam,,Carr,Janis Smith,,104900,104900,2020-11-06,,,
 21756090,,Residential,Single Fam,,Old Mill,Lydia Jones,,160000,160000,2020-12-04,,,
-21755547,,Residential,Single Fam,,Lyons,Mark Jones,,749,749,2020-12-01,,,
-21758966,,Residential,Single Fam,,Kiel,John C. Stainbrook,,750,750,2020-12-31,,,
-21754964,,Residential,Single Fam,,Tibbs,Maxwell Richter,,625,750,2020-11-24,,,
-21758980,,Residential,Single Fam,,DONALD,Deika Monfreda,,950,950,2020-12-31,,,
-21757812,,Residential,Condo,,HUNTERS,Malvin N. Nyoni,,1100,1050,2020-12-18,,,
-21756724,,Residential,Single Fam,,Cardinal Flower,Ryan Matthew Wolfe,,1330,1330,2020-12-09,,,
-21758694,,Residential,Single Fam,,Concord,Richard Amburgey,,1400,1400,2020-12-30,,,
 21750719,,Residential,Single Fam,,Berwick,Jason Alsup,Linda Ball,69000,49000,2020-11-10,,,
 21750072,,Residential,Single Fam,,EXETER,Chiquita Watkins,,54000,49500,2020-11-02,,,
 21754580,,Residential,Single Fam,,Goodlet,Ivan Guillen,Zachary Hoereth,62000,62000,2020-11-22,,,
@@ -220,14 +172,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21750554,,Residential,Single Fam,,New York,Cassie V. Newman,,277485,269485,2020-11-04,,,
 21751568,,Residential,Single Fam,,Bolton Square,Cassie V. Newman,,281040,281040,2020-11-10,,,
 21751536,,Residential,Single Fam,,Steeples,Cassie V. Newman,,287365,287365,2020-11-10,,,
-21757060,,Residential,Single Fam,,34th,Maxwell Richter,,675,645,2020-12-11,,,
-21757754,,Residential,Single Fam,,Lynn,Lakenia Warren,,750,750,2020-12-17,,,
-21756531,,Residential,Single Fam,,Roache,Mark Jones,,829,799,2020-12-08,,,
-21757004,,Residential,Single Fam,,Graceland,Sathya Kattragadda,Rebecca Upton,900,900,2020-12-14,,,
-21758853,,Residential,Single Fam,,Capitol,Mark Jones,,949,949,2020-12-30,,,
-21750829,,Residential,Condo,,Meridian,Gary Swift,,1550,1350,2020-11-06,,,
-21756898,,Residential,Condo,,N Meridian,Rukshini Sandrasegaran,,1395,1395,2020-12-15,,,
-21750159,,Residential,Single Fam,,GOLDEN HILL,Evona N. Watson,,3300,2999,2020-11-02,,,
 21751381,,Residential,Single Fam,,36TH,Mikal Berhe,,55000,55000,2020-11-09,,,
 21750721,,Residential,Single Fam,,Indianapolis,Jason Alsup,Linda Ball,69000,55000,2020-11-12,,,
 21750720,,Residential,Single Fam,,Indianapolis,Jason Alsup,Linda Ball,69000,55000,2020-11-12,,,
@@ -239,95 +183,13 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21754773,,Residential,Single Fam,,BOULEVARD,Jimmy Kessilyas,,179000,177000,2020-11-25,,,
 21751510,,Residential,Single Fam,,Governors,Karen L. Tanner,Anne Schweiger,249900,224900,2020-11-10,,,
 21752424,,Residential,Single Fam,,Camp,Michelle Gassyt,,342900,342900,2020-11-29,,,
-21759031,,Residential,Single Fam,,Capitol,Sandra Macklin,Christopher Boughton,375000,345000,2021-01-01,,,
 21757933,,Residential,Condo,,Meridian,Alice Steppe,,355000,355000,2020-12-18,,,
 21749955,,Residential,Condo,,Illinois,Laura Waters,Leyton Wellbaum,398558,375000,2020-11-06,,,
 21751316,,Residential,Single Fam,,Illinois,James J. Terrell,,450000,475000,2020-11-09,,,
 21757313,,Residential,Condo,,MERIDIAN,Carlos Higareda,,509900,499900,2020-12-15,,,
-21755943,,Residential,Single Fam,,Gladstone,Mark Jones,,615,500,2020-12-03,,,
-21758065,,Residential,Single Fam,,Beville,Mark Jones,,539,539,2020-12-21,,,
-21758142,,Residential,Single Fam,,Gladstone,Stephan Kline,,595,595,2020-12-22,,,
-21758103,,Residential,Single Fam,,Gladstone,Stephan Kline,,595,595,2020-12-22,,,
-21754963,,Residential,Single Fam,,Denny,Maxwell Richter,,650,595,2020-11-24,,,
-21754318,,Residential,Single Fam,,11th,John C. Stainbrook,,595,595,2020-11-19,,,
-21753103,,Residential,Single Fam,,11th,John C. Stainbrook,,595,595,2020-11-18,,,
-21753097,,Residential,Single Fam,,11th,John C. Stainbrook,,595,595,2020-11-18,,,
-21753075,,Residential,Single Fam,,11th,John C. Stainbrook,,595,595,2020-11-18,,,
-21755498,,Residential,Single Fam,,COLORADO,Stephan M. Kline,,600,600,2020-12-01,,,
-21755989,,Residential,Single Fam,,Denny,Maxwell Richter,,675,625,2020-12-03,,,
-21752658,,Residential,Single Fam,,Adams,Evona N. Watson,,625,625,2020-11-16,,,
-21757846,,Residential,Single Fam,,Brookway,Mark Jones,,649,649,2020-12-18,,,
-21756543,,Residential,Single Fam,,Grant,Mark Jones,,715,649,2020-12-08,,,
-21756632,,Residential,Single Fam,,TUXEDO,Stephan Kline,,650,650,2020-12-09,,,
-21752736,,Residential,Single Fam,,18th,Maxwell Richter,,675,675,2020-11-17,,,
-21750458,,Residential,Single Fam,,Stuart,John C. Stainbrook,,675,675,2020-11-03,,,
-21758859,,Residential,Single Fam,,Temple,Mark Jones,,699,699,2020-12-30,,,
-21754762,,Residential,Single Fam,,Summit,Amanda Wade,,800,700,2020-11-24,,,
-21754356,,Residential,Single Fam,,Oxford,John C. Stainbrook,,700,700,2020-11-19,,,
-21758722,,Residential,Single Fam,,Linwood,John C. Stainbrook,,725,725,2020-12-30,,,
-21755384,,Residential,Single Fam,,Chester,John C. Stainbrook,,725,725,2020-11-30,,,
-21758862,,Residential,Single Fam,,Delaware,Mark Jones,,749,749,2020-12-30,,,
-21752846,,Residential,Single Fam,,BALTIMORE,Evona N. Watson,,775,775,2020-11-19,,,
-21750495,,Residential,Single Fam,,Denny,John C. Stainbrook,,775,775,2020-11-03,,,
-21753056,,Residential,Single Fam,,Coyner,Mark Jones,,825,795,2020-11-18,,,
-21752711,,Residential,Single Fam,,Central,John C. Stainbrook,,795,795,2020-11-17,,,
-21752679,,Residential,Single Fam,,Emerson,John C. Stainbrook,,795,795,2020-11-16,,,
-21756448,,Residential,Single Fam,,34th,Evona N. Watson,,800,800,2020-12-08,,,
-21757662,,Residential,Single Fam,,Jefferson,Evona N. Watson,,950,850,2020-12-17,,,
-21754516,,Residential,Single Fam,,Tuxedo,Maxwell Richter,,950,895,2020-11-20,,,
-21757281,,Residential,Single Fam,,KILDARE,Evona N. Watson,,900,900,2020-12-14,,,
-21751790,,Residential,Single Fam,,DELAWARE,Laura Booram,Mark Nottingham,1300,950,2020-11-25,,,
-21754945,,Residential,Single Fam,,BROADWAY,Richard Amburgey,,1450,995,2020-11-23,,,
-21758861,,Residential,Single Fam,,Ewing,Mark Jones,,999,999,2020-12-30,,,
-21758957,,Residential,Single Fam,,Arsenal,Kristin Glassburn,,1100,1050,2020-12-31,,,
-21750195,,Residential,Single Fam,,Tecumseh,Ron Herman,Jordan Herman,1195,1095,2020-11-03,,,
-21758541,,Residential,Single Fam,,Tecumseh,Mark Jones,,1099,1099,2020-12-28,,,
-21758945,,Residential,Single Fam,,College,Kristin Glassburn,,1150,1100,2020-12-31,,,
-21758350,,Residential,Single Fam,,Bradley,Ronda R.Cooper,,1100,1100,2020-12-26,,,
-21758219,,Residential,Condo,,Central,Kimsley C. Farrar,Stacy L. Barry,1150,1100,2020-12-23,,,
-21758213,,Residential,Condo,,Central,Kimsley C. Farrar,Stacy L. Barry,1250,1100,2020-12-23,,,
-21757545,,Residential,Single Fam,,Beville,Evona N. Watson,,1100,1100,2020-12-16,,,
-21754648,,Residential,Single Fam,,NEW YORK,Liz M. Humphrey,,1150,1150,2020-11-23,,,
-21758868,,Residential,Single Fam,,Pennsylvania,Maxwell Richter,,1250,1195,2020-12-30,,,
-21759934,,Residential,Single Fam,,Tacoma,Pamela D. Smith,,1200,1200,2021-01-01,,,
-21754826,,Residential,Single Fam,,Grant,Justin Capps,,1200,1200,2020-11-18,,,
-21757522,,Residential,Single Fam,,Broadway,Kristin Glassburn,,1350,1225,2020-12-16,,,
-21756496,,Residential,Single Fam,,Carrollton,Jeremy Tallman,Claire L. Holdsworth,1300,1250,2020-12-08,,,
-21754262,,Residential,Single Fam,,Carrollton,Jeremy Tallman,Claire L. Holdsworth,1400,1250,2020-11-19,,,
-21756512,,Residential,Single Fam,,Arsenal,Kristin Glassburn,,1300,1300,2020-12-11,,,
-21756346,,Residential,Single Fam,,Bancroft,Elizabeth Sickels,,1300,1300,2020-12-07,,,
-21750570,,Residential,Single Fam,,Brookside,Jeremy Tallman,Claire L. Holdsworth,1600,1400,2020-11-04,,,
-21756715,,Residential,Single Fam,,Central,Evona N. Watson,,1500,1500,2020-12-09,,,
-21756573,,Residential,Single Fam,,Marlowe,Trent Whittington,,1500,1500,2020-12-16,,,
-21754733,,Residential,Single Fam,,Central,Evona N. Watson,,1500,1500,2020-11-25,,,
-21758037,,Residential,Single Fam,,College,Jeremy Tallman,Claire L. Holdsworth,1600,1550,2020-12-21,,,
-21757724,,Residential,Single Fam,,Yandes,Terry Brown,,1575,1575,2020-12-17,,,
-21755759,,Residential,Condo,,New Jersey,Mark Nottingham,,1575,1575,2020-12-03,,,
-21750344,,Residential,Condo,,DELAWARE,Jeremy Tallman,Claire L. Holdsworth,1700,1700,2020-11-03,,,
-21759032,,Residential,Single Fam,,College,Chuck Pennington,,1800,1800,2021-01-01,,,
-21751051,,Residential,Condo,,Delaware,Seth C. Patton,,1850,1800,2020-11-06,,,
-21751680,,Residential,Condo,,DELAWARE,Peter Bannon,,1850,1850,2020-11-11,,,
-21751662,,Residential,Single Fam,,New York,Kristin Glassburn,,2000,1900,2020-11-10,,,
-21751876,,Residential,Condo,,Alabama,Daniel J. Baldini,,2060,1935,2020-12-06,,,
-21756368,,Residential,Single Fam,,10th,Lisa Bugay,,2200,2000,2020-12-08,,,
-21755273,,Residential,Condo,,Washington,Chris Golightly,,2000,2000,2020-12-07,,,
-21754933,,Residential,Single Fam,,COLLEGE,Dylan Hostetter,,2000,2000,2020-11-25,,,
-21755367,,Residential,Condo,,East,Jason Warner,Meredith M. Treco,2095,2095,2020-11-30,,,
-21754949,,Residential,Condo,,PENNSYLVANIA,Myrian E. Wiggins,,2100,2100,2020-11-24,,,
-21752660,,Residential,Condo,,Fort Wayne,Jason Warner,Meredith M. Treco,2495,2245,2020-11-16,,,
-21755743,,Residential,Condo,,New Jersey,Tom Lazzara,,2250,2250,2020-12-02,,,
-21755908,,Residential,Single Fam,,Pennsylvania,Elizabeth Sickels,,2500,2300,2020-12-03,,,
-21751428,,Residential,Condo,,Ohio,Mary DuVall,,2300,2300,2020-11-11,,,
-21757533,,Residential,Condo,,Allard,Gary Swift,,2400,2400,2020-12-18,,,
-21758225,,Residential,Single Fam,,Carrollton,Jeremy Tallman,Claire L. Holdsworth,2600,2600,2020-12-23,,,
-21754776,,Residential,Condo,,Alabama,Rob A. Measel,Brittany Faulkner,2800,2800,2020-11-24,,,
-21757300,,Residential,Single Fam,,Bellefontaine,Kyle Dickson,Joseph Dickson,3400,3400,2020-12-17,,,
 21754885,,Residential,Single Fam,,Eastern,Bruce R. Baird,Stephanie Quick,3500,3500,2020-11-24,,,
-21756607,,Residential,Single Fam,,Central,Rebecca Glazier,,4200,4200,2020-12-24,,,
-21757212,,Residential,Condo,,16th Street,Laura Booram,Mark Nottingham,5000,5000,2020-12-21,,,
 21754910,,Residential,Single Fam,,Ralston,Bruce R. Baird,Stephanie Quick,6000,6000,2020-11-24,,,
 21754903,,Residential,Single Fam,,Gale,Bruce R. Baird,Stephanie Quick,6000,6000,2020-11-24,,,
-21755880,,Residential,Single Fam,,Davidson,James J. Terrell,,7995,7995,2020-12-03,,,
 21755066,,Residential,Single Fam,,31st,Bruce R. Baird,Stephanie Quick,9500,9500,2020-11-25,,,
 21755064,,Residential,Single Fam,,31st,Bruce R. Baird,Stephanie Quick,9500,9500,2020-11-25,,,
 21754834,,Residential,Single Fam,,Stuart,Bruce R. Baird,Stephanie Quick,13500,13500,2020-11-24,,,
@@ -423,24 +285,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21751348,,Residential,Single Fam,,Vermont,Lisa Meulbroek,Chris T. Meulbroek,885000,885000,2020-11-12,,,
 21751404,,Residential,Single Fam,,Davidson,James J. Terrell,,895000,895000,2020-11-09,,,
 21750251,,Residential,Condo,,Massachusetts,Libby Somerville,Robert K. Baxter,899000,899000,2020-11-03,,,
-21756640,,Residential,Single Fam,,Minnesota,Mark Jones,,650,650,2020-12-09,,,
-21756277,,Residential,Single Fam,,Bradbury,Stephan Kline,,650,650,2020-12-07,,,
-21755729,,Residential,Single Fam,,Lexington,Mark Jones,,725,695,2020-12-02,,,
-21754300,,Residential,Single Fam,,Prospect,John C. Stainbrook,,725,725,2020-11-19,,,
-21750537,,Residential,Single Fam,,Kelly,Maxwell Richter,,825,750,2020-11-04,,,
-21756842,,Residential,Single Fam,,Prospect,Angela Johnson,,785,785,2020-12-10,,,
-21752273,,Residential,Single Fam,,Comer,Chad Stickley,,850,799,2020-11-13,,,
-21758051,,Residential,Single Fam,,Morris,Mark Jones,,875,875,2020-12-21,,,
-21758849,,Residential,Single Fam,,Grant,Mark Jones,,925,925,2020-12-30,,,
-21750635,,Residential,Single Fam,,UNION,Cory J Danner,,1100,1000,2020-11-04,,,
-21754487,,Residential,Single Fam,,LEXINGTON,Chad Stickley,,1299,1224,2020-11-20,,,
-21757882,,Residential,Single Fam,,Singleton,Evona N. Watson,,1250,1250,2020-12-18,,,
-21756040,,Residential,Single Fam,,Churchman,Jeremy Tallman,Claire L. Holdsworth,1250,1250,2020-12-04,,,
-21755721,,Residential,Single Fam,,Terrace,Elizabeth Sickels,,1700,1700,2020-12-02,,,
-21757440,,Residential,Single Fam,,PENNSYLVANIA,Peter Bannon,,1995,1895,2020-12-15,,,
-21756307,,Residential,Single Fam,,Dawson,Cory Gardner,,2350,2350,2020-12-07,,,
-21758609,,Residential,Single Fam,,East,Tasheana Hanza,,2500,2500,2020-12-29,,,
-21755754,,Residential,Single Fam,,Prospect,Elizabeth Sickels,,3000,3000,2020-12-02,,,
 21756603,,Residential,Single Fam,,Comer,Randy Placencia,,33900,29900,2020-12-09,,,
 21758185,,Residential,Single Fam,,Bradley,Kathryn Teltow,,70000,68500,2020-12-29,,,
 21754387,,Residential,Single Fam,,Leeds,Edwin Watson,,75000,75000,2020-11-24,,,
@@ -460,7 +304,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21752697,,Residential,Single Fam,,Draper,Janis Smith,,99900,99900,2020-11-13,,,
 21752040,,Residential,Single Fam,,Draper,Kevin Hudoba,,99900,99900,2020-11-13,,,
 21754320,,Residential,Single Fam,,Union,Edwin Watson,,70000,120000,2020-11-24,,,
-21758981,,Residential,Single Fam,,Asbury,Stacie Kidwell,,125000,125000,2021-01-01,,,
 21754232,,Residential,Single Fam,,Lexington,Lauren Hicks,,149000,135000,2020-11-19,,,
 21758250,,Residential,Single Fam,,Randolph,Edwin Watson,,140000,140000,2020-12-29,,,
 21757065,,Residential,Single Fam,,13th,Jeremy Tucker,,149900,149900,2020-12-14,,,
@@ -494,7 +337,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21750997,,Residential,Single Fam,,Spann,Nicholas McNeely,,579000,599000,2020-11-06,,,
 21754492,,Residential,Condo,,Virginia,Brian Walker,,635000,635000,2020-11-20,,,
 21758676,,Residential,Single Fam,,Spann,Jennifer Kikendall-Wilkinson,,675000,675000,2020-12-29,,,
-21758932,,Residential,Single Fam,,Schiller,John C. Stainbrook,,750,750,2020-12-31,,,
 21757956,,Residential,Single Fam,,GIMBER,Douglas Bryant,Laura A. Vogas,125000,109500,2020-12-20,,,
 21754745,,Residential,Single Fam,,MERIDIAN,Eric Forney,Danielle Britton,159900,145000,2020-12-02,,,
 21755220,,Residential,Single Fam,,Newcomer,Steven Russell Coston,,140000,140000,2020-11-29,,,
@@ -694,21 +536,15 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21746719,,Residential,Single Fam,,CARROLL,Tim Queisser,,485000,489000,2020-11-07,,Berkshire Hathaway Home,Mike Deck
 21728205,,Residential,Single Fam,,ROYAL OAKLAND WAY,Gordon VanKampen,,579900,549900,2020-07-25,,F.C. Tucker Company,Stephen Ashpaugh
 21738921,,Residential,Single Fam,,Kayak,Joy Cripps,,975000,975000,2020-09-15,,F.C. Tucker Company,Rich Boals
-21748217,,Residential,Single Fam,,Legends Creek,Mark Jones,,950,950,2020-10-22,,PMI Midwest,Mark Jones
-21757772,,Residential,Single Fam,,Red Bush,Marcelene Edwards,,1560,1515,2020-12-17,,Progress Residential Property,Marcelene Edwards
 21755821,,Residential,Single Fam,,Hawthorne,Beverly Harney,,70000,70000,2020-12-03,,LaBev Enterprise,Beverly Harney
 21755819,,Residential,Single Fam,,Sutters,Christi Coffey,Amanda C. Spicer,73500,73500,2020-12-05,,United Real Estate Indpls,Crystal Bennett
 21751588,,Residential,Single Fam,,Priscilla,David Owens,C. Scott Veerkamp,80000,80000,2020-11-10,,"Doc Real Estate, Inc",Joe Bottorff
 21757073,,Residential,Condo,,Wellesley,Amanda Hull,,89900,89900,2020-12-11,,Highgarden Real Estate,Asha Bryant
-21750971,,Residential,Single Fam,,HARTMAN,Roger D. Webb,,94500,94500,2020-11-06,,Keller Williams Indy Metro NE,Barbara Whiteside
 21754977,,Residential,Single Fam,,Priscilla,Shelly Jett,,95000,95000,2020-11-25,,F.C. Tucker Company,Brian Hopson
-21755088,,Residential,Single Fam,,Mitchner,Kelly Huff,Janelle Keele,97500,97500,2020-12-04,,"Carpenter, REALTORS®",Zachary Woodmansee
 21749935,,Residential,Condo,,Legends Creek,Marilyn L. Wells,,104900,99900,2020-10-31,,CENTURY 21 Scheetz,Danielle L. Barton
 21723873,,Residential,Single Fam,,Narrow Brook,Joshua Moss,Adam LaFlower,102500,102500,2020-07-09,,Keller Williams Indy,Christopher H. Jones
 21749403,,Residential,Single Fam,,Luewan,Kim Rossbrown-Battles,,105000,105000,2020-11-02,,F.C. Tucker Company,Timeko Whitaker
 21748588,,Residential,Single Fam,,Wysong,Deb Kent,,107000,107000,2020-10-27,,"Best Choice Properties, LLC",Leslie Grady
-21758155,,Residential,Condo,,LEGENDS CREEK,Eric Johnson,,110000,110000,2020-12-28,,Trueblood Real Estate,Cameron Geesaman
-21752487,,Residential,Single Fam,,19th,Donna L. Towns,,120000,110000,2020-11-16,,United Real Estate Indpls,Dody Mariscotti
 21758408,,Residential,Condo,,BROMLEY,Clayton Nail,,115000,115000,2020-12-28,,"Weichert, REALTORS - Success!",Shelli Anderson
 21755092,,Residential,Single Fam,,37TH,Christopher Jenkins,,116500,116500,2020-11-26,,CENTURY 21 Scheetz,Lisa Bishop
 21755711,,Residential,Single Fam,,ESSEN,Jeremy Sandlin,,119900,119900,2020-12-11,,"Vinebrook Homes, LLC",James C. Goetz
@@ -725,7 +561,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21750268,,Residential,Single Fam,,Hawthorne,Phillip N. Hawkins,,154900,144900,2020-11-02,,F.C. Tucker Company,Lynn Lawless
 21731119,,Residential,Single Fam,,STOCKARD,Ted Hudnut,,146000,146000,2020-09-03,,"TBH Realty and Management, Inc",Ted Hudnut
 21754226,,Residential,Single Fam,,Hogan,Gary Harney,,146500,146500,2020-11-21,,RE/MAX Legends Group,"Terry Melvin, CRS, GRI"
-21754357,,Residential,Single Fam,,Tealpoint,Diana Abner,,148000,148000,2020-11-20,,"Carpenter, REALTORS®",Jane Venezia
 21756891,,Residential,Single Fam,,Burries,Constance Quizon,,149900,149900,2020-12-10,,Renu Real Estate,Randie L. Bonwell
 21754572,,Residential,Single Fam,,Springer,Dan Adams,,149900,149900,2020-11-20,,"Centurion R.E.S., LLC",Fletcher E. Daly
 21745982,,Residential,Single Fam,,BERMUDA,Samantha Evans,,159900,149900,2020-10-16,,Scott Estates,Candice Childs
@@ -774,7 +609,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21757802,,Residential,Single Fam,,Carrie,John Story,,198900,198900,2020-12-17,,Keller Williams Indy Metro NE,April Fitzgerald
 21756223,,Residential,Single Fam,,Wildwood Farms,Crystal Bennett,,199000,199000,2020-12-09,,"Main Street Renewal, LLC",Spencer Lindahl
 21758436,,Residential,Single Fam,,Rambling,Janese Bingham,,205000,205000,2020-12-28,,"2.0 Brokerage, LLC",Noah Bradtke - Litwack
-21758687,,Residential,Single Fam,,Grove Berry,Sally Wilburn,,210000,210000,2020-12-29,,RE/MAX Advanced Realty,Marla Clemens
 21752213,,Residential,Single Fam,,Sycamore,Nina E. Klemm,Erik Wentz,214900,214900,2020-11-19,,"United, REALTORS®",Jacilynn Ferris
 21751137,,Residential,Single Fam,,FRANKLIN,Rusty Harsin,,239900,215000,2020-11-06,,"Front Porch Real Estate, LLC",Kristine Strack
 21757825,,Residential,Single Fam,,Muirfield,Johnny A. Kap,,219900,219900,2020-12-18,,Keller Williams Indy Metro S,Johnny A. Kap
@@ -790,7 +624,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21751987,,Residential,Single Fam,,SENOUR,Tyre Shelton,,275000,275000,2020-11-13,,DAVID BRENTON'S TEAM,David C. Brenton
 21746637,,Residential,Single Fam,,Wooden Grange,Marie Edwards,,284327,284327,2020-10-19,,Mike Watkins Real Estate Group,Christopher M. Watkins
 21747141,,Residential,Single Fam,,Wild Turkey,Robert L. VanHook,,292405,284995,2020-10-22,,"Midland Realty Group, Inc.",Ben Bashal
-21755842,,Residential,Single Fam,,LILLIANS,Jessica Rohlman,,299900,299900,2020-12-03,,"Hoosier, REALTORS®",Kelly K. Weaver
 21746613,,Residential,Single Fam,,MAZE,Joseph Buttler,,324900,299900,2020-10-21,,RE/MAX Ability Plus,David E. Allen
 21756757,,Residential,Single Fam,,Goose Rock,Bethany Little,,314900,309900,2020-12-10,,F.C. Tucker Company,Jennifer S. Anderson
 21754378,,Residential,Single Fam,,Summit Lake,Tonia Stubbs,,310500,310500,2020-11-20,,Keller Williams Indpls Metro N,Stephen W. Clark
@@ -800,7 +633,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21746730,,Residential,Single Fam,,Shelbyville,Jamie Gourley,,329999,329999,2020-10-22,,United Real Estate Indpls,Vicki Palmore-Hale
 21758317,,Residential,Single Fam,,Lyster,Marie Edwards,,333329,333329,2020-12-24,,CENTURY 21 Scheetz,Jennifer D. Laughner
 21757152,,Residential,Single Fam,,New Heritage,Scott A. Smith,Rebecca K. Gluff,340000,340000,2020-12-18,,Trueblood Real Estate,Jamie Sargent
-21744703,,Residential,Single Fam,,Ambry,Sean Daniels,,360000,350000,2020-10-08,,"Front Porch Real Estate, LLC",Kulbinder Bains
 21754861,,Residential,Single Fam,,Sundance,Angela Miller Brees,,369900,369900,2020-11-24,,Keller Williams Indpls Metro N,Megan Porterfield
 21757817,,Residential,Single Fam,,Southeastern,Jennifer Marlow,,525000,525000,2020-12-16,,"Carpenter, REALTORS®",Brandon Warfield
 21745031,,Residential,Single Fam,,Edgewood,Kimberly Lyon,,540000,540000,2020-10-09,,"Hoosier, REALTORS®",James Talhelm
@@ -846,15 +678,10 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21755223,,Residential,Single Fam,,Rum Cherry,Marie Edwards,,284412,284412,2020-11-30,,Non-BLC Office,Non-BLC Member
 21740578,,Residential,Single Fam,,Crosby Buck,Michelle R. Butts,,299900,295000,2020-09-22,,Bina Real Estate,Bina Ahluwalia
 21757362,,Residential,Single Fam,,Arling,Marie Edwards,,303355,303355,2020-12-15,,CENTURY 21 Scheetz,Paramjit Kaur
-21689789,,Residential,Single Fam,,STOP 11,Connie Davis,,350000,310000,2020-01-16,,"Mang Tha Real Estate, LLC",Chancung Lian
 21738965,,Residential,Single Fam,,BANTA,John C. Dugan,,389888,375000,2020-09-14,,F.C. Tucker Company,Ronald Fleming
 21750285,,Residential,Single Fam,,KILLARNEY,Brent Rickards,,415000,410000,2020-11-05,,Trueblood Real Estate,Adam Wright
 21749347,,Residential,Single Fam,,GRAY,Jamie Suchotzky,,500000,500000,2020-10-28,,Perfect Place Realty,Martin A. Murphy
 21744311,,Residential,Single Fam,,Delaney,Amy Heidelberger,,679900,679900,2020-10-06,,Trueblood Real Estate,Zach Syrus
-21746508,,Residential,Single Fam,,Coppock,Clifford Ellis,,1300,1300,2020-10-18,,Berkshire Hathaway Home,Clifford Ellis
-21760298,,Residential,Single Fam,,Bradford,Charlie Brown,,90000,90000,2021-01-01,,Benchmark Realty Group Indy LL,Charlie Brown
-21758412,,Residential,Single Fam,,Kellum,Miranda S. Payne,,132000,132000,2020-12-28,,"Carpenter, REALTORS®",Adam Howell
-21740889,,Residential,Single Fam,,Murray,Jeneene West,Gregg E. West,135000,145000,2020-09-23,,"Front Porch Real Estate, LLC",Delia Webster
 21752261,,Residential,Single Fam,,FURNAS,Tom D. Pollard,,159900,149900,2020-11-16,,Keller Williams Indy Metro S,Ashley Ann Holden
 21757760,,Residential,Single Fam,,Emmert,Ron Rose,,150000,150000,2020-12-17,,Resilient Realty Investments,Anthony W. Burris
 21731118,,Residential,Single Fam,,DOLLAR FORGE,Ted Hudnut,,152000,152000,2020-09-02,,"TBH Realty and Management, Inc",Ted Hudnut
@@ -884,9 +711,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21756246,,Residential,Single Fam,,Milhouse,Jeneene West,Gregg E. West,260000,260000,2020-12-06,,"Carpenter, REALTORS®",Adam R. Corya
 21755512,,Residential,Single Fam,,Marlene,Mark Dietel,,280000,275000,2020-12-07,,"VanSlyke, REALTORS®",Clarence VanSlyke
 21745399,,Residential,Single Fam,,Mann,Phyllis Grubb,,305000,289900,2020-10-30,,CrestPoint Real Estate,Kellie Ellis
-21749965,,Residential,Single Fam,,Belmont,Clifford Ellis,,650,595,2020-10-31,,Berkshire Hathaway Home,Clifford Ellis
-21758079,,Residential,Single Fam,,Scottsdale,Marcelene Edwards,,1695,1695,2020-12-21,,Progress Residential Property,Marcelene Edwards
-21755967,,Residential,Single Fam,,Blackmore,Marcelene Edwards,,1740,1695,2020-12-03,,Progress Residential Property,Marcelene Edwards
 21758123,,Residential,Condo,,Port Sylvia,Matthew Reffeitt,,55000,55000,2020-12-22,,F.C. Tucker Company,Judith Wolfe
 21750233,,Residential,Single Fam,,Centennial,Josh D. Latham,,75000,75000,2020-11-22,,"Carpenter, REALTORS®",Tara L. Ray
 21745363,,Residential,Single Fam,,CAVEN,Charlene Gaard,,85000,75000,2020-10-12,,RE/MAX Advanced Realty,Michael T. Carter
@@ -927,7 +751,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21755422,,Residential,Single Fam,,Winterset,Maria Hunt,,315000,315000,2020-12-01,,Trueblood Real Estate,Jamie Sargent
 21758216,,Residential,Single Fam,,Girls School,Linda Wilcox,,749900,749900,2020-12-28,,Redfin Corporation,Jane Barretto
 21703043,,Residential,Single Fam,,26th,Sandra Daley,,20000,1,2019-12-31,,Dal Sand,Sandra Daley
-21731400,,Residential,Single Fam,,33rd,Mark Jones,,525,525,2020-08-12,,PMI Midwest,Mark Jones
 21680977,,Residential,Single Fam,,Ethel,Bruce Baird,,8000,3500,2019-11-12,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21680976,,Residential,Single Fam,,Congress,Bruce Baird,,8000,7250,2019-11-12,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21680960,,Residential,Single Fam,,Udell,Bruce Baird,,10000,9000,2019-11-12,,"Renew Indianapolis, Inc.",Bruce R. Baird
@@ -939,13 +762,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21751961,,Residential,Single Fam,,Congress,Jeffrey D. Paxson,Jack Andrews,158000,153900,2020-11-12,,"Carpenter, REALTORS®",Morris D Lucas
 21752296,,Residential,Single Fam,,Capitol,R. Michelle Lockhart,,199900,194900,2020-11-13,,Dal Sand,Sandra Daley
 21740770,,Residential,Single Fam,,Graceland,Shane Burns,,223000,214900,2020-09-23,,Keller Williams Indpls Metro N,Sarah Donaldson
-21737072,,Residential,Single Fam,,Eastern,Mark Jones,,619,619,2020-09-04,,PMI Midwest,Mark Jones
-21726310,,Residential,Single Fam,,DEQUINCY,Maxwell Richter,,650,625,2020-07-22,,Wilmoth Group,Maxwell Richter
-21755243,,Residential,Single Fam,,Rural,John C. Stainbrook,,695,695,2020-11-29,,Alpine Leasing,John C. Stainbrook
-21751767,,Residential,Single Fam,,Delaware,Laura Booram,Mark Nottingham,750,750,2020-11-20,,Plat Collective,Laura Booram
-21757409,,Residential,Single Fam,,Delaware,Laura Booram,,850,850,2020-12-15,,Plat Collective,Laura Booram
-21730031,,Residential,Condo,,East,Melissa Alderman,,2000,1395,2020-08-05,,Red Door Real Estate,Michael  E. Taylor
-21735375,,Residential,Condo,,WASHINGTON,Josh Neuman,,2200,2000,2020-08-26,,Encore Sotheby's International,Susan B. Stayer
 21672997,,Residential,Single Fam,,Eastern,Bruce Baird,,15750,14250,2019-10-03,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21755061,,Residential,Single Fam,,Caroline,Bruce R. Baird,Stephanie Quick,17750,17750,2020-11-25,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21646104,,Residential,Single Fam,,18th,Bruce Baird,,24750,24750,2019-06-10,,"Renew Indianapolis, Inc.",Bruce R. Baird
@@ -971,7 +787,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21756473,,Residential,Single Fam,,Grant,Wade Cunningham,,169900,169900,2020-12-09,,Realty One Group Dream,India Edmonson
 21745013,,Residential,Single Fam,,Coyner,Michele Alarcon,,249900,194000,2020-10-09,,Highgarden Real Estate,Fantasia Robinson
 21745733,,Residential,Single Fam,,Rural,Summer Hudson,,210000,199500,2020-10-30,,F.C. Tucker Company,Calvin Craig
-21756588,,Residential,Single Fam,,Ruckle,Tim Goff,,214900,209900,2020-12-10,,Plat Collective,Spencer Ruark
 21756053,,Residential,Single Fam,,Temple,Mark J. Branch,Sarah Elkmann,209900,209900,2020-12-04,,"Everhart Studio, Ltd.",Dylan Hostetter
 21755074,,Residential,Single Fam,,Hamilton,Ian DeFelice,Ashley Mullin,245000,245000,2020-12-03,,Gallery of Homes Real Estate,Martine Locke
 21754787,,Residential,Single Fam,,Park,Todd Ferris,,249900,249900,2020-12-03,,F.C. Tucker Company,Joseph Clinch
@@ -1007,9 +822,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21754517,,Residential,Single Fam,,Cornell,Kelly Huff,,650000,650000,2020-11-25,,Plat Collective,Jennifer Bliss
 21737660,,Residential,Single Fam,,Central,Kate Tuttle,Mark Nottingham,760000,729900,2020-09-10,,"Everhart Studio, Ltd.",Dylan Hostetter
 21640317,,Residential,Single Fam,,North,Joe Everhart,Quinn Demaree,1900000,1600000,2019-05-13,,Luxcity Realty,Seth C. Patton
-21749966,,Residential,Single Fam,,Legrand,Clifford Ellis,,800,800,2020-10-31,,Berkshire Hathaway Home,Clifford Ellis
-21749367,,Residential,Single Fam,,Deloss,John C. Stainbrook,,875,875,2020-10-28,,Alpine Leasing,John C. Stainbrook
-21745201,,Residential,Single Fam,,Parkway,Katie Malott,,1950,1875,2020-10-10,,RE/MAX Legends Group,Katie E. Malott
 21663250,,Residential,Single Fam,,Gray,Bruce Baird,,18000,16250,2019-08-20,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21645754,,Residential,Single Fam,,Saint Paul,Bruce Baird,,26000,23500,2019-06-07,,"Renew Indianapolis, Inc.",Bruce R. Baird
 21645139,,Residential,Single Fam,,Minnesota,Bruce Baird,,29000,26250,2019-06-05,,"Renew Indianapolis, Inc.",Bruce R. Baird
@@ -1045,7 +857,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21738675,,Residential,Single Fam,,State,Douglas Dilling,Bethany Schultz,249000,244000,2020-09-14,,Sargent Realty Group LLC,Bob Sargent
 21750687,,Residential,Single Fam,,Guilford,Alexandria Wilson,,250000,250000,2020-11-09,,"eXp Realty, LLC",Paige L. Corbett
 21730500,,Residential,Single Fam,,Saint Peter,Gregory Mayo,,279900,257900,2020-08-07,,Maywright Property Co.,Chanda Johnson
-21743192,,Residential,Single Fam,,Terrace,Daniel Fisher,,265000,265000,2020-10-02,,Plat Collective,Spencer Ruark
 21757401,,Residential,Single Fam,,Garfield,Cindy Stockhaus,Michael R. Stockhaus,275000,275000,2020-12-15,,F.C. Tucker Company,Kalliopi Nikou
 21668234,,Residential,Single Fam,,Hoyt,David Lemelman,,569900,437900,2019-09-20,,Stella Blue Realty,Lance White
 21705936,,Residential,Single Fam,,Spruce,Tammy Vo,,469900,450000,2020-04-22,,Trueblood Real Estate,James B. Trueblood
@@ -1063,7 +874,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21750242,,Residential,Single Fam,,Andrea,Crystal D. Bolin,,159000,159000,2020-11-02,,United Real Estate Indpls,Esmeralda Sanchez Garcia
 21735114,,Residential,Single Fam,,9th,Joseph Sullivan,,162900,159250,2020-08-26,,Front Porch Real Estate,Bailey Bach
 21751226,,Residential,Single Fam,,11th,Deanna Bennett,,169000,169000,2020-11-08,,Plat Collective,Josh Neuman
-21745160,,Residential,Single Fam,,Main,Robert J. Beckham,,179900,178000,2020-12-17,,F.C. Tucker Company,Nancy Juday
 21757128,,Residential,Single Fam,,Charnwood,Patrick L. Daves,,235000,235000,2020-12-14,,RE/MAX Ability Plus,Adam Hopkins
 21752866,,Residential,Single Fam,,Patton,Julie Comella,,165000,165000,2020-11-17,,United Real Estate Indpls,Douglas D. Dilling
 21752668,,Residential,Single Fam,,Nash,Tim S. Kanyuh,,200000,190000,2020-11-17,,F.C. Tucker Company,James P. Habegger
@@ -1409,7 +1219,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21755581,,Residential,Single Fam,,Guilford,Brenda Bowman,,180000,180000,2020-12-02,2021-06-02,F.C. Tucker Company,Diane Brooks
 21752947,,Residential,Single Fam,,Bernard,Drew Keller,,189900,189900,2020-12-01,2021-04-30,CENTURY 21 Scheetz,Sarah Klee
 21749267,,Residential,Single Fam,,Temple,Garrett Brooks,,179990,179990,2020-10-29,2020-12-31,Esquire Real Estate Group LLC,Kate Vannoy
-21745146,,Residential,Condo,,62ND,Alexander Elston,,1400,1400,2020-10-09,2021-04-09,Trueblood Real Estate,Katherine Williams
 21745107,,Residential,Condo,,62ND,Alexander Elston,,179900,179900,2020-10-09,2021-04-09,Trueblood Real Estate,Katherine Williams
 21745821,,Residential,Condo,,HARBOUR ISLE,John W. Wright,,174900,174900,2020-10-16,2021-04-15,Trueblood Real Estate,James B. Trueblood
 21745036,,Residential,Single Fam,,Fenmore,Cynthia Taylor,,185,185000,2020-10-09,2021-02-10,Keller Williams Indy Metro S,Cynthia Taylor
@@ -2231,7 +2040,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21748974,,Residential,Single Fam,,10th,Fred Imhausen,,145900,145900,2020-10-26,2021-06-26,Keller Williams Indy Metro NE,Chiquita Watkins
 21740797,,Residential,Single Fam,,KENMORE,Martine Locke,,165000,159000,2020-09-23,2021-03-22,Plat Collective,Christopher Chaulk
 21744361,,Residential,Single Fam,,Society,Brian Livingston,,149900,147500,2020-10-06,2021-03-31,"Carpenter, REALTORS®",Alexa K. Merrill
-21729463,,Residential,Single Fam,,10th,Mark Roberts,,158900,154900,2020-08-02,2021-01-31,Janet L. Tucker REALTORS,Janet L. Tucker
 21745669,,Residential,Single Fam,,Walnut,Jacobi Perry,,165000,150000,2020-10-12,2021-03-12,"White Stag Realty, LLC",Christopher Hartwell
 21731553,,Residential,Single Fam,,Audubon,Courtney Lutz-Lauck,Kate Vannoy,159900,154900,2020-08-13,2021-08-14,"Christian Brothers Realty, LLC",Dave Ellis
 21755523,,Residential,Single Fam,,Valley Creek,Libby Somerville,Stevee Clifton,155000,155000,2020-12-05,2021-03-31,"2.0 Brokerage, LLC",Noah Bradtke - Litwack
@@ -3240,7 +3048,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21743751,,Residential,Single Fam,,Sharon,Trent Whittington,Maggie Mizell,184900,184900,2020-10-02,2021-02-02,Ferris Property Group,Jeremy Snyder
 21734172,,Residential,Single Fam,,Woodpointe,Kevin Hudoba,,179900,174900,2020-09-16,2021-03-16,Highgarden Real Estate,Petra Pavlic
 21749371,,Residential,Single Fam,,HIGHWOODS,James Embry,Brittany Jankowski,180000,180000,2020-11-02,2020-12-31,Keller Williams Indpls Metro N,James Embry
-21755540,,Residential,Single Fam,,Jack Pine,Mark Jones,,169900,169900,2020-12-01,2021-12-01,"Front Porch Real Estate, LLC",Lori Ann Meyer
 21742313,,Residential,Single Fam,,Orchid Bloom,Donte Samuel,,170000,175000,2020-09-25,2020-12-24,"Carpenter, REALTORS®",Geovia N. Balaba
 21740479,,Residential,Single Fam,,Raceway,Scott A. Wynkoop,,180000,175000,2020-09-24,2021-09-24,Ala Carte Realty,Julie Dongoski
 21745163,,Residential,Single Fam,,Sonnefield,Isaac Akinrinsola,,195000,175000,2020-10-10,2021-02-10,"Homeowners Realty, LLC",Liz M. Humphrey
@@ -3379,7 +3186,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21747080,,Residential,Condo,,MERIDIAN,Chanda Johnson,Murphy Hendy,285000,285000,2020-10-22,2021-04-30,Plat Collective,Ryan Stevens
 21734421,,Residential,Single Fam,,PACA,Dwayne Walters,,345000,329900,2020-08-21,2021-08-21,"Carpenter, REALTORS®",Deana S. Hawkins
 21755292,,Residential,Condo,,MERIDIAN,William Mitchell,,389000,389000,2020-11-30,2020-12-18,Sweetwater Realty LLC,Aaron Parris
-21743563,,Residential,Single Fam,,Yandes,Laura Booram,,1150,1150,2020-10-01,2021-04-01,Plat Collective,Laura Booram
 21749662,,Residential,Single Fam,,Stuart,Pamela A. Brown,,4999,4999,2020-10-29,2020-12-29,KRB Real Estate Professionals,Kim Rossbrown-Battles
 21673694,,Residential,Single Fam,,Denny,Bruce Baird,,12500,12500,2019-10-07,2021-10-07,"Renew Indianapolis, Inc.",Stephanie Quick
 21673018,,Residential,Single Fam,,Gladstone,Bruce Baird,,14500,13250,2019-10-03,2021-10-03,"Renew Indianapolis, Inc.",Bruce R. Baird
@@ -3796,7 +3602,6 @@ MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,Stree
 21736066,,Residential,Single Fam,,Villa,Erica Duncan,Amanda Benge,199500,179999,2020-08-31,2021-03-02,Trueblood Real Estate,Jamie L. Sargent
 21742688,,Residential,Single Fam,,Tabor,Nicholas Hensley,,174900,174900,2020-10-02,2021-04-02,Plat Collective,Ross Bemis
 21740015,,Residential,Single Fam,,Beechcrest,James N. Wood,,199900,199900,2020-09-19,2021-03-31,Red Oak Real Estate Group,Abigail E. Robeson
-21737851,,Residential,Single Fam,,Lexington,Thayer Hood,,199000,194500,2020-09-09,2021-02-10,IRIS Realty & Development,Jason Basso
 21737035,,Residential,Single Fam,,Ringgold,Nathan Baurley,,200000,200000,2020-09-04,2021-01-04,Keller Williams Indpls Metro N,Lisa F. Phillips
 21707347,,Residential,Single Fam,,English,Josh Patterson,,220000,212000,2020-04-30,2021-04-27,F.C. Tucker Company,Molly Hadley
 21742762,,Residential,Condo,,"LEXINGTON, #23",Kimberly Carpenter,Joshua Carpenter,219900,209000,2020-09-28,2020-12-31,Trueblood Real Estate,Joshua Carpenter
