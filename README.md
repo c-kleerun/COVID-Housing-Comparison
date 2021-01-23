@@ -1,4 +1,4 @@
-# COVID-Housing-Comparison
+# COVID-Housing-Comparison Project Proposal
 
 Our project is to uncover patterns between COVID-19 cases in Marion, Hancock, Johnson, Hamilton, Hendricks and Boone county Indiana residendential real-estate trends.  
 
