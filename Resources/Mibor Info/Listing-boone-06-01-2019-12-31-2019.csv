@@ -1,0 +1,828 @@
+MLSNumber,NewConstructionYN,PropertyType,PropertySubType,StreetNumberAlpha,StreetName,ListAgentFullName,CoListAgentFullName,OriginalListPrice,ListPrice,ListingContractDate,ExpirationDate,SellingOfficeName,SellingAgentFullName 
+21646745,,Residential,Single Fam,,Willow,Peter Stewart,,3222000,2999900,2019-06-17,,,
+21630016,,Residential,Single Fam,,Fitch,David Barker,,175000,175000,2019-03-30,2019-09-30,F.C. Tucker Company,Michelle Shepherd
+21662159,,Residential,Single Fam,,Pheasant,John O'Brien,Mary Jane O'Brien,185000,185000,2019-08-15,2019-11-15,F.C. Tucker Company,Michelle Shepherd
+21666133,,Residential,Condo,,Roanoke,Joseph W Cirillo,,185000,185000,2019-09-04,2020-01-01,Encore Sotheby's International,Sheri R. Putman
+21641315,,Residential,Condo,,DOMINION DR,Pam Potoczek,,184900,184900,2019-05-17,2019-11-30,"eXp Realty, LLC",Pam Potoczek
+21638960,,Residential,Single Fam,,LAKEVIEW,Scott A. Lindsay,,173900,173900,2019-05-09,2019-11-09,F.C. Tucker Company,Cindy Starks
+21668819,,Residential,Condo,,Roanoke,Cindy Starks,,189000,184900,2019-09-25,2019-12-25,Berkshire Hathaway Home,Jerry J. Alexander
+21643112,,Residential,Condo,,Norfolk,Lisa Antonacci,,185000,185000,2019-05-31,2019-11-29,F.C. Tucker Company,Mark A. Lopez
+21639542,,Residential,Single Fam,,WIMBLEDON,Barbara Wood,,179900,179900,2019-05-09,2019-11-09,Keller Williams Indy Metro S,James M. Robertson
+21673207,,Residential,Condo,,Dominion,Gina Becovitz,,184900,184900,2019-10-04,2020-04-01,F.C. Tucker Company,Gina Becovitz
+21675817,,Residential,Single Fam,,Pickwick,James Embry,,182900,182900,2019-10-23,2020-04-23,"Carpenter, REALTORS®",Amy Englert
+21625486,,Residential,Single Fam,,875,Jared Nelson,Justin Wade,215000,190000,2019-03-06,2019-09-05,F.C. Tucker Company,Will E. Lonnemann
+21640073,,Residential,Single Fam,,AMHERST,Lynda Lambert,John W. Bradley,189900,189900,2019-05-14,2019-11-11,RSW HOMES LLC,Andres Rodriguez
+21671607,,Residential,Condo,,Dominion,Michelle Shepherd,,199900,199900,2019-09-27,2020-03-27,CENTURY 21 Scheetz,Gary Angstadt
+21630370,,Residential,Condo,,Riley,Jeffrey Sheets,,200000,200000,2019-04-02,2019-10-02,F.C. Tucker Company,Joe A. Spate
+21670016,,Residential,Condo,,Richmond,Morgan Lathery,Douglas E Lathery,195000,195000,2019-09-19,2020-02-17,F.C. Tucker Company,Cindy Starks
+21652444,,Residential,Single Fam,,Wimbledon,Joshua Vida,,209900,204900,2019-07-03,2020-01-03,Berkshire Hathaway Home,Elizabeth Richardson
+21656607,,Residential,Single Fam,,Ford,Richard Collier,,209900,209900,2019-07-24,2019-12-24,"Carpenter, REALTORS®",Megan Deck
+21650841,,Residential,Single Fam,,Eaglewood,Janet Stitt,,229900,209900,2019-06-26,2019-12-26,CENTURY 21 Scheetz,Mark J. Branch
+21647649,,Residential,Single Fam,,SADDLETREE DR,Debra Wilson,Jeffrey R. Wilson,205000,205000,2019-06-17,2019-12-17,Redfin Corporation,Ryan M. Schramke
+21641976,,Residential,Condo,,Kelso,Jim L. Finefrock II,,210000,210000,2019-05-21,2019-10-31,States First Realty,Michelle Yi
+21653489,,Residential,Condo,,Kelso,Diana Elmore,,217999,214990,2019-07-10,2019-10-10,CENTURY 21 Scheetz,Laura H. Heigl
+21640506,,Residential,Single Fam,,Lakeview,Sarah R. Lukemeyer,,209000,209000,2019-05-14,2019-11-14,RE/MAX Ability Plus,Libby Cyman
+21676145,,Residential,Single Fam,,BERKSHIRE,John Carnell,,219000,219000,2019-10-24,2020-05-30,F.C. Tucker Company,Rita Taylor
+21647530,,Residential,Single Fam,,Amherst,Marianne Walker,Keri Schuster,220000,220000,2019-06-14,2019-12-15,F.C. Tucker Company,Keri Schuster
+21594867,,Residential,Single Fam,,Poplar,Larry Rasmussen,,235000,225000,2018-09-12,2019-11-29,CENTURY 21 Rasmussen Company,Larry Rasmussen
+21592470,,Residential,Single Fam,,Zion,Linda Burton,,239999,229999,2018-08-27,2019-09-30,F.C. Tucker Company,Todd Ferris
+21640841,,Residential,Single Fam,,Lancaster,Pam Jones,,221900,221900,2019-06-14,2019-09-30,CENTURY 21 Scheetz,Mandy Keller
+21651975,,Residential,Condo,,Kelso,Elizabeth Foley,,217500,217500,2019-07-02,2019-10-02,F.C. Tucker Company,Pegg Kennedy
+21648183,,Residential,Single Fam,,GLENWOOD TRACE,Bradford Elliott,,225000,225000,2019-06-20,2019-12-20,Keller Williams Zionsville,David F. Harting
+21638165,,Residential,Single Fam,,BRIARGATE,Jennifer Rumbaoa,,225000,225000,2019-05-03,2019-11-03,F.C. Tucker Company,Nicole Gardner
+21641353,,Residential,Single Fam,,Lancaster,Jason F. Hemmerling,,215000,215000,2019-05-17,2019-11-18,States First Realty,Michelle Yi
+21666011,,Residential,Condo,,Central,Clayton Gittus,,235000,235000,2019-09-05,2019-11-30,RE/MAX Advanced Realty,Jun Liu
+21675059,,Residential,Single Fam,,2ND ST,Matthew Reffeitt,Kristin Spiegel,215000,215000,2019-10-14,2019-11-14,F.C. Tucker Company,Linda S. Wilcox
+21640826,,Residential,Single Fam,,Whitestown,Mark A. Lopez,Louise C. Bergmann,225000,225000,2019-05-16,2019-11-16,"eXp Realty, LLC",Rodney W. Heard
+21644971,,Residential,Single Fam,,Amherst,J Anthony English,,217400,217400,2019-06-06,2019-11-06,"Costlow Real Estate, Inc.",Curtis E. Costlow
+21662671,,Residential,Condo,,Riley,Sarah Huff,Patti Haney Richey,232000,232000,2019-10-04,2020-04-04,Keller Williams Indy Metro NE,Kimberly R. Walsh
+21661259,,Residential,Single Fam,,Saddletree,Denise Fiore,Katie Hintz,229900,229900,2019-08-13,2020-02-12,"HomeXpert, Ray Stuck & Co.",Ray Stuck
+21650487,,Residential,Single Fam,,400,James Embry,,247500,239900,2019-07-02,2020-01-02,F.C. Tucker Company,Tracy Ridings
+21673784,,Residential,Single Fam,,Lexington,John R. Cogswell,,250000,240000,2019-10-09,2020-03-31,F.C. Tucker Company,Mickey J. Peek
+21661844,,Residential,Single Fam,,LANCASTER,Jeffrey Neal,,230000,230000,2019-08-13,2020-02-22,"Carpenter, REALTORS®",Jennifer Blandford
+21614760,,Residential,Single Fam,,Daugherty,Richard Collier,,242500,239900,2019-01-15,2019-07-15,CENTURY 21 Scheetz,Kim Lewis
+21649656,,Residential,Single Fam,,400,Natalie Clayton,,259900,259900,2019-06-21,2019-12-31,F.C. Tucker Company,Nicholas J. Laviolette
+21639950,,Residential,Single Fam,,Beverly,Donna L. Towns,,250000,250000,2019-05-10,2019-11-10,Keller Williams Indy Metro NE,Niki Fuller
+21641955,,Residential,Single Fam,,Kingsbury,Mark Lopez,Louise C. Bergmann,225000,225000,2019-05-23,2019-11-23,CENTURY 21 Scheetz,Kerry Miller
+21635421,,Residential,Single Fam,,Saylor,Matthew W. Urbanski,,239900,239900,2019-04-23,2019-12-31,Keller Williams Indpls Metro N,Todd M. Denkmann
+21652214,,Residential,Single Fam,,Abby,Russell Mathes,,240000,240000,2019-07-03,2020-01-04,"Values Driven Realty, Inc.",Katherine A. Ambrose
+21642896,,Residential,Single Fam,,Amherst,Jennifer O'Shea,,255000,249900,2019-05-24,2019-09-24,Keller Williams Lafayette,Jennifer O'Shea
+21659792,,Residential,Single Fam,,Canterbury,Mona Wolfe,,249900,245000,2019-08-07,2020-02-07,Berkshire Hathaway Home,Judi Bartley
+21660852,,Residential,Single Fam,,Lexington,Benjamin Jones,Elizabeth Lisa Jones,246000,246000,2019-09-12,2020-01-12,F.C. Tucker Company,Robbin N. Edwards
+21646713,,Residential,Single Fam,,875 E,Paula Henry,,249900,249900,2019-06-12,2019-11-06,CENTURY 21 Scheetz,Mike Scheetz
+21630414,,Residential,Condo,,Central,Elizabeth A. Michael,,250000,250000,2019-04-05,2019-10-31,Market Street Realty LLC,Jitender Sandadi
+21632465,,Residential,Single Fam,,Hunters Ridge N,Jeremy A. Page,,255000,255000,2019-04-23,2019-10-17,Keller Williams Indy Metro S,Craig L. DeBoor
+21663053,,Residential,Condo,,Central,Douglas Taylor,,265500,259900,2019-08-20,2020-04-30,Keller Williams Indy Metro W,Morgan L Lathery
+21659531,,Residential,Condo,,Central,Jason DeArman,Alex Hottle,262900,262900,2019-08-02,2020-02-02,Keller Williams Indpls Metro N,Praveena Velmurugaswamy
+21680967,,Residential,Single Fam,,Palomino,Loren Long,,253000,253000,2019-11-13,2019-12-31,CENTURY 21 Scheetz,Loren Long
+21647145,,Residential,Single Fam,,Nuthatch,Ashley Davidson,,249000,249000,2019-06-13,2019-11-30,F.C. Tucker Company,Will E. Lonnemann
+21655822,,Residential,Single Fam,,Canterbury,Fred Nelson,,270000,262000,2019-07-19,2019-12-31,CENTURY 21 Scheetz,Priya Bhargava
+21636715,,Residential,Single Fam,,IRONGATE,Diane Brooks,,259900,259900,2019-04-29,2019-10-29,Rise Real Estate,Ashley Paris
+21643848,,Residential,Single Fam,,Blue Jay,Sherri Bryant,Jennifer Lampen,275000,269900,2019-05-31,2019-11-30,"Carpenter, REALTORS®",Vinson Abraham
+21648289,,Residential,Single Fam,,Waterford,Alicia Buckley,,264900,264900,2019-06-25,2019-12-31,"Carpenter, REALTORS®",Megan Deck
+21645585,,Residential,Single Fam,,Yorkshire,Stephen W. Clark,,264900,264900,2019-06-06,2019-12-06,F.C. Tucker Company,Darla K. Spina
+21673141,,Residential,Condo,,Dominion,Lesa Furman,,285000,284900,2019-10-05,2019-12-05,United Real Estate Indpls,Evelyn N. Dunwoody
+21641840,,Residential,Single Fam,,Amherst,Sarah Ribolzi,,269000,269000,2019-05-24,2019-12-15,RE/MAX Ability Plus,Herbert Rice
+21652290,,Residential,Single Fam,,Canterbury,Fred Nelson,,270000,269900,2019-07-03,2019-10-30,"Carpenter, REALTORS®",Lauren Anthony
+21643760,,Residential,Single Fam,,Village,Andrea Ratcliff,,279900,274900,2019-05-31,2019-08-31,F.C. Tucker Company,Vikki Duke
+21643062,,Residential,Single Fam,,Concord,Stephen W. Clark,,269900,269900,2019-05-30,2019-11-30,"eXp Realty, LLC",Pam Potoczek
+21664084,,Residential,Single Fam,,Solomon Harmon,Douglas Martin,,299900,289900,2019-09-06,2020-03-06,Priority One Realty,Joseph W Cirillo
+21659104,,Residential,Single Fam,,Daugherty,Jordan Moody,,270000,270000,2019-07-31,2019-11-24,Encore Sotheby's International,Tracy Wright
+21658986,,Residential,Single Fam,,Lancaster,Loren Long,,274900,274900,2019-08-02,2020-02-07,F.C. Tucker Company,Shelly K Paddack
+21676178,,Residential,Single Fam,,Bliss,Chanda Johnson,Murphy Hendy,279900,279900,2019-10-21,2020-04-30,Plat Collective,Ryan Boyd
+21657979,,Residential,Single Fam,,4th,Susan B. Stayer,,320000,320000,2019-07-26,2020-01-31,F.C. Tucker Company,Mark A. Lopez
+21654836,,Residential,Single Fam,,Mulberry,Gary Angstadt,,279000,279000,2019-07-19,2020-01-19,CENTURY 21 Scheetz,Gary Angstadt
+21644492,,Residential,Single Fam,,6th,Robbin N. Edwards,Jane W. Louiso,299000,298000,2019-06-03,2019-12-31,CENTURY 21 Scheetz,Laura H. Heigl
+21658924,,Residential,Single Fam,,Daugherty,Diane Brooks,,285000,285000,2019-08-02,2020-02-02,"Carpenter, REALTORS®",Jennifer Blandford
+21652133,,Residential,Single Fam,,Waterford,Candace Fisk,,290000,290000,2019-07-06,2020-01-06,ERA Real Estate Links,Mike Deck
+21619794,,Residential,Single Fam,,Ford,Craig Olney,Kimberly A. Wilson,299000,289000,2019-02-21,2019-07-31,RE/MAX Advanced Realty,Angela Young
+21639394,,Residential,Single Fam,,DAUGHERTY,Curtis E. Costlow,,289900,286900,2019-05-17,2019-11-09,F.C. Tucker Company,Keri Schuster
+21614717,,Residential,Single Fam,,Hunters,Tommy Roylance,,300000,292000,2019-01-18,2019-07-15,Bina Real Estate,Bina Ahluwalia
+21639174,,Residential,Single Fam,,Lancaster,Todd Ferris,,284900,284900,2019-05-10,2019-11-09,F.C. Tucker Company,Will E. Lonnemann
+21637305,,Residential,Single Fam,,Balmoral,Loren Long,,289900,289900,2019-04-30,2019-10-30,F.C. Tucker Company,Sari Mandresh
+21644954,,Residential,Single Fam,,Roxbury,Mona Wolfe,,289900,289900,2019-08-01,2020-02-01,CENTURY 21 Scheetz,Laura H. Heigl
+21671572,,Residential,Single Fam,,Lakewood,Timothy Hardin,,294500,294500,2019-09-27,2020-03-27,"Carpenter, REALTORS®",Brad Chinn
+21613274,,Residential,Single Fam,,Burgin,Sherrie Schueth,,319900,299900,2019-01-05,2019-12-31,Keller Williams Indpls Metro N,Jennifer Stewart-Johnson
+21625623,,Residential,Single Fam,,Retriever,Michelle Powell,,395900,259200,2019-03-07,2020-02-28,JA Village Realty LLC,Jody Ashley
+21615305,,Residential,Single Fam,,Mulberry,Kristine Tennant,,299000,299000,2019-01-18,2019-05-16,Keller Williams Indpls Metro N,Jason Hess
+21622467,,Residential,Single Fam,,Ash,Lorene Edmunds,,325000,309000,2019-04-17,2019-08-31,Highgarden Real Estate,Lorene M. Edmunds
+21649533,,Residential,Single Fam,,Aldridge,Grace Whitlock,Brian Sanders,315000,299000,2019-06-21,2019-12-21,F.C. Tucker Company,Linda S. Wilcox
+21666358,,Residential,Single Fam,,Blue Jay,Kevin P. Elson,Mike Robinson,314900,299999,2019-09-05,2020-03-02,RE/MAX Ability Plus,Jayne Gauci
+21613713,,Residential,Single Fam,,Doyal,Marie Edwards,,307945,299900,2019-01-08,2020-01-31,"Values Driven Realty, Inc.",Melinda Chapman
+21647882,,Residential,Single Fam,,Lancaster,Chuck McCollum,,299900,300000,2019-06-18,2019-08-19,F.C. Tucker Company,Keri Schuster
+21665577,,Residential,Single Fam,,Yorkshire,Julianne Hurdle,,310000,300000,2019-09-03,2020-03-03,Keller Williams Indy Metro NE,Robert W. Sorrell
+21686794,,Residential,Single Fam,,Harvest Moon,Non-BLC Member,,305865,305865,2019-12-18,2019-12-23,"Carpenter, REALTORS®",Emily L. Humphrey
+21640055,,Residential,Single Fam,,Eagle Crescent,David Harting,Tonya Battee,342000,314900,2019-05-13,2019-11-30,RE/MAX Centerstone,David D. Piccolo
+21645163,,Residential,Single Fam,,Wedgetail,Timothy Hardin,,299900,299900,2019-06-05,2019-12-31,CENTURY 21 Scheetz,Jeannie Grant
+21633217,,Residential,Single Fam,,Silver Leaf,Sherri Bryant,,324900,314900,2019-04-16,2019-09-30,F.C. Tucker Company,Jan  Rhodes
+21665168,,Residential,Single Fam,,Yorkshire,Jennifer Rumbaoa,,350000,315000,2019-08-30,2020-02-29,"Russo Realty Group, LLC",Michele Russo
+21668531,,Residential,Single Fam,,Maple,Sheri R. Putman,Angela Battisti,310000,310000,2019-09-18,2020-03-18,CENTURY 21 Scheetz,Pam Jones
+21639711,,Residential,Single Fam,,Waterford,Denise Fiore,,325000,319900,2019-05-14,2019-11-13,"Carpenter, REALTORS®",Kristine Tennant
+21654583,,Residential,Single Fam,,Village Walk,Gary Roe,,324900,324900,2019-07-17,2020-01-17,CENTURY 21 Scheetz,Kim Lewis
+21632996,,Residential,Single Fam,,Woodhaven,Todd Sacksteder,,339900,329900,2019-04-30,2020-05-14,Encore Sotheby's International,Joseph Kempler
+21663084,,Residential,Single Fam,,Ringtail,Matthew Reffeitt,Trent J. Whittington,325000,325000,2019-08-20,2019-11-20,RE/MAX At The Crossing,Andrew Clyne
+21660928,,Residential,Single Fam,,Yorkshire,Joshua Vida,,324000,319000,2019-08-08,2020-02-08,F.C. Tucker Company,Kathy Cunningham
+21639996,,Residential,Single Fam,,Main,Jennifer Blandford,Ashley Davidson,320000,320000,2019-05-10,2019-11-09,United Real Estate Indpls,Ann M. Hall
+21637740,,Residential,Single Fam,,8th,Diane Brooks,,355000,333300,2019-06-01,2019-12-01,"Carpenter, REALTORS®",Megan Deck
+21650369,,Residential,Single Fam,,WEDGETAIL,Nicholas Laviolette,,349900,324500,2019-07-16,2020-01-17,RE/MAX Advanced Realty,Emily G. Brewer
+21638963,,Residential,Single Fam,,Village Walk,Stacy Snively,,319000,319000,2019-05-09,2019-11-08,"M.S. Woods Real Estate, LLC",Robert B. Sloan
+21647128,,Residential,Single Fam,,Crowley,Stephen W. Clark,Emily Kortepeter,335000,335000,2019-06-14,2019-12-13,CENTURY 21 Scheetz,Laura H. Heigl
+21675174,,Residential,Single Fam,,WATERFORD,Pam Jones,Donna Baker,339000,329900,2019-10-15,2020-04-14,RE/MAX Centerstone,Gina M. Ramirez
+21659965,,Residential,Single Fam,,Hawthorne,John O'Brien,Mary Jane O'Brien,350000,350000,2019-08-09,2020-02-09,F.C. Tucker Company,Todd Ferris
+21653413,,Residential,Single Fam,,Aldridge,J Anthony English,,349900,334900,2019-07-11,2020-01-11,"eXp Realty, LLC",Jason Alsup
+21614117,,Residential,Single Fam,,Peggy,Erika Frantz,Ashlea A. Stone,368990,339990,2019-01-10,2020-01-10,Front Porch Real Estate,Brenda Robidou
+21643672,,Residential,Single Fam,,Meadowview,Non-BLC Member,,336520,336520,2019-06-13,2019-06-14,"eXp Realty, LLC",Rodney W. Heard
+21590485,,Residential,Single Fam,,Doyal,Marie Edwards,,347900,336900,2018-08-20,2019-08-31,"Carpenter, REALTORS®",Susan Hodges
+21629728,,Residential,Single Fam,,Meadowview,Susan Crawford,,339900,339900,2019-03-29,2019-09-29,Berkshire Hathaway Home,Deborah J. Newman
+21674137,,Residential,Single Fam,,Primrose,Lesli Gibson,,344900,344900,2019-10-10,2020-04-30,Keller Williams Indy Metro NE,Aryca Woodson
+21643963,,Residential,Single Fam,,Chestnut Eagle,Bradford Rider,,339000,339000,2019-06-05,2019-12-05,Your Home Team,Corina Jones
+21666229,,Residential,Single Fam,,Marigold,Kristen N. Woodworth,,344000,339900,2019-09-20,2020-03-20,Keller Williams Zionsville,Jordan Moody
+21642979,,Residential,Single Fam,,New Hope,Kevin Elson,,339900,339900,2019-05-24,2019-08-24,F.C. Tucker Company,Benjamin White
+21638801,,Residential,Single Fam,,Parkdale,Tracy Wright,Thomas Wright,379000,355000,2019-05-10,2019-11-09,F.C. Tucker Company,Carl Vargas
+21662190,,Residential,Single Fam,,Sage,Non-BLC Member,,342885,342885,2019-08-16,2019-09-30,ERA Real Estate Links,Justin Steill
+21667162,,Residential,Condo,,Beekman,Traci Garontakos,,370000,370000,2019-09-12,2020-03-13,RE/MAX Ability Plus,Cathy J Richardson
+21666068,,Residential,Single Fam,,Main,Cindy Starks,,359900,359900,2019-09-19,2019-12-19,Non-BLC Office,Non-BLC Member
+21637335,,Residential,Single Fam,,Avedon,Mark Lopez,Louise C. Bergmann,355000,349900,2019-05-02,2019-11-02,F.C. Tucker Company,Mark A. Lopez
+21641051,,Residential,Single Fam,,Peggy,Erika Frantz,Ashlea A. Stone,360990,354990,2019-05-16,2019-11-14,Keller Williams Indpls Metro N,Praveena Velmurugaswamy
+21661611,,Residential,Single Fam,,Crabapple,Mike Scheetz,Melanie R. Scheetz,355565,348000,2019-08-13,2020-08-13,"Carpenter, REALTORS®",Richard A. Costello
+21641090,,Residential,Single Fam,,Ash,David Cronnin,,385000,375000,2019-05-17,2019-11-22,RE/MAX Results,Jennifer D. Laughner
+21638547,,Residential,Single Fam,,Crowley,Denise Fiore,Laurie B. Allen,350000,350000,2019-05-17,2019-11-23,F.C. Tucker Company,Todd Ferris
+21635993,,Residential,Single Fam,,Oak,Andrea Ratcliff,,350000,350000,2019-04-26,2019-07-31,CENTURY 21 Scheetz,Gary Angstadt
+21633513,,Residential,Single Fam,,Ringtail,Vern Carter,,368500,359900,2019-04-16,2019-10-14,Highgarden Real Estate,Rashelle Howe
+21622654,,Residential,Single Fam,,EAGLE POINT,Kristie Smith,Tracey O'Brien,365000,355000,2019-02-26,2019-11-26,F.C. Tucker Company,Douglas S. Martin
+21611953,,Residential,Single Fam,,Weeping Willow,Lisa Antonacci,,435000,399999,2018-12-21,2019-12-21,"Envoy Real Estate, LLC",Jim L. Finefrock II
+21635728,,Residential,Single Fam,,Farlin,Marie Edwards,,354900,354900,2019-04-23,2020-04-30,F.C. Tucker Company,Megan Ferris
+21652472,,Residential,Single Fam,,SEA EAGLE,Sherri Bryant,,364900,364900,2019-07-05,2020-01-31,CENTURY 21 Scheetz,Connie Hill
+21666372,,Residential,Single Fam,,Avedon,Henry Arias,,369000,364900,2019-08-24,2020-08-23,Armstrong Real Estate Brokerag,Scott Armstrong
+21667086,,Residential,Single Fam,,Burgin,Marie Edwards,,347505,354900,2019-09-10,2020-09-30,"Sunshine Realty, LLC","Guangsheng ""Michael"" Yang"
+21671665,,Residential,Single Fam,,Crowley,Cathy J Richardson,,375000,368000,2019-10-03,2020-03-03,Keller Williams Indy Metro NE,Thomas S. Corbett
+21665407,,Residential,Single Fam,,Stonewick,Denise Fiore,,365000,365000,2019-08-30,2019-09-30,CENTURY 21 Scheetz,Elizabeth A. Michael
+21656645,,Residential,Single Fam,,Ringtail,Matthew Kressley,,379900,359900,2019-08-02,2019-12-02,Trueblood Real Estate,Darcy A. Knott
+21656142,,Residential,Single Fam,,Williamsburg,Landa Matthews,,419900,399900,2019-08-13,2020-02-13,Kosene & Kosene Residential,Danny Bluestein
+21629827,,Residential,Single Fam,,Penn,Lannie Thompson,MaryAnn Kesler,360000,360000,2019-04-11,2019-10-11,CENTURY 21 Scheetz,Denise Fiore
+21630568,,Residential,Single Fam,,Flagstone,Rodney W. Heard,Colin Babbitt,364900,359900,2019-04-04,2019-10-04,NextHome Connection,Donald T. Kuroiwa
+21586412,,Residential,Single Fam,,Adler,Robert Heider,,385000,364900,2018-08-03,2019-09-05,RE/MAX Ability Plus,Bradford J. Rider
+21641641,,Residential,Single Fam,,Sedge,Sari Mandresh,,399900,369000,2019-05-20,2019-11-20,CENTURY 21 Scheetz,Loren Long
+21642947,,Residential,Single Fam,,Ringtail,David Harting,Tonya Battee,369900,369900,2019-05-24,2019-12-31,CENTURY 21 Scheetz,Pam Jones
+21632060,,Residential,Single Fam,,Solomon Harmon,Susan Ancona,,368000,364000,2019-04-15,2019-10-16,Redfin Corporation,Richard Ardaiolo
+21658659,,Residential,Single Fam,,Eagle Point,Megan Deck,,369900,369900,2019-08-09,2020-01-27,F.C. Tucker Company,Douglas S. Martin
+21648122,,Residential,Single Fam,,EAGLE LAKE,Rashelle Howe,,364900,364900,2019-06-24,2019-12-28,Coldwell Banker - Kaiser,Sean B. McDuffee
+21641062,,Residential,Single Fam,,Peggy,Erika Frantz,Ashlea A. Stone,371990,365990,2019-05-16,2019-11-13,Lifstyl Real Estate,Tim Reed
+21631562,,Residential,Single Fam,,Peggy,Erika Frantz,Ashlea A. Stone,384990,369990,2019-04-08,2020-04-08,Keller Williams Indpls Metro N,Praveena Velmurugaswamy
+21596529,,Residential,Single Fam,,Adler,Rodney Forrest,Kimberlee D. Forrest,409000,369000,2018-09-21,2019-09-23,Keller Williams Indy Metro NE,Eric Forney
+21670388,,Residential,Single Fam,,Ringtail,Kenneth R. Cary,,374900,374900,2019-09-20,2020-03-20,Trueblood Real Estate,Daniel Powell
+21637046,,Residential,Single Fam,,Keighley,Erika Frantz,Ashlea A. Stone,389990,389990,2019-04-29,2019-10-29,Keller Williams Indpls Metro N,Praveena Velmurugaswamy
+21688731,,Residential,Single Fam,,Burgin,Non-BLC Member,,369395,369395,2019-02-25,2020-02-05,F.C. Tucker Company,Will E. Lonnemann
+21638961,,Residential,Single Fam,,Burgin,Marie Edwards,,386480,379900,2019-05-07,2020-05-31,CENTURY 21 Scheetz,Amy Spillman
+21651273,,Residential,Single Fam,,Eagle Point,Richard Collier,,385000,379900,2019-06-28,2019-11-28,Berkshire Hathaway Home,Gita Kapur
+21654473,,Residential,Single Fam,,Sage,Mike Scheetz,Melanie R. Scheetz,374795,374795,2019-07-15,2020-07-15,Keller Williams Zionsville,Hannah Johanson
+21652362,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,409970,379970,2019-07-05,2020-07-05,F.C. Tucker Company,Peggy L. Kieper
+21691381,,Residential,Single Fam,,Burgin,Non-BLC Member,,373097,373097,2019-04-16,2020-02-29,RE/MAX Ability Plus,Donna Perry
+21638575,,Residential,Single Fam,,Chestnut Eagle,Arlene Janicki-Raby,,369000,369000,2019-05-07,2019-11-07,Keller Williams Indpls Metro N,Jason Hess
+21686359,,Residential,Single Fam,,Pembrooke,Mark A. Lopez,,374490,374490,2019-12-23,2019-12-27,F.C. Tucker Company,Mark A. Lopez
+21666023,,Residential,Single Fam,,Primrose,Jason Kraus,,374900,374900,2019-09-06,2020-03-06,"Stratton Realty Group, LLC",Bryan D. Bransteter
+21636940,,Residential,Single Fam,,Imperial Eagle,David Harting,Tonya Battee,365000,365000,2019-04-29,2019-10-31,"Carpenter, REALTORS®",Megan Deck
+21636720,,Residential,Single Fam,,Eagle Point,David Harting,Tonya Battee,407000,387500,2019-04-26,2019-10-31,Bina Real Estate,Bina Ahluwalia
+21615008,,Residential,Single Fam,,Carnegie,Erika Frantz,Ashlea A. Stone,393990,384990,2019-01-17,2019-07-17,F.C. Tucker Company,Leigh A Turner
+21642914,,Residential,Single Fam,,Farlin,Marie Edwards,,377918,376900,2019-05-24,2020-05-31,CENTURY 21 Scheetz,Amanda D. Speedy
+21652370,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,418185,388185,2019-07-05,2020-07-05,Non-BLC Office,Non-BLC Member
+21627099,,Residential,Single Fam,,Briarwood,Gavin Frost,,400000,390000,2019-03-15,2019-07-15,"Secure Home Estate, LLC",Yun She
+21645087,,Residential,Single Fam,,Brentwood,Joshua Vida,,384900,384900,2019-06-04,2019-12-04,Plat Collective,Lesli Gibson
+21625592,,Residential,Single Fam,,Greenthread,Douglas S. Martin,,399900,399900,2019-04-12,2019-10-12,"Carpenter, REALTORS®",Catherine A. Zappia
+21635048,,Residential,Single Fam,,Eagle Point,David Harting,Tonya Battee,385000,379000,2019-04-18,2019-10-31,"Jennings Real Estate, LLC",Wendy Jensen
+21644650,,Residential,Single Fam,,WILDWOOD,Sunny Burton Lane,,399900,379000,2019-06-03,2019-08-31,Coldwell Banker - Kaiser,Mark G. Hartman
+21650735,,Residential,Single Fam,,REGENTS PARK,Michelle Shepherd,,399900,399900,2019-07-12,2020-01-12,Non-BLC Office,Non-BLC Member
+21638641,,Residential,Single Fam,,Linden,Gary Angstadt,,409000,409000,2019-05-06,2019-06-15,CENTURY 21 Scheetz,Gary Angstadt
+21600978,,Residential,Single Fam,,Dusty Rose,Joshua Vida,,492739,492739,2018-10-12,2019-04-12,Non-BLC Office,Non-BLC Member
+21647702,,Residential,Single Fam,,Amber Stone,Donna Towns,,415000,390000,2019-06-17,2019-12-17,CENTURY 21 Scheetz,Pam Jones
+21668346,,Residential,Single Fam,,Pine,Leslie Cortopassi,Arta Xhako,399000,399000,2019-09-16,2020-03-16,F.C. Tucker Company,Leslie Cortopassi
+21626107,,Residential,Single Fam,,Solomon,David Harting,Tonya Battee,399000,389000,2019-03-09,2019-10-10,"Carpenter, REALTORS®",Jennifer Blandford
+21645168,,Residential,Single Fam,,Eagle Crescent,Vikki Duke,Keri Schuster,399000,392500,2019-06-06,2019-12-06,Berkshire Hathaway Home,Dick Richwine
+21631375,,Residential,Single Fam,,Brentwood,Stephanie Kirk,,389900,389900,2019-04-08,2019-06-10,Encore Sotheby's International,Jeff Carroll
+21660629,,Residential,Single Fam,,Briarwood,Sarah Ribolzi,,375000,375000,2019-08-13,2020-02-13,Encore Sotheby's International,Andrea Kelly
+21612480,,Residential,Single Fam,,Hardwick,Mike Scheetz,Melanie R. Scheetz,392680,388000,2018-12-28,2019-06-28,F.C. Tucker Company,Nicholas J. Laviolette
+21642799,,Residential,Single Fam,,Gray Eagle,Rashelle Howe,,395000,389900,2019-05-24,2019-11-25,CENTURY 21 Scheetz,Elisabeth A. Lugar
+21647359,,Residential,Single Fam,,Curlew,David F. Harting,Tonya Battee,400000,400000,2019-06-20,2019-12-31,F.C. Tucker Company,Jen Webster
+21641038,,Residential,Single Fam,,Solomon Harmon,Clay Burris,,393200,393200,2019-05-17,2019-11-17,Priority One Realty,Joseph W Cirillo
+21638000,,Residential,Single Fam,,Doyal,Marie Edwards,,395950,389900,2019-05-02,2020-05-31,"Sunshine Realty, LLC","Guangsheng ""Michael"" Yang"
+21655428,,Residential,Single Fam,,Weather Stone,Ashley Davidson,,410000,389999,2019-07-18,2019-11-30,"Indianapolis Homes Realty, LLC",Valerie Vaughn
+21650085,,Residential,Single Fam,,Windemere,Brian Rule,Amanda Strattman,409900,399900,2019-06-26,2019-12-26,Plat Collective,Timothy Boyls
+21646193,,Residential,Single Fam,,Fenwick,Sarah Ribolzi,,399000,399000,2019-06-12,2019-08-31,Rise Real Estate,Jonathan D. Bell
+21650304,,Residential,Single Fam,,Greenthread,Denise Fiore,Katie Hintz,399900,399900,2019-06-28,2019-12-24,CENTURY 21 Scheetz,Pam Jones
+21646782,,Residential,Single Fam,,BURGIN,Non-BLC Member,,395799,395799,2019-06-10,2019-12-10,Highgarden Real Estate,Richard K. Gillette
+21675738,,Residential,Single Fam,,Sage,Non-BLC Member,,397225,397225,2019-10-16,2019-11-30,Berkshire Hathaway Home,Steve Schooler
+21645802,,Residential,Single Fam,,Iris,Jennifer Blandford,Ashley Davidson,425000,399999,2019-06-07,2019-10-31,"Carpenter, REALTORS®",Adam R. Corya
+21631614,,Residential,Single Fam,,Weather Stone,Scott Hackman,,399000,399000,2019-04-17,2019-10-17,Redfin Corporation,Richard Ardaiolo
+21641595,,Residential,Single Fam,,Meadowview,Mary Boustani,,399900,399900,2019-06-06,2019-11-17,Coldwell Banker - Kaiser,Lisa M. Modisett
+21629983,,Residential,Single Fam,,Eagle Lake,Denise Fiore,Laurie B. Allen,399900,399900,2019-04-05,2019-07-04,CENTURY 21 Scheetz,Michael Botkin
+21596711,,Residential,Single Fam,,Keighley,Erika Frantz,Ashlea A. Stone,419800,399990,2018-09-20,2019-09-20,Keller Williams Indpls Metro N,Paige Morris
+21638017,,Residential,Single Fam,,Oak,Rodney Heard,Amanda Heard,549900,449000,2019-05-03,2019-11-03,F.C. Tucker Company,Amanda Hills
+21673693,,Residential,Single Fam,,Maple,Gary Angstadt,,405000,405000,2019-10-06,2019-12-31,CENTURY 21 Scheetz,Gary Angstadt
+21660027,,Residential,Single Fam,,EAGLE LAKE,Rashelle Howe,,405000,405000,2019-08-07,2020-01-08,Rise Real Estate,Scott White
+21664464,,Residential,Single Fam,,Brighton,Non-BLC Member,,404985,404985,2019-09-19,2019-09-20,"eXp Realty, LLC",Rodney W. Heard
+21631503,,Residential,Single Fam,,Iris,Kim Lewis,,419900,409900,2019-04-10,2019-10-10,CENTURY 21 Scheetz,Loren Long
+21640214,,Residential,Single Fam,,Patmore Ash,Mike Deck,Joel Vanags,435000,409900,2019-05-21,2019-11-21,Highgarden Real Estate,Sherri Bryant
+21637620,,Residential,Single Fam,,Morningside,Jennifer Blandford,Ashley Davidson,439000,425000,2019-05-01,2019-10-26,"Carpenter, REALTORS®",Megan Deck
+21642870,,Residential,Single Fam,,Lynn,Robbin Edwards,,525000,464900,2019-05-25,2019-11-25,F.C. Tucker Company,Matt King
+21642451,,Residential,Single Fam,,Trenton,John O'Brien,Mary Jane O'Brien,415000,415000,2019-05-28,2019-11-30,CENTURY 21 Scheetz,Kim Lewis
+21624101,,Residential,Single Fam,,Autumn,Nicole Lyon,,469000,435000,2019-03-05,2019-09-05,"Carpenter, REALTORS®",Janet Stitt
+21628678,,Residential,Single Fam,,Pebblepointe,Lisa Meulbroek,Chris T. Meulbroek,454999,425000,2019-03-23,2020-03-23,F.C. Tucker Company,Nicholas J. Laviolette
+21644592,,Residential,Single Fam,,Amber Stone,Christine Hendricks,,429900,429900,2019-06-04,2019-10-04,"Carpenter, REALTORS®",Michael Fisher
+21670031,,Residential,Single Fam,,Old Quarry,Jennifer Blandford,Joel Abney,448000,425000,2019-09-19,2019-11-30,F.C. Tucker Company,Robbin N. Edwards
+21687198,,Residential,Single Fam,,Weldra,Non-BLC Member,,428995,428995,2019-11-20,2020-05-20,Keller Williams Indy Metro NE,Drew Tomasik
+21637388,,Residential,Single Fam,,GREENTHREAD,Matt McLaughlin,,429900,429900,2019-05-03,2019-11-03,F.C. Tucker Company,Samuel T. Hawkins
+21656356,,Residential,Single Fam,,Flagstone,Michelle Shepherd,,429900,429900,2019-07-23,2019-11-23,Berkshire Hathaway Home,Craig West
+21646937,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,439680,439680,2019-06-14,2020-06-14,Keller Williams Indpls Metro N,Ryan Radecki
+21641726,,Residential,Single Fam,,Brookstone,William Jung,,449900,442900,2019-05-22,2019-11-22,"Carpenter, REALTORS®","Susan Weidner, GRI"
+21636985,,Residential,Single Fam,,1st Flight,Jennifer Brown,,439000,439000,2019-05-03,2019-09-30,F.C. Tucker Company,Elaina Musleh
+21644474,,Residential,Single Fam,,Redding,Will Lonnemann,,439000,439000,2019-06-02,2019-12-02,RE/MAX Ability Plus,Chuck McCollum
+21661943,,Residential,Single Fam,,Khaki,Jennifer Blandford,Ashley Davidson,499900,450000,2019-08-14,2020-02-13,CENTURY 21 Scheetz,Pam Jones
+21631378,,Residential,Single Fam,,Autumn Ash,Kristen N. Woodworth,,434900,434900,2019-04-08,2019-10-08,F.C. Tucker Company,Nicholas J. Laviolette
+21611849,,Residential,Single Fam,,Hardwick,Kristen Woodworth,,479900,439000,2018-12-27,2019-10-27,RE/MAX Legends Group,Jennifer Funkhouser
+21635782,,Residential,Single Fam,,Williamsburg,Pam Jones,Bryce Jones,439000,439000,2019-04-25,2019-10-31,Berkshire Hathaway Home,Gita Kapur
+21632160,,Residential,Single Fam,,Amos,Susan Ho,,450000,450000,2019-04-11,2019-10-10,CENTURY 21 Rasmussen Company,Susan Ho
+21662112,,Residential,Single Fam,,Windpointe,Mark Hartman,,448000,448000,2019-08-15,2020-02-15,F.C. Tucker Company,Michelle Shepherd
+21688627,,Residential,Single Fam,,Weldra,Non-BLC Member,,439745,439745,2019-02-27,2020-02-05,F.C. Tucker Company,Will E. Lonnemann
+21675316,,Residential,Single Fam,,Wildlife,Christopher G. Price,,440000,440000,2019-10-15,2020-04-15,RE/MAX Legends Group,Kory Kinder
+21659263,,Residential,Single Fam,,Shadow Rock,Stephen Clark,,460000,450000,2019-08-02,2020-02-02,"Carpenter, REALTORS®",Catherine A. Zappia
+21652983,,Residential,Single Fam,,Stonewick,Wendy Warthan,,449900,449900,2019-07-23,2019-11-23,"Instate Realty, LLC",Randy M. Williams
+21650641,,Residential,Single Fam,,Brookstone,Andrea Kelly,,449000,449000,2019-07-02,2020-01-02,"Terra Real EState, LLC",Mike Cole II
+21687700,,Residential,Single Fam,,Evergreen,Jason J. Kraus,,442240,442240,2019-12-31,2020-06-01,RE/MAX Advanced Realty,Jason J. Kraus
+21676350,,Residential,Single Fam,,Brighton,Non-BLC Member,,442296,442296,2019-10-23,2019-11-25,Keller Williams Indy Metro NE,Sarah R. Curry
+21636001,,Residential,Single Fam,,Carriage House,Jennifer Blandford,Ashley Davidson,469000,469000,2019-04-24,2019-10-04,F.C. Tucker Company,Peggy L. Kieper
+21629544,,Residential,Single Fam,,Old Quarry,Denise Fiore,Laurie B. Allen,480000,460000,2019-04-11,2019-10-09,"The Extra Mile Realty, LLC",Jason Miles
+21636193,,Residential,Single Fam,,Brookstone,Stephen W. Clark,Emily Kortepeter,450000,450000,2019-05-01,2019-10-25,Keller Williams Indpls Metro N,Stephen W. Clark
+21640736,,Residential,Single Fam,,Greenthread,Kim Lewis,,449900,449900,2019-05-15,2019-11-15,F.C. Tucker Company,Michael McCooey
+21658327,,Residential,Single Fam,,Huntington Woods,Aida Pierson,,449900,449900,2019-08-02,2020-02-19,Priority One Realty,Joseph W Cirillo
+21653329,,Residential,Single Fam,,Sixth,Terrence Rankin,,449900,449900,2019-07-12,2020-01-12,F.C. Tucker Company,Will E. Lonnemann
+21653303,,Residential,Single Fam,,HAWTHORNE,Gary Angstadt,,495000,475000,2019-07-11,2020-01-11,CENTURY 21 Scheetz,Jennifer Rumbaoa
+21646931,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,476180,457180,2019-06-14,2020-06-14,F.C. Tucker Company,Kyle Peckinpaugh
+21641279,,Residential,Single Fam,,Spring,Nancy Schulte,Paul Schulte,475000,455000,2019-05-30,2019-11-30,CENTURY 21 Scheetz,Pam Jones
+21640637,,Residential,Single Fam,,Valley View,Nicholas Laviolette,Sondra Laviolette,474747,474500,2019-05-16,2019-10-16,CENTURY 21 Scheetz,Laura H. Heigl
+21639713,,Residential,Single Fam,,Pebblepointe,Denise Fiore,Laurie B. Allen,450000,450000,2019-05-12,2019-11-16,F.C. Tucker Company,Keri Schuster
+21647616,,Residential,Single Fam,,Chatsworth,Non-BLC Member,,450720,450720,2019-06-18,2019-07-31,F.C. Tucker Company,Peggy L. Kieper
+21675243,,Residential,Single Fam,,Lower Garden,Kristen Cambridge,Tatum Hill,452000,452000,2019-10-15,2020-10-14,Central Indiana Real Estate LL,Nancy A. Dewbrew
+21622045,,Residential,Single Fam,,Old Quarry,Dick Richwine,Meighan Wise,470000,462000,2019-04-10,2019-10-18,Armstrong Real Estate Brokerag,Scott Armstrong
+21672349,,Residential,Single Fam,,Independence,Nicole Lyon,,465000,465000,2019-10-01,2020-01-30,CENTURY 21 Scheetz,Denise Fiore
+21678411,,Residential,Single Fam,,Weldra,Non-BLC Member,,460000,460000,2019-03-25,2019-10-31,CENTURY 21 Scheetz,Scott A. Lindsay
+21656005,,Residential,Single Fam,,Golden Willow,Mike Deck,,475000,475000,2019-07-22,2020-01-22,CENTURY 21 Scheetz,Pam Jones
+21647390,,Residential,Single Fam,,Blackstone,Mick Scheetz,Wanda D. Roland,489900,479900,2019-06-14,2019-10-14,CENTURY 21 Scheetz,Mike Clements
+21619486,,Residential,Single Fam,,Windpointe,Ronda Pollock,,469900,460000,2019-02-18,2019-08-18,RE/MAX Ability Plus,Sandra J. Busald
+21625417,,Residential,Single Fam,,ENGLISH,Jennifer Blandford,Ashley Davidson,515000,479900,2019-03-06,2019-08-30,F.C. Tucker Company,Michael B. Miller
+21554454,,Residential,Single Fam,,Kettering,Erika Frantz,Ashlea A. Stone,564990,469990,2018-03-26,2020-03-26,United Real Estate Indpls,McKenzie Cowan
+21651505,,Residential,Single Fam,,Stonington,Brittany Woods,,475000,475000,2019-06-30,2019-12-31,CENTURY 21 Scheetz,Loren Long
+21679449,,Residential,Single Fam,,Woodstock,Katherine L. James,,467900,467900,2019-11-06,2020-05-03,F.C. Tucker Company,Robbin N. Edwards
+21668276,,Residential,Single Fam,,Winter,John O'Brien,Mary Jane O'Brien,485000,475000,2019-09-18,2020-03-18,Keller Williams Indpls Metro N,Jennifer Goodspeed
+21628999,,Residential,Single Fam,,Patriot,Jeremy J. Long,Tod Trafelet,470000,470000,2019-03-30,2019-08-31,Redfin Corporation,Jill Thompson
+21575331,,Residential,Single Fam,,Kettering,Erika Frantz,Ashlea A. Stone,558990,469990,2018-06-19,2019-06-19,F.C. Tucker Company,Chase Deisler
+21679827,,Residential,Single Fam,,Chatsworth,Non-BLC Member,Krista Robinson,468235,468235,2019-10-18,2020-04-18,F.C. Tucker Company,Carl Vargas
+21643100,,Residential,Single Fam,,Austin Trace,Scott Armstrong,,499900,475000,2019-05-25,2019-11-25,Highgarden Real Estate,Carrie A. Holle
+21626592,,Residential,Single Fam,,Evergreen,Stephen W. Clark,,489900,479900,2019-03-13,2019-09-14,Keller Williams Indy Metro W,Kristin M. Schlesinger
+21676168,,Residential,Single Fam,,CREEKSTONE,Tiffany Dearman,,475000,475000,2019-10-27,2020-04-27,CENTURY 21 Scheetz,Pam Jones
+21664692,,Residential,Single Fam,,REGENTS PARK,Michael B. Miller,,515000,500000,2019-08-29,2020-02-29,RE/MAX Legends Group,Rick Fiege
+21659173,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,525750,499750,2019-08-02,2020-08-02,CENTURY 21 Scheetz,Katie Hintz
+21645279,,Residential,Single Fam,,Briarwood,Non-BLC Member,,475000,475000,2019-06-05,2019-06-30,Keller Williams Zionsville,Dennis Barrow
+21638489,,Residential,Single Fam,,Thicket,Dick Richwine,Meighan Wise,539000,515000,2019-05-03,2019-09-30,RE/MAX Centerstone,Shea L. Duymovic
+21636663,,Residential,Single Fam,,Woods Edge,Dick Richwine,Meighan Wise,475000,475000,2019-04-29,2019-10-29,Berkshire Hathaway Home,John Phelan
+21632136,,Residential,Single Fam,,Continental,Rachel Ashcraft,Laurel A. Moses,620000,499000,2019-04-10,2019-12-31,F.C. Tucker Company,John O'Brien
+21601727,,Residential,Single Fam,,Evergreen,Mike Scheetz,Melanie R. Scheetz,475000,475000,2018-10-17,2019-10-17,CENTURY 21 Scheetz,Sharon Bulmann
+21585187,,Residential,Single Fam,,Kettering,Erika Frantz,Ashlea A. Stone,524990,479990,2018-07-31,2019-07-29,"eXp Realty, LLC",Rodney W. Heard
+21636893,,Residential,Single Fam,,Brentwood,Benjamin Jones,Elizabeth Lisa Jones,490000,490000,2019-05-06,2019-11-06,"Carpenter, REALTORS®",Joel Abney
+21662526,,Residential,Single Fam,,Blackstone,Stacey Sobczak,,490000,490000,2019-08-22,2019-11-22,Encore Sotheby's International,Lauren Masur
+21663277,,Residential,Single Fam,,Hardwick,Non-BLC Member,,480505,480505,2019-08-21,2019-08-22,F.C. Tucker Company,Jeremy Sandlin
+21622275,,Residential,Single Fam,,Evergreen,Mike Scheetz,Melanie R. Scheetz,485000,485000,2019-02-22,2020-02-22,Keller Williams Indpls Metro N,Jason Hess
+21652346,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,499165,489460,2019-07-05,2020-07-05,F.C. Tucker Company,Lynn Wheeler
+21666529,,Residential,Single Fam,,Sugar Pine,Mike Scheetz,Melanie R. Scheetz,524990,500000,2019-09-06,2020-09-06,RE/MAX Ability Plus,Jennil Salazar
+21608232,,Residential,Single Fam,,Creekstone,Gary Swift,,530000,512500,2018-12-21,2019-06-21,Keller Williams Indpls Metro N,Stacy Snively
+21686420,,Residential,Single Fam,,Lemberger,Non-BLC Member,Amanda Heard,488970,488970,2019-12-17,2019-12-18,"eXp Realty, LLC",Rodney W. Heard
+21639668,,Residential,Single Fam,,Windpointe,Laura H. Heigl,Christine Scarchilli,489000,485000,2019-05-10,2019-11-30,"Equity Management Services, LL",Lindsay Adams
+21668769,,Residential,Single Fam,,Sugar Pine,Pam Jones,,499000,499000,2019-09-27,2020-03-27,Vision One Real Estate,Jeffrey A. Boller
+21642383,,Residential,Single Fam,,Morningside,Sarah Ribolzi,,490000,490000,2019-05-24,2019-11-24,ERA Real Estate Links,Allen R. Williams
+21633292,,Residential,Single Fam,,Williamsburg,Erin Wilson,Robbin N. Edwards,499000,499000,2019-04-26,2019-10-26,F.C. Tucker Company,Nancy Starke
+21663799,,Residential,Single Fam,,Wood Duck,Joshua Vida,,499000,499000,2019-08-22,2020-02-22,Weichert REALTORS® Cooper Grou,Ronda R.Cooper
+21628525,,Residential,Single Fam,,Rocky Cay,Kathy Wood,,510000,497000,2019-03-29,2019-09-29,Keller Williams Indy Metro W,Matthew Reffeitt
+21652350,,Residential,Single Fam,,Weldra,Denise Fiore,Katie Hintz,508345,499345,2019-07-05,2020-07-05,Non-BLC Office,Non-BLC Member
+21622085,,Residential,Single Fam,,Maxwell,Pam Jones,Donna Baker,525000,525000,2019-02-22,2019-08-23,F.C. Tucker Company,Jason R. DeArman
+21672041,,Residential,Single Fam,,Summersong,Andy Tresize,,499900,499900,2019-10-08,2020-04-08,CENTURY 21 Scheetz,Trina Einterz
+21676135,,Residential,Single Fam,,Evergreen,Mike Scheetz,Melanie R. Scheetz,510000,510000,2019-10-23,2020-04-23,Keller Williams Indpls Metro N,Steven A. Rupp
+21633689,,Residential,Single Fam,,Irishmans Run,John R. Stewart,Shannon McNulty,599900,575000,2019-04-17,2019-10-17,F.C. Tucker Company,Jaime Hensley
+21678439,,Residential,Single Fam,,Dusty Rose,Mark Nottingham,Tatum Hill,501000,501000,2019-10-28,2020-04-28,Non-BLC Office,Non-BLC Member
+21662482,,Residential,Single Fam,,Evergreen,Mike Scheetz,Melanie R. Scheetz,499000,499000,2019-08-15,2020-08-15,Non-BLC Office,Non-BLC Member
+21671904,,Residential,Single Fam,,Valley Meadow,Richard Schulte,,519000,519000,2019-10-16,2020-05-31,F.C. Tucker Company,John O'Brien
+21654441,,Residential,Single Fam,,Turkey Foot,Stacy Barry,,529900,529900,2019-07-17,2020-01-17,Berkshire Hathaway Home,Gurpartap Gill
+21668774,,Residential,Single Fam,,Foxtail,Non-BLC Member,,508850,508850,2019-04-10,2019-09-30,CENTURY 21 Scheetz,Denise Fiore
+21666574,,Residential,Single Fam,,Benderfield,Stacy Snively,,574900,539900,2019-09-25,2020-03-25,F.C. Tucker Company,Leslie Cortopassi
+21675063,,Residential,Single Fam,,Oakley,Non-BLC Member,,510710,510710,2019-03-17,2019-10-26,TrilogyBSI,Michael A. Schmidt
+21665233,,Residential,Single Fam,,Sunrise,Nicholas J. Laviolette,,524900,522500,2019-09-04,2020-03-04,Plat Collective,Kelly Lavengood
+21637998,,Residential,Single Fam,,Autumn,Nathan Perdue,,517000,517000,2019-05-09,2019-08-31,Keller Williams Indy Metro NE,Amy W. Corey
+21654885,,Residential,Single Fam,,Pebblepointe,Denise Fiore,Katie Hintz,525000,525000,2019-07-17,2020-01-16,F.C. Tucker Company,Linda Freeman
+21646646,,Residential,Single Fam,,COBBLESTONE,Kristie M. Smith,,515000,515000,2019-06-12,2020-03-12,Plat Collective,Kristen Cambridge
+21643364,,Residential,Single Fam,,Clarkston,Non-BLC Member,,518000,518000,2019-06-03,2019-06-10,CENTURY 21 Scheetz,Kim Lewis
+21627207,,Residential,Single Fam,,Austin,Nicholas J. Laviolette,,534500,534500,2019-03-27,2019-09-27,Luxcity Realty,Sara Parker Thoe
+21584511,,Residential,Single Fam,,Woods Edge,Nancy Warfield,,564900,529900,2018-07-27,2019-06-30,F.C. Tucker Company,Brent Andrews
+21642982,,Residential,Single Fam,,Beekman,Robert Slawson,,524900,524900,2019-05-24,2020-05-24,F.C. Tucker Company,John O'Brien
+21670616,,Residential,Single Fam,,STONEGATE,Cathy J Richardson,,550000,550000,2019-09-23,2019-10-31,RE/MAX Ability Plus,Cathy J Richardson
+21644707,,Residential,Single Fam,,875,Andrew Neal,John Wright,650000,550000,2019-06-03,2019-12-03,CENTURY 21 Scheetz,Laura H. Heigl
+21629496,,Residential,Single Fam,,Austin Trace,Zoe Moore,,525000,525000,2019-04-03,2019-10-03,F.C. Tucker Company,Benjamin Jones
+21642046,,Residential,Single Fam,,Brookstone,Jayne Gauci,Matthew P. Sponaugle,529000,529000,2019-05-21,2019-11-20,Coldwell Banker - Kaiser,Mark G. Hartman
+21647138,,Residential,Single Fam,,Austin,Joshua W. Moss,Christopher Hawkins,530000,530000,2019-06-14,2019-12-15,F.C. Tucker Company,Darcy Miller
+21637586,,Residential,Single Fam,,Independence,Justin Steill,Sarah D. Moore,569900,549900,2019-05-01,2019-12-31,F.C. Tucker Company,Todd Ferris
+21632898,,Residential,Single Fam,,Holiday,Robbin Edwards,,535000,535000,2019-04-16,2019-08-27,F.C. Tucker Company,John O'Brien
+21630838,,Residential,Single Fam,,Sugarbush,Mindy Nicolet,,565000,565000,2019-04-15,2019-10-15,Encore Sotheby's International,Sarah Ribolzi
+21658325,,Residential,Condo,,Aspen,Aida Pierson,,600000,549900,2019-08-01,2020-02-29,Encore Sotheby's International,Tracy Wright
+21638548,,Residential,Single Fam,,Stonington,James Miller,,549000,549000,2019-05-08,2019-11-08,"Front Porch Real Estate, LLC",Marcia Lasiter
+21672573,,Residential,Single Fam,,Sandstone,Robbin N. Edwards,Zoe Moore,550000,550000,2019-10-06,2020-04-06,Integrity Home Realty,Michele Marsh
+21655143,,Residential,Single Fam,,Oak Ridge,Denise Fiore,Katie Hintz,550000,550000,2019-08-01,2019-12-24,CENTURY 21 Scheetz,Zachary Williams
+21647536,,Residential,Single Fam,,Wildlife,Andrea Kelly,,569000,569000,2019-06-19,2019-12-19,"Carpenter, REALTORS®",Mary Anne Ehrgott
+21631676,,Residential,Single Fam,,Fox Hollow,Petra Pavlic,,575000,575000,2019-04-11,2019-06-07,BluPrint Real Estate Group,Summer Thomas
+21680090,,Residential,Single Fam,,HANOVER CLOSE,Judy A. Wothke,,554000,554000,2019-09-09,2019-11-06,F.C. Tucker Company,John O'Brien
+21601802,,Residential,Single Fam,,Conifer,Mike Scheetz,Melanie R. Scheetz,561120,565000,2018-10-17,2019-10-17,F.C. Tucker Company,Ginny Purdy-Paskoff
+21645362,,Residential,Single Fam,,MULSANNE,Bret Reinhardt,,675000,645000,2019-06-05,2019-12-06,F.C. Tucker Company,Michael R. Johnson
+21637006,,Residential,Single Fam,,Sugar Cay,Loretta M. Broeking,,564900,564900,2019-05-03,2019-08-03,"Brooklyn Realty Group, LLC",William Jung
+21654318,,Residential,Single Fam,,950,Denise Fiore,Katie Hintz,599900,599900,2019-07-19,2020-01-18,"eXp Realty, LLC",Jason Alsup
+21665303,,Residential,Single Fam,,Lower Garden,Non-BLC Member,,437287,562287,2018-10-19,2019-09-30,CENTURY 21 Scheetz,Valerie Hooton
+21636139,,Residential,Single Fam,,Forest,Scott L. Uebele,Maryn Pryor,575000,575000,2019-04-23,2019-10-25,Berkshire Hathaway Home,Jim Reed
+21651507,,Residential,Single Fam,,Cambridge,Denise Fiore,Katie Hintz,575000,575000,2019-07-03,2020-01-03,D. Braun & Company,Glenda Stauske
+21636272,,Residential,Single Fam,,Fox Hollow,Carol Schuler,,576300,576300,2019-04-26,2019-07-25,Keller Williams Indpls Metro N,Arlene Janicki-Raby
+21667140,,Residential,Single Fam,,FOX HOLLOW,Carol Schuler,,579000,579000,2019-09-11,2020-03-11,F.C. Tucker Company,Nicholas J. Laviolette
+21643173,,Residential,Single Fam,,Hickory,Non-BLC Member,,580000,580000,2019-06-27,2019-07-27,CENTURY 21 Scheetz,Kim Lewis
+21641920,,Residential,Single Fam,,Antler,Nicholas J. Laviolette,Sondra Laviolette,595959,595959,2019-05-23,2020-05-24,CENTURY 21 Scheetz,Kim Lewis
+21618605,,Residential,Single Fam,,Cambridge,Kenwyn Kealing,,650000,599000,2019-02-26,2019-08-26,RE/MAX Edge,Nicole Witt
+21636609,,Residential,Single Fam,,Woods Edge,James G. Schlueter,,624500,610000,2019-04-30,2019-11-01,F.C. Tucker Company,Mandi J. Cheesman
+21678140,,Residential,Single Fam,,Oakley,Marie Edwards,,594123,594123,2019-10-29,2020-10-31,Non-BLC Office,Non-BLC Member
+21668841,,Residential,Single Fam,,Aberdeen,Erika Frantz,Ashlea A. Stone,599999,599999,2019-09-18,2020-03-17,Keller Williams Indy Metro S,Joshua W. Moss
+21668665,,Residential,Single Fam,,Aberdeen,Erika Frantz,Ashlea A. Stone,599999,599999,2019-09-18,2020-03-18,Keller Williams Indy Metro NE,Kristie M. Smith
+21655945,,Residential,Single Fam,,Chapel,Marji Legault,,610000,610000,2019-07-22,2019-12-31,Encore Sotheby's International,Sarah Ribolzi
+21638532,,Residential,Single Fam,,Fox Hollow,Petra Pavlic,,649500,619900,2019-05-09,2019-10-18,F.C. Tucker Company,Bradley B. Donaldson
+21629669,,Residential,Single Fam,,Silver Wraith,Tracy Ridings,,600000,600000,2019-05-15,2019-09-15,Keller Williams Indpls Metro N,Stephen W. Clark
+21643502,,Residential,Single Fam,,MULSANNE,Robert Lather,,594900,594900,2019-05-29,2019-08-01,F.C. Tucker Company,Nicholas J. Laviolette
+21626043,,Residential,Single Fam,,575,Denise Fiore,Laurie B. Allen,598000,598000,2019-03-13,2019-09-12,CENTURY 21 Scheetz,Elizabeth A. Michael
+21637919,,Residential,Single Fam,,Mulsanne,John O'Brien,Mary Jane O'Brien,639000,599900,2019-05-13,2019-11-13,F.C. Tucker Company,John O'Brien
+21645892,,Residential,Single Fam,,Wildlife,Megan Deck,,635000,614900,2019-06-09,2019-12-07,The Stewart Home Group,Wendy Warthan
+21623929,,Residential,Single Fam,,Stonegate,Traci Garontakos,,625000,625000,2019-03-05,2019-08-25,Encore Sotheby's International,Traci Garontakos
+21659406,,Residential,Single Fam,,Kettering,Marie Edwards,,548832,624550,2019-08-02,2020-08-31,RE/MAX Ability Plus,Susan Lehmann
+21647014,,Residential,Single Fam,,Camargue,Zoe Moore,,618000,618000,2019-06-18,2019-12-18,Redfin Corporation,Richard Ardaiolo
+21638166,,Residential,Single Fam,,PEBBLEPOINTE PASS,Peter Knight,,624900,624900,2019-05-03,2019-11-03,ERA Real Estate Links,James Miller
+21623071,,Residential,Single Fam,,FOX HOLLOW,Pam Jones,,619500,619500,2019-04-09,2019-07-31,Keller Williams Indpls Metro N,Stephen W. Clark
+21640975,,Residential,Single Fam,,Bradfield,Laura Heigl,Christine Scarchilli,650000,650000,2019-05-16,2019-11-29,CENTURY 21 Scheetz,Laura H. Heigl
+21654774,,Residential,Single Fam,,Foxtail,Lisa Meulbroek,Chris T. Meulbroek,649900,635000,2019-07-17,2020-07-17,F.C. Tucker Company,Nicholas J. Laviolette
+21670969,,Residential,Single Fam,,Oxford,Marie Edwards,,631512,631512,2019-09-25,2020-09-30,Non-BLC Office,Non-BLC Member
+21633734,,Residential,Single Fam,,Chapel,Carol Schuler,,749000,674000,2019-04-18,2019-10-11,Value Realty Services LLC,Wendy Zhang
+21671528,,Residential,Single Fam,,Sugar Pine,Mike Scheetz,Melanie R. Scheetz,699000,665000,2019-09-26,2020-09-26,F.C. Tucker Company,Robbin N. Edwards
+21645761,,Residential,Single Fam,,SUNSET,Kristie M. Smith,,649990,649990,2019-06-09,2020-02-10,F.C. Tucker Company,Benjamin Jones
+21647872,,Residential,Single Fam,,Chapel Crossing,Carl Vargas,,669900,659900,2019-06-19,2019-12-19,F.C. Tucker Company,Fred Krawczyk
+21643343,,Residential,Single Fam,,Westminster,Sarah Ribolzi,,685000,685000,2019-05-28,2019-11-22,Highgarden Real Estate,Rashelle Howe
+21624220,,Residential,Single Fam,,6th,Nicholas Laviolette,Sondra Laviolette,775000,699000,2019-03-08,2019-09-08,Non-BLC Office,Non-BLC Member
+21656201,,Residential,Single Fam,,Cedar,Megan Deck,,725000,699900,2019-07-22,2020-01-15,F.C. Tucker Company,Nicholas J. Laviolette
+21639965,,Residential,Single Fam,,Walton Cres,Pam Jones,,699000,675000,2019-05-13,2019-11-29,F.C. Tucker Company,Nicholas J. Laviolette
+21630979,,Residential,Single Fam,,Linden,Gary Angstadt,,724900,699000,2019-04-05,2019-09-05,F.C. Tucker Company,Melissa J. Vurpillat
+21628219,,Residential,Single Fam,,Willow Bend,Leonardo Johnson,,734900,699999,2019-03-23,2019-08-25,"eXp Realty, LLC",Tiffany Dearman
+21622551,,Residential,Single Fam,,Willow Bend,Denise Fiore,Laurie B. Allen,700000,700000,2019-03-01,2019-08-25,CENTURY 21 Scheetz,Anna Coats
+21668501,,Residential,Single Fam,,Ash,Libby Somerville,,750000,725000,2019-09-17,2020-03-12,CENTURY 21 Scheetz,Anna Coats
+21636948,,Residential,Single Fam,,Deerfield,Non-BLC Member,,687805,687805,2019-04-29,2019-09-30,RE/MAX Centerstone,David D. Piccolo
+21604273,,Residential,Single Fam,,Walton Cres,Pam Jones,,775000,739000,2018-10-26,2019-10-30,CENTURY 21 Scheetz,Pam Jones
+21629664,,Residential,Single Fam,,PARK,Vinson Abraham,,725000,725000,2019-04-04,2019-10-11,"Carpenter, REALTORS®",Megan Deck
+21674383,,Residential,Single Fam,,HAWTHORNE,Gary Angstadt,,749000,749000,2019-10-11,2020-04-11,F.C. Tucker Company,Zoe Moore
+21629165,,Residential,Single Fam,,Pine,Mark A. Lopez,Louise C. Bergmann,775000,775000,2019-04-09,2019-10-09,CENTURY 21 Scheetz,Denise Fiore
+21625374,,Residential,Single Fam,,Westminster,Tracy Wright,Diane Muench,750000,725000,2019-03-10,2020-03-10,F.C. Tucker Company,Amanda Hills
+21648128,,Residential,Single Fam,,3rd,Paula Hardin,,779000,759000,2019-06-19,2019-12-19,F.C. Tucker Company,Nicole Lyon
+21643906,,Residential,Single Fam,,Regents Park,Tracy Wright,Thomas Wright,799000,775000,2019-06-03,2019-11-30,F.C. Tucker Company,Brian Rule
+21637800,,Residential,Single Fam,,FOX TRACE,Kasey Ferguson,,759000,759000,2019-05-01,2019-11-01,F.C. Tucker Company,Teri Apple
+21658595,,Residential,Single Fam,,Deerfield,Christopher Schrader,,739900,739900,2019-07-31,2020-07-31,Encore Sotheby's International,Melinda Garcia
+21648098,,Residential,Single Fam,,Russell Lake,Sheri Coldren,Gary Weiderhaft,775000,775000,2019-06-19,2020-06-19,F.C. Tucker Company,Kelly C. Todd
+21632420,,Residential,Single Fam,,Promontory,Scott L. Uebele,Maryn Pryor,775000,775000,2019-04-15,2019-10-15,Joseph A. Logan,Joe Logan
+21629341,,Residential,Single Fam,,Carriage House,Traci Garontakos,,799000,790000,2019-03-28,2019-09-28,"Carpenter, REALTORS®",Jamie Hall
+21655139,,Residential,Single Fam,,Deerfield,Non-BLC Member,,706780,706780,2019-07-18,2019-08-18,F.C. Tucker Company,Sue R. Lerchen
+21594864,,Residential,Single Fam,,Kettering,Marie Edwards,,798000,800000,2018-09-11,2020-09-30,CENTURY 21 Scheetz,Brian Sanders
+21627243,,Residential,Single Fam,,Kettering,Nicholas J. Laviolette,Sondra Laviolette,799500,799500,2019-04-10,2019-10-10,F.C. Tucker Company,Nicholas J. Laviolette
+21670024,,Residential,Single Fam,,Deerfield,Christopher C. Schrader,,788769,788769,2019-02-17,2020-02-17,Trueblood Real Estate,Brian Black
+21639597,,Residential,Single Fam,,Willow Bend,Tracey L. Dufek,,814000,814000,2019-05-10,2019-08-09,F.C. Tucker Company,Vikki Duke
+21643915,,Residential,Single Fam,,Willow Ridge,Nicholas Laviolette,Sondra Laviolette,824500,824500,2019-05-31,2019-11-30,Encore Sotheby's International,Lauren Masur
+21648377,,Residential,Single Fam,,525,Robbin N. Edwards,,849000,849000,2019-06-21,2019-12-20,CENTURY 21 Scheetz,Denise Fiore
+21653511,,Residential,Single Fam,,St. Lawrence,Dick Richwine,Meighan Wise,860000,860000,2019-07-12,2020-01-12,Encore Sotheby's International,Traci Garontakos
+21671509,,Residential,Single Fam,,Huddersfield,Nicholas J. Laviolette,Sondra Laviolette,849900,849900,2019-10-07,2020-04-07,Keller Williams Indy Metro NE,Sheri Coldren
+21645707,,Residential,Single Fam,,Winterspring,Stacey Sobczak,,875000,860000,2019-06-17,2019-09-14,F.C. Tucker Company,Susan Brandon
+21659549,,Residential,Single Fam,,875,Nicole Lyon,,875000,875000,2019-08-02,2019-11-02,F.C. Tucker Company,William D. Beal
+21635375,,Residential,Single Fam,,Bent Tree,Mike Clements,,899990,899990,2019-04-24,2019-10-24,Homesmart Realty Group,Peter Knight
+21649930,,Residential,Single Fam,,Kettering,Marie Edwards,,907149,907149,2019-06-25,2020-06-30,Keller Williams Indy Metro W,Gloria Gear
+21650964,,Residential,Single Fam,,WILLOW RIDGE,Kristie Smith,,1099990,1050000,2019-06-28,2020-06-26,F.C. Tucker Company,Kristen N. Woodworth
+21637066,,Residential,Single Fam,,300,John O'Brien,Mary Jane O'Brien,1195000,1195000,2019-05-13,2019-11-13,"eXp Realty, LLC",Rodney W. Heard
+21628278,,Residential,Single Fam,,775,Denise Fiore,Katie Hintz,1395000,1250000,2019-03-22,2020-03-21,F.C. Tucker Company,Elaina Musleh
+21672765,,Residential,Single Fam,,WILLOW BEND,Kristie M. Smith,Tracey O'Brien,1150000,1150000,2019-10-07,2020-07-07,Encore Sotheby's International,Traci Garontakos
+21526904,,Residential,Single Fam,,Stonegate,Eric Williams,,1299000,1199999,2017-12-01,2019-12-01,Keller Williams Indy Metro NE,Kristie M. Smith
+21664204,,Residential,Single Fam,,Elm,Tracy Wright,Thomas Wright,1495000,1495000,2019-08-27,2020-08-26,Keller Williams Indy Metro NE,Rebecca Phillips
+21628921,,Residential,Single Fam,,550,Larry Rasmussen,,2495000,2495000,2019-03-26,2019-09-26,ERA Real Estate Links,Mike Deck
+21639189,,Residential,Single Fam,,Huddersfield,Ted Butz,Bif Ward,2240000,2240000,2019-05-08,2019-11-08,F.C. Tucker Company,Matt McLaughlin
+21679885,,Residential,Single Fam,,LOST RUN,Kristie M. Smith,,3800000,3800000,2019-10-19,2020-07-19,CENTURY 21 Scheetz,Stephen Decatur
+21663107,,Residential,Single Fam,,750,Denesa Webber,,190000,190000,2019-08-20,2020-02-19,Keller Williams Zionsville,Kevin Hudoba
+21650656,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,205432,205432,2019-06-26,2019-07-17,CENTURY 21 Scheetz,John Watson
+21659227,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,221918,221918,2019-08-01,2019-08-15,"Ridgeline Realty, LLC",Matthew Kraiger
+21667401,,Residential,Single Fam,,Brandywine,Matthew Kraiger,,227748,227748,2019-09-11,2019-09-30,CENTURY 21 Scheetz,John T. Creamer
+21671534,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,228990,228990,2019-09-26,2020-09-30,Keller Williams Indpls Metro N,Lisa Antonacci
+21642367,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,231990,231990,2019-05-22,2020-05-22,CENTURY 21 Scheetz,Denise Fiore
+21667386,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,239852,239852,2019-09-11,2019-09-30,"Ridgeline Realty, LLC",Matthew Kraiger
+21678726,,Residential,Single Fam,,Tanglewood,Sandra J. Busald,,249000,249000,2019-11-01,2020-11-01,Keller Williams Indy Metro W,Morgan L Lathery
+21666201,,Residential,Single Fam,,Brandywine,Matthew Kraiger,,253384,253384,2019-09-05,2019-10-31,F.C. Tucker Company,Shelly K Paddack
+21663142,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,214990,214990,2019-08-20,2020-09-16,RE/MAX Ability Plus,Catherine Epps
+21642349,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,259990,255990,2019-05-22,2020-05-22,F.C. Tucker Company,Peggy L. Kieper
+21650099,,Residential,Single Fam,,Sheffield,Kurt A. Meyer,,259383,259383,2019-02-09,2019-07-08,F.C. Tucker Company,Kurt A. Meyer
+21675135,,Residential,Single Fam,,Brandywine,Matthew Kraiger,,260143,260143,2019-10-15,2020-04-15,Own It Realty LLC,Angela K. Sherrill
+21696384,,Residential,Single Fam,,Tanglewood,Non-BLC Member,,268407,268407,2019-04-14,2020-02-22,Gallery of Homes Real Estate,Summer Hudson
+21648109,,Residential,Single Fam,,SR 267,A William Crawford,,300000,300000,2019-06-19,2019-11-19,"Carpenter, REALTORS®",Patricia Lumpkin
+21678924,,Residential,Single Fam,,PADDOCK,Donna L. Towns,,350000,335000,2019-10-30,2020-04-30,CENTURY 21 Scheetz,Donna L. Towns
+21629889,,Residential,Single Fam,,Crabapple,Vishnu Koneru,,324990,324990,2019-04-04,2019-10-31,Trueblood Real Estate,James B. Trueblood
+21680649,,Residential,Single Fam,,500 S,Darren Steele,,320000,320000,2019-11-09,2020-05-09,F.C. Tucker West Central,Ashlee Pritchett
+21639019,,Residential,Single Fam,,State Road 267,Debbie McMillan,,340000,340000,2019-05-08,2019-11-30,"VIP Real Estate Group, LLC",Megan Smith
+21676010,,Residential,Single Fam,,200 E,Julie Gleb,,369900,369900,2019-10-19,2020-04-19,RE/MAX Centerstone,Michael P. Price
+21653458,,Residential,Single Fam,,Snaffle Bit,Donna Towns,,350000,350000,2019-07-10,2020-01-10,Front Porch Real Estate,Brenda Robidou
+21683644,,Residential,Single Fam,,Main,Jennifer Blandford,,99000,99000,2019-11-22,2020-02-29,Keller Williams Indpls Metro N,Megan Porterfield
+21655645,,Residential,Single Fam,,Pierce,Mary Ellison,,118000,105000,2019-07-19,2019-10-19,F.C. Tucker Company,Suzi Leidenfrost
+21653190,,Residential,Single Fam,,300,Kay Kammeyer,Jason Kammeyer,120000,115000,2019-08-21,2020-01-21,F.C. Tucker Company,Kay Kammeyer
+21677934,,Residential,Single Fam,,Laughner,Alex J. Thieroff,William D. Beal,140000,140000,2019-10-24,2020-03-24,F.C. Tucker Company,Suzi Leidenfrost
+21670765,,Residential,Single Fam,,Pierce,Dawn Kendrick,,150000,129000,2019-09-24,2020-03-24,F.C. Tucker Company,Michelle Shepherd
+21674258,,Residential,Single Fam,,Turner,Craig Bartels,Theresa A. Bartels,150000,150000,2019-10-11,2020-04-12,United Real Estate Indpls,Dody L. Mariscotti
+21683815,,Residential,Single Fam,,Pierce,Bret Reinhardt,,139900,139900,2019-11-25,2020-02-15,Supreme Realty,Mary Knipp
+21672177,,Residential,Single Fam,,Roundlake,Gary Angstadt,,150000,150000,2019-10-10,2020-01-15,CENTURY 21 Scheetz,Gary Angstadt
+21641025,,Residential,Single Fam,,Gray Heather,Brooke Wall,,175000,175000,2019-05-16,2019-11-16,Sold It Realty Group,Michelle L. Campbell
+21656445,,Residential,Single Fam,,Indigo Blue,Andy Deemer,Stephanie Deemer,180000,172500,2019-07-30,2020-01-30,CENTURY 21 Scheetz,Sybille Furusho
+21676279,,Residential,Single Fam,,GREEN GRASS,Tamara L. Venable,Kelly Hexamer,179900,174900,2019-10-21,2020-05-31,RE/MAX Legends Group,Judith Naar
+21673384,,Residential,Single Fam,,Limelight,Julie Boksa,,174900,174900,2019-10-10,2020-04-10,RE/MAX Centerstone,Gina M. Ramirez
+21641277,,Residential,Single Fam,,Limelight,Camilo Colonia,,184900,174900,2019-05-16,2019-08-31,F.C. Tucker Company,Julianne J. Hurdle
+21674735,,Residential,Single Fam,,Golden Grain,Deena Cooper,,178000,178000,2019-10-11,2020-01-09,Ethosity Property Management G,Sterling Davis
+21650740,,Residential,Single Fam,,White Cliff,Lee Ann Balta,,178000,178000,2019-06-28,2019-12-28,Rise Real Estate,Scott White
+21680934,,Residential,Single Fam,,Bluff View,James Embry,,182500,179900,2019-11-16,2020-05-16,Keller Williams Indpls Metro N,Tamara L. Venable
+21650373,,Residential,Single Fam,,Danielle,Matthew Kraiger,,181363,181363,2019-06-25,2019-07-31,"Ridgeline Realty, LLC",Matthew Kraiger
+21663593,,Residential,Single Fam,,650,Karen Tanner,,179900,179900,2019-08-22,2020-01-22,Karen Tanner Real Estate Group,Karen L. Tanner
+21661575,,Residential,Single Fam,,Golden Grain,Beau Benjamin,,200000,187500,2019-08-13,2020-02-13,F.C. Tucker Company,Arta Xhako
+21638887,,Residential,Single Fam,,Green Glade,Rebecca A Cline,,189900,189900,2019-05-07,2019-10-31,United Real Estate Indpls,Rodney T. Smith
+21642937,,Residential,Single Fam,,Roundlake,Denise Fiore,Katie Hintz,189900,189900,2019-05-31,2019-11-30,Keller Williams Indpls Metro N,Rick Hogge
+21644136,,Residential,Single Fam,,White Cliff,Joshua Vida,,190000,190000,2019-05-30,2019-05-31,Front Porch Real Estate,Brenda Robidou
+21654755,,Residential,Single Fam,,Gray Heather,James Embry,,199900,199900,2019-07-19,2020-01-19,"2.0 Brokerage, LLC",Noah Bradtke - Litwack
+21648129,,Residential,Single Fam,,Limelight,Jennifer Brown,,214900,199900,2019-06-19,2019-10-19,"2.0 Brokerage, LLC",Noah Bradtke - Litwack
+21658464,,Residential,Single Fam,,DUSTY SANDS,Jennifer Anderson,,195000,195000,2019-07-29,2020-01-29,Trueblood Real Estate,James B. Trueblood
+21655677,,Residential,Single Fam,,Firethorn,Kevin Hudoba,Hannah Johanson,189900,189900,2019-07-19,2019-12-19,RE/MAX Advanced Realty,Debra L. Palmer
+21632835,,Residential,Single Fam,,Firethorn,Todd Ferris,Jim Shertzer,189900,189900,2019-04-26,2019-10-26,"eXp Realty, LLC",Rodney W. Heard
+21651042,,Residential,Single Fam,,Danielle,Matthew Kraiger,,189990,189990,2019-06-27,2019-07-31,"Ridgeline Realty, LLC",Matthew Kraiger
+21650571,,Residential,Single Fam,,Indigo Blue,Larry Gilbert,,199000,199000,2019-06-25,2019-09-25,"VIP Real Estate Group, LLC",Megan Smith
+21641395,,Residential,Single Fam,,Indigo Blue,Dennis Barrow,,209900,209900,2019-06-04,2019-12-04,Berkshire Hathaway Home,Dick Richwine
+21677879,,Residential,Single Fam,,Limelight,Stephen W. Clark,,199900,199900,2019-10-26,2020-04-25,Keller Williams Indpls Metro N,Stephen W. Clark
+21675582,,Residential,Single Fam,,TARTAN TRAIL,Daniel Mervar,,199900,199900,2019-10-17,2020-01-17,United Real Estate Indpls,Rochelle Perkins
+21637989,,Residential,Single Fam,,GRAY HEATHER,P. Aaron Starr,Sheri Doty,205000,205000,2019-05-02,2019-11-02,Non-BLC Office,Non-BLC Member
+21678706,,Residential,Single Fam,,Dusty Sands,Jason Alsup,Kari L. Spence,214900,212900,2019-10-31,2020-01-31,G. Martin Realty,Greg Martin
+21651697,,Residential,Single Fam,,Tanglewood,Matthew Kraiger,,205432,205432,2019-07-01,2019-07-31,John T. Watson,John T Watson
+21663339,,Residential,Single Fam,,Danielle,Matthew Kraiger,,209990,209990,2019-08-21,2020-09-30,"Front Porch Real Estate, LLC",Shanda Releford
+21675653,,Residential,Single Fam,,Indigo Blue,Jason F. Hemmerling,,210000,210000,2019-10-17,2020-04-17,RE/MAX At The Crossing,Stacy Johnson
+21660118,,Residential,Single Fam,,Limelight,Bret Reinhardt,,207900,207900,2019-08-05,2019-12-31,"Craftsman Realty Group, LLC",Rebecca A. Lund
+21649963,,Residential,Single Fam,,INDIGO BLUE,Peggy Kieper,,225000,214900,2019-07-03,2020-01-03,RE/MAX Ability Plus,Heather R. Schaller
+21636466,,Residential,Single Fam,,Firethorn,Jeff A. Bollman,,212400,212400,2019-04-25,2019-10-25,Highgarden Real Estate,Gregory Mayo
+21636117,,Residential,Single Fam,,Pebblebrooke,Shadd M. Cullen,,210000,210000,2019-04-24,2019-10-31,Leo Signature Realty,Paula M. Smith
+21633527,,Residential,Single Fam,,Trillium,Jennifer J. Whittenburg,,220000,220000,2019-04-17,2019-10-17,CENTURY 21 Scheetz,Gary Angstadt
+21680422,,Residential,Single Fam,,Dusty Laurel,Jordan Moody,,223000,223000,2019-11-08,2020-03-06,F.C. Tucker Company,Jason R. DeArman
+21653059,,Residential,Single Fam,,Trillium,Terah Adams,,229900,229900,2019-07-08,2019-12-08,"eXp Realty, LLC",Rodney W. Heard
+21643363,,Residential,Single Fam,,Waterstone,Amy Bounds,Michael Bounds,220000,220000,2019-05-30,2019-11-29,"Richardson Realty Company, LLC",Abbey Richardson
+21671279,,Residential,Single Fam,,Indigo Blue,Elizabeth A. Michael,,220000,220000,2019-09-27,2020-03-26,Keller Williams Indy Metro NE,Mary Boustani
+21681206,,Residential,Single Fam,,Open Fields,Bradley Gartenman,,219900,219900,2019-11-21,2020-05-22,"Carpenter, REALTORS®",Dennis Derrick
+21667195,,Residential,Single Fam,,Firethorn,Steve Masuccio,Tamara W. Masuccio,215000,215000,2019-09-10,2020-02-09,F.C. Tucker Company,Denesa Webber
+21635719,,Residential,Single Fam,,Tartan,Chuck McCollum,,229900,225000,2019-04-23,2019-10-23,"Vital Equity Realty, LLC",Jackie M. Kim
+21634896,,Residential,Single Fam,,Firethorn,Lynn G. Rapp,,225000,225000,2019-04-24,2019-10-25,Keller Williams Indy Metro NE,Stephanie Evelo
+21654893,,Residential,Single Fam,,Wonder,Brooke Mattson,,229900,224500,2019-07-17,2020-01-17,CENTURY 21 Scheetz,Clay Burris
+21631138,,Residential,Single Fam,,Paisley Pointe,John O'Brien,Mary Jane O'Brien,219900,224500,2019-04-12,2019-10-12,"Murphy Real Estate Group, Inc.",Ronald J. Russell
+21633299,,Residential,Single Fam,,Tartan Trail,Michael Mergell,Josh Patterson,229900,229900,2019-04-17,2020-04-11,RE/MAX Legends Group,Steve J. Sergi
+21666441,,Residential,Single Fam,,Limelight,Ryan Radecki,,230000,230000,2019-09-06,2019-12-31,Coldwell Banker - Kaiser,Tim White
+21641655,,Residential,Single Fam,,Limelight,Antoinette Harpster,,239900,229900,2019-05-19,2019-09-19,Urban Space Residential,Darren Block
+21643290,,Residential,Single Fam,,Roundlake,David W. Barnes,,240000,240000,2019-06-05,2019-12-05,Berkshire Hathaway Home,Stephen Gentry
+21640877,,Residential,Single Fam,,Gray Heather,Stacy Barry,,230000,230000,2019-05-16,2019-11-15,"Craftsman Realty Group, LLC",Lauren Kent
+21650407,,Residential,Single Fam,,Danielle,Matthew Kraiger,,230957,230957,2019-06-25,2019-07-31,"Ridgeline Realty, LLC",Matthew Kraiger
+21659618,,Residential,Single Fam,,Roundlake,Paul Bates,,234900,234900,2019-08-02,2019-12-31,"Curb Appeal Realty, LLC",Dianna Clampitt
+21666373,,Residential,Single Fam,,Pebblebrooke,Eric Heuer,,245000,239900,2019-09-06,2020-03-06,F.C. Tucker Company,Jennifer Melind
+21653898,,Residential,Single Fam,,Limelight,Bob Hicks,,234000,234000,2019-07-12,2020-01-11,Highgarden Real Estate,Jeffrey L. Koehrn
+21661175,,Residential,Single Fam,,Waterstone,Anabel Haviza,,249990,249990,2019-08-09,2020-02-07,F.C. Tucker Company,Jennifer Morris
+21636205,,Residential,Single Fam,,Park Grove,Jennifer Funkhouser,Carole Liszak,245000,245000,2019-04-26,2019-10-22,RE/MAX Legends Group,Jennifer Funkhouser
+21671680,,Residential,Single Fam,,Green Willow,Anabel C. Haviza,,247500,247500,2019-09-30,2020-03-31,RE/MAX Ability Plus,Angela Mayner
+21637381,,Residential,Single Fam,,Green Willow,Robert Cowan,,250000,250000,2019-05-03,2019-11-03,F.C. Tucker Company,Robbin N. Edwards
+21671688,,Residential,Single Fam,,Dusty Sands,Todd Sacksteder,,259900,244900,2019-10-05,2020-10-05,CENTURY 21 Scheetz,Kathy Wood
+21652470,,Residential,Single Fam,,Poplar,Gregory M. Schmidt,,245000,245000,2019-07-05,2019-12-31,RE/MAX Advanced Realty,Eric A. Gebauer
+21637783,,Residential,Single Fam,,Weeping Willow,Jeremy A. Page,,250000,250000,2019-05-07,2019-11-07,The Cooper Real Estate Group,Phill Dewing
+21633296,,Residential,Single Fam,,Fallen Leaf,Mike Scheetz,Melanie R. Scheetz,268255,258795,2019-04-16,2020-04-16,CENTURY 21 Scheetz,Lee Ann Balta
+21664039,,Residential,Single Fam,,Indigo Blue,James Trueblood,Jocelyn Deal,259900,250900,2019-08-24,2020-02-11,Keller Williams Indy Metro NE,Rich Graham
+21642450,,Residential,Single Fam,,White Pine,James Smock,Edward W. Gallagher,259900,254999,2019-05-31,2019-11-30,CENTURY 21 Scheetz,Elizabeth A. Michael
+21649515,,Residential,Single Fam,,Paisley Pointe,Kristen N. Woodworth,,255000,255000,2019-06-28,2019-12-27,F.C. Tucker Company,Jennifer Morris
+21633316,,Residential,Single Fam,,Fallen Leaf,Mike Scheetz,Melanie R. Scheetz,256555,256555,2019-04-16,2020-04-16,Plat Collective,Ryan Stevens
+21663998,,Residential,Single Fam,,Poplar,Jonathan Bell,,259900,259900,2019-08-26,2020-02-26,CENTURY 21 Scheetz,Amy Spillman
+21622798,,Residential,Single Fam,,Indigo Blue,Heather Tucker,,305900,265000,2019-02-26,2019-08-26,Keller Williams Indpls Metro N,Stephen W. Clark
+21687273,,Residential,Single Fam,,Keepsake,Non-BLC Member,,257427,257427,2019-01-10,2019-12-30,Keller Williams Indpls Metro N,Jason Hess
+21642606,,Residential,Single Fam,,Shooting Star,Tracy Livingston,,268000,266000,2019-05-24,2019-11-22,Front Porch Real Estate,Brenda Robidou
+21639420,,Residential,Single Fam,,Pebblebrooke,Jeremy A. Page,,260000,260000,2019-05-16,2019-11-16,RE/MAX Ability Plus,James C. Abner
+21673456,,Residential,Single Fam,,Waterstone,Julie West,,255000,255000,2019-10-09,2020-05-10,CENTURY 21 Scheetz,Kristen M. Yazel
+21666231,,Residential,Single Fam,,Waterstone,James B. Trueblood,Darcy A. Knott,269900,264900,2019-09-17,2019-12-31,Absolute Real Estate Services,Benjamin Fuller
+21655878,,Residential,Single Fam,,Fallen Leaf Drive,Daniel J. Braun,,262975,262975,2019-07-18,2019-07-21,D. Braun & Company,Daniel J. Braun
+21661756,,Residential,Single Fam,,Waterstone,Deena Cooper,,280000,275000,2019-08-15,2020-02-15,Highgarden Real Estate,Laura Waters
+21647539,,Residential,Single Fam,,Keepsake,Mike Scheetz,Melanie R. Scheetz,272730,267000,2019-06-17,2020-06-17,RE/MAX Ascent,Steven Tucker
+21674363,,Residential,Single Fam,,BLUE SKY,Pam Jones,,285000,279000,2019-10-24,2020-04-24,CENTURY 21 Scheetz,Connie Hill
+21633808,,Residential,Single Fam,,White Cliff,Joseph Kempler,Scot Pollard,270000,265000,2019-05-03,2020-02-03,Keller Williams Indpls Metro N,Steve Martin
+21650098,,Residential,Single Fam,,Park Grove,Mike Scheetz,Melanie R. Scheetz,274795,269000,2019-06-24,2020-06-24,Highgarden Real Estate,Oumar Bah
+21655017,,Residential,Single Fam,,Fallen Leaf,Non-BLC Member,,272050,272050,2019-01-12,2019-07-31,RE/MAX Ability Plus,Herbert Rice
+21671503,,Residential,Single Fam,,Pebblebrooke,McKenzie Cowan,,,278900,2019-09-26,2019-12-31,"Carpenter, REALTORS®",Ryan W. Carrell
+21635511,,Residential,Single Fam,,Park Grove,Mike Deck,Joel Vanags,279900,279900,2019-04-23,2019-10-23,F.C. Tucker Company,Dale Billman
+21651503,,Residential,Single Fam,,Fallen Leaf,Non-BLC Member,,276000,276000,2019-06-25,2019-12-25,Keller Williams Indy Metro NE,Anabel C. Haviza
+21643131,,Residential,Single Fam,,Pebblebrooke,Sandra Hurless,,289900,284900,2019-06-12,2019-12-12,Elite Indy Realty Group,Christopher Duke
+21626533,,Residential,Single Fam,,Park Grove,Jennifer Brown,,282900,285000,2019-03-11,2019-08-31,"Carpenter, REALTORS®",Jennifer Blandford
+21625793,,Residential,Single Fam,,Rainwater,Kyle Williams,,289900,284900,2019-03-08,2019-09-08,RE/MAX Legends Group,Jennifer Brown
+21675391,,Residential,Single Fam,,Harvest Moon,Non-BLC Member,,284330,284330,2019-10-16,2019-10-17,RE/MAX Ability Plus,Heather R. Schaller
+21648347,,Residential,Single Fam,,Keepsake,Christopher Price,Lori Davis Smith,284900,284900,2019-06-20,2019-12-20,United Real Estate Indpls,Michael Lawrence
+21665897,,Residential,Single Fam,,Pebblebrooke,McKenzie Cowan,,294900,294900,2019-09-03,2020-01-01,"Carpenter, REALTORS®",Jamie Carmosino
+21664169,,Residential,Single Fam,,Pebblebrooke,Bradford Rider,,284900,284900,2019-08-30,2020-03-02,"Envoy Real Estate, LLC",Matthew Mielke
+21631695,,Residential,Single Fam,,Green Willow,Ryan Radecki,,289900,289900,2019-04-09,2019-08-31,Keller Williams Indy Metro NE,Josh Patterson
+21650682,,Residential,Single Fam,,Danielle,Matthew Kraiger,,262591,262591,2019-06-26,2019-07-31,CENTURY 21 Scheetz,Trent Wood
+21655489,,Residential,Single Fam,,Park Grove,Non-BLC Member,,292760,292760,2019-02-28,2020-01-17,F.C. Tucker Company,Dale Billman
+21655187,,Residential,Single Fam,,Shooting Star,Stacey Augustine,,300000,297000,2019-07-17,2020-01-17,Keller Williams Indy Metro W,Matthew Reffeitt
+21672420,,Residential,Single Fam,,Harvest Moon,Mike Scheetz,Melanie R. Scheetz,307500,298000,2019-10-01,2020-10-01,Non-BLC Office,Non-BLC Member
+21668626,,Residential,Single Fam,,Keepsake,Mike Scheetz,Melanie R. Scheetz,305000,298000,2019-09-17,2020-09-17,F.C. Tucker Company,Anjushree Bothra
+21648358,,Residential,Single Fam,,Harvest Moon,Mike Scheetz,Melanie R. Scheetz,303695,303695,2019-06-19,2020-06-19,"Star Alliance Brokerage, Inc.",Manjit Nagra
+21660504,,Residential,Single Fam,,Shooting Star,Carl Vargas,,299500,299500,2019-08-09,2020-02-09,F.C. Tucker Company,Christiana Kalavsky
+21629152,,Residential,Single Fam,,Paisley Pointe,Denise Fiore,Laurie B. Allen,298500,298500,2019-03-27,2019-09-26,Trueblood Real Estate,James B. Trueblood
+21658450,,Residential,Single Fam,,Rainwater,Mike Scheetz,Melanie R. Scheetz,299795,299795,2019-07-29,2020-07-29,"HomeXpert, Ray Stuck & Co.",Ray Stuck
+21676679,,Residential,Single Fam,,Keepsake,Non-BLC Member,,302165,302165,2019-05-14,2019-10-31,CENTURY 21 Scheetz,Kim Lewis
+21654962,,Residential,Single Fam,,800,Tracy Ridings,,325000,325000,2019-07-27,2020-01-27,"M.S. Woods Real Estate, LLC",Diana M.Stancato
+21660749,,Residential,Single Fam,,Keepsake,Mike Scheetz,Melanie R. Scheetz,346240,346240,2019-08-08,2020-08-08,Non-BLC Office,Non-BLC Member
+21678067,,Residential,Single Fam,,Crabapple,Non-BLC Member,,362705,362705,2019-04-30,2019-10-31,RE/MAX Ability Plus,Vishnu Koneru
+21671231,,Residential,Single Fam,,Crabapple,Non-BLC Member,,363245,363245,2019-09-25,2019-09-26,F.C. Tucker Company,Vikki Duke
+21670352,,Residential,Single Fam,,CRABAPPLE,Non-BLC Member,,370825,370825,2019-03-28,2020-03-28,Keller Williams Indy Metro NE,Kristie M. Smith
+21653634,,Residential,Single Fam,,500,Patsy Smith,,464900,449900,2019-07-12,2020-01-12,CENTURY 21 Scheetz,Gary Angstadt
+21659859,,Residential,Single Fam,,LYN LEA,Chad Hughes,,799900,799900,2019-08-04,2019-12-04,Keller Williams Zionsville,Kevin Hudoba
+21635504,,Residential,Single Fam,,Lyn Lea,Traci Garontakos,,899000,899000,2019-04-25,2019-10-25,F.C. Tucker West Central,Kasey Ferguson
+21641471,,Residential,Single Fam,,950,Heather R. Schaller,,229000,229000,2019-05-17,2019-11-17,"Front Porch Real Estate, LLC",Tracy Livingston
+21664185,,Residential,Single Fam,,200,Jerry Alexander,,245500,245500,2019-08-21,2020-08-26,CENTURY 21 Scheetz,Elizabeth A. Michael
+21640121,,Residential,Single Fam,,750,Matt Trammel,,259900,259900,2019-05-14,2019-11-14,"Bowman & Associates, LLC",Connie Bowman
+21658364,,Residential,Single Fam,,Indian Pipe,Denise Fiore,Katie Hintz,339000,325000,2019-07-31,2020-01-30,Springer Real Estate Co,Matthew W. Urbanski
+21652914,,Residential,Single Fam,,Saddlebrook,Andrea Ratcliff,,379900,369900,2019-07-09,2019-10-31,"Carpenter, REALTORS®",Stephen L. Bradburn
+21639532,,Residential,Single Fam,,US 421,Joanne Corbett,Terri Wilcox,379900,379900,2019-05-10,2019-11-11,E-Rocks Real Estate,Chad David Everts
+21680886,,Residential,Single Fam,,US 421,Chad David Everts,,400000,400000,2019-11-12,2020-04-01,CENTURY 21 Scheetz,Kim Lewis
+21655078,,Residential,Single Fam,,State Road 32,Kevin Hudoba,,399900,399900,2019-07-17,2020-01-17,F.C. Tucker Company,Andy Deemer
+21657922,,Residential,Single Fam,,Indianpipe,Diane Brooks,,412000,412000,2019-07-26,2020-01-26,F.C. Tucker Company,Nancee A. Dowler
+21668192,,Residential,Single Fam,,FAWN BLUFF CT,Marty Wagner,,414900,414900,2019-09-15,2020-04-15,Berkshire Hathaway Home,James H. Junkins
+21638251,,Residential,Single Fam,,1100,P. Aaron Starr,Sheri Doty,425000,422000,2019-05-08,2019-11-08,"Carpenter, REALTORS®",Jennifer Blandford
+21610207,,Residential,Single Fam,,200,John O'Brien,Mary Jane O'Brien,499000,474900,2018-12-07,2019-09-07,"Carpenter, REALTORS®",Joel Abney
+21658449,,Residential,Single Fam,,High Grove,Tracy Wright,Thomas Wright,499900,499900,2019-08-02,2019-10-22,"Carpenter, REALTORS®",Jennifer Blandford
+21651051,,Residential,Single Fam,,Conifer,Non-BLC Member,,486000,486000,2019-01-20,2019-07-10,Berkshire Hathaway Home,Dick Richwine
+21672396,,Residential,Single Fam,,High Grove,Laura H. Heigl,Christine Scarchilli,519000,519000,2019-10-03,2020-03-31,CENTURY 21 Scheetz,Gary Angstadt
+21643347,,Residential,Single Fam,,Brookline,Joe Logan,,499999,499999,2019-05-30,2019-10-30,Keller Williams Indy Metro NE,Kristie M. Smith
+21622972,,Residential,Single Fam,,Newbury,Stephen W. Clark,,550000,535000,2019-02-28,2019-08-28,"Carpenter, REALTORS®",Jennifer L. Turner
+21668681,,Residential,Single Fam,,Wolverine,Clayton Gittus,Jacob S. Johnson,549000,549000,2019-09-20,2019-10-31,Redfin Corporation,Richard Ardaiolo
+21661397,,Residential,Single Fam,,High Grove,Tracy Wright,Becky Snyder Newman,559000,549000,2019-08-23,2020-01-23,F.C. Tucker Company,Terri Wilcox
+21633106,,Residential,Single Fam,,200,Mark G. Hartman,,599900,599900,2019-04-15,2019-10-15,Coldwell Banker - Kaiser,Candace Fisk
+21645922,,Residential,Single Fam,,Glen Avon Way,Amy Schumann,,550000,550000,2019-06-08,2019-12-10,Keller Williams Indy Metro NE,Kristie M. Smith
+21641451,,Residential,Single Fam,,High Grove,Rhonda Hoeft,,575000,575000,2019-05-17,2019-11-17,Encore Sotheby's International,Traci Garontakos
+21624061,,Residential,Single Fam,,High Grove,Mark A. Lopez,Louise C. Bergmann,575000,575000,2019-03-13,2019-09-13,F.C. Tucker Company,Benjamin Jones
+21676411,,Residential,Single Fam,,High Grove,Traci Garontakos,Jaclyn Cleveland,589000,589000,2019-10-24,2020-04-30,F.C. Tucker Company,Janet Browning
+21637022,,Residential,Single Fam,,Still Creek,Andrea Ratcliff,,600000,600000,2019-05-03,2019-08-31,F.C. Tucker Company,Linda  Yi  Zhang
+21664616,,Residential,Single Fam,,200,Candace Fisk,,585000,585000,2019-08-30,2020-02-29,Coldwell Banker - Kaiser,Candace Fisk
+21663441,,Residential,Single Fam,,ABBITT,Nicholas Laviolette,,679900,649900,2019-08-23,2020-02-23,F.C. Tucker Company,Kristie R. Blankenhorn
+21675550,,Residential,Single Fam,,Glen Avon,Non-BLC Member,,621098,621098,2019-10-17,2019-11-30,F.C. Tucker Company,Joe A. Spate
+21637333,,Residential,Single Fam,,High Grove,Rebecca Glazier,,649500,649500,2019-05-06,2019-11-06,Encore Sotheby's International,Tracy Wright
+21622624,,Residential,Single Fam,,FOX,Kristie Smith,,739900,715000,2019-02-25,2019-08-31,F.C. Tucker Company,Marty Wagner
+21656260,,Residential,Single Fam,,825,Gary Angstadt,,750000,725000,2019-07-29,2020-01-29,F.C. Tucker Company,Robbin N. Edwards
+21622155,,Residential,Single Fam,,Still Creek,Laura H. Heigl,Christine Scarchilli,735000,735000,2019-02-28,2019-08-31,CENTURY 21 Scheetz,Sheri Gladden
+21651165,,Residential,Single Fam,,100,Sandra Tavel,,750000,750000,2019-06-28,2019-12-28,Trueblood Real Estate,James B. Trueblood
+21646982,,Residential,Single Fam,,60 S,Zoe Moore,,735000,735000,2019-06-05,2019-09-05,"Carpenter, REALTORS®",Megan Deck
+21636334,,Residential,Single Fam,,200 S,Keri Schuster,Vikki Duke,750000,750000,2019-05-03,2019-11-01,RE/MAX Legends Group,Katie E. Malott
+21654086,,Residential,Single Fam,,180,Alex Thieroff,William D. Beal,785000,785000,2019-06-13,2020-01-24,F.C. Tucker Company,Michael B. Miller
+21650033,,Residential,Single Fam,,180,Alex Thieroff,William D. Beal,890000,890000,2019-06-28,2020-01-27,F.C. Tucker Company,Michael B. Miller
+21661078,,Residential,Single Fam,,Abbitt,Christopher C. Schrader,,752022,752022,2018-11-15,2020-08-09,Non-BLC Office,Non-BLC Member
+21610028,,Residential,Single Fam,,875,Bif Ward,Casley S. Ward Lewis,969900,925000,2018-12-05,2019-06-05,Keller Williams Indpls Metro N,Jennifer Goodspeed
+21607431,,Residential,Single Fam,,300,Traci Garontakos,,1495000,1495000,2018-11-16,2019-11-09,Keller Williams Indpls Metro N,Stacy Snively
+21645015,,Residential,Single Fam,,1000,Tina Floyd-Snodgrass,,47000,47000,2019-06-03,2019-12-31,Keller Williams Indpls Metro N,Tina Floyd-Snodgrass
+21660605,,Residential,Single Fam,,900,Stephanie Latham,,89000,89000,2019-08-09,2020-02-07,F.C. Tucker Company,Blake J. Miller
+21609045,,Residential,Single Fam,,1000,Susan Barnes,,139900,119900,2018-11-27,2019-05-27,"Barnes Real Estate of Indiana,",Susan C. Barnes
+21661900,,Residential,Single Fam,,850,Herbert Rice,,125000,125000,2019-08-22,2020-02-29,Front Porch Real Estate,Lisa Galvin
+21664703,,Residential,Single Fam,,1000,Tina Floyd-Snodgrass,,139900,139900,2019-08-29,2019-12-31,F.C. Tucker Company,Lorrie Monn
+21633350,,Residential,Single Fam,,State Road 47,Tina Floyd-Snodgrass,,259900,199900,2019-04-21,2020-05-31,Keller Williams Indpls Metro N,Tina Floyd-Snodgrass
+21652509,,Residential,Single Fam,,State Road 38,Danielle Robinson,,249900,225000,2019-07-05,2020-01-05,"Carpenter, REALTORS®",Christopher Dykes
+21659723,,Residential,Single Fam,,850,Thomas Brown,,195000,195000,2019-08-02,2020-02-01,Non-BLC Office,Non-BLC Member
+21611252,,Residential,Single Fam,,US Highway 421,Dave Johnson,,249,249900,2018-12-14,2019-12-08,Ala Carte Realty,Cindy J. Marlow
+21650531,,Residential,Single Fam,,900 N,Peggy Deakyne,,239900,239900,2019-06-28,2019-12-28,F.C. Tucker Company,Patrick A. Tumbarello
+21664723,,Residential,Single Fam,,state rd  47,Jerry J. Alexander,,249500,249500,2019-08-30,2020-08-30,"Carpenter, REALTORS®",Jeff A. Bollman
+21664378,,Residential,Single Fam,,Crabapple,Non-BLC Member,,313473,313473,2019-08-07,2019-09-11,Plat Collective,Crystal White
+21640645,,Residential,Single Fam,,900,Jerry Alexander,,375000,369400,2019-06-21,2019-10-31,F.C. Tucker Company,Dean D. Glascock Jr
+21673350,,Residential,Single Fam,,Elizaville,John W. Bradley,Lynda Lambert,69900,69900,2019-10-04,2020-07-31,Non-BLC Office,Non-BLC Member
+21597733,,Residential,Single Fam,,Elizaville,Abbey Richardson,,98500,93500,2018-09-27,2019-09-27,"Carpenter, REALTORS®",Stephanie Latham
+21655749,,Residential,Single Fam,,750,Deena Cooper,,199900,199900,2019-07-19,2020-01-19,RE/MAX Ability Plus,Tad D. Braner
+21653893,,Residential,Single Fam,,State Road 47,Scott Lindsay,,265000,257500,2019-07-11,2020-01-11,"Sugar Creek Real Estate, LLC",Katina M. Whalen
+21639450,,Residential,Single Fam,,450,Lisa K Batts,,290000,290000,2019-05-07,2019-09-07,Highgarden Real Estate,Laura Waters
+21643829,,Residential,Single Fam,,Beck,Randy Placencia,,34900,25000,2019-05-30,2020-05-29,"RCA Realty, Inc.",Sandra S. Hurless
+21660072,,Residential,Single Fam,,Indianapolis,Christopher Price,,22000,22000,2019-08-02,2019-10-30,F.C. Tucker Company,Joe A. Spate
+21674478,,Residential,Single Fam,,Tiger,Craig Stevens,,50000,50000,2019-10-10,2019-11-18,"Richardson Realty Company, LLC",Rodney Richardson
+21665186,,Residential,Single Fam,,Jameson,Lee Ann Balta,,90000,80000,2019-08-30,2020-02-24,"Castlerock Properties, LLC",Jonathan W. Adams
+21638275,,Residential,Single Fam,,Dicks,Michelle Powell,,47700,47700,2019-05-03,2020-04-25,Non-BLC Office,Non-BLC Member
+21607307,,Residential,Single Fam,,Main,Delanie Schembra,,110000,79900,2018-11-14,2019-11-14,RE/MAX Ability Plus,James D. Brooks
+21654658,,Residential,Single Fam,,Superior,David Ping,,87900,80900,2019-07-15,2019-09-30,"David Ping, REALTOR",David W. Ping
+21659340,,Residential,Single Fam,,Washington,Hal Bennett,,89900,82900,2019-08-07,2020-02-07,F.C. Tucker Company,Hal Bennett
+21630803,,Residential,Single Fam,,Beck,Randy A. Placencia,,81900,79900,2019-04-03,2020-04-30,Red Bridge Real Estate,Randy A. Placencia
+21597882,,Residential,Single Fam,,Ash,Rodney Richardson,,89900,89900,2018-09-26,2019-09-26,RE/MAX Ability Plus,Susan Lehmann
+21631526,,Residential,Condo,,ROSELAWN,Lisa K Batts,Adam Batts,79900,79900,2019-04-08,2019-08-08,Batts Real Estate Group,Robin Rabanus
+21666945,,Residential,Condo,,Roselawn,Patsy Smith,,79900,79900,2019-09-09,2020-03-09,D.M. Taylor Realty LLC,Douglas M. Taylor
+21628674,,Residential,Single Fam,,South,Sarah DeVore,,95000,89900,2019-03-23,2019-09-30,F.C. Tucker Company,Dustin Cox
+21641850,,Residential,Single Fam,,Green,Angela Mayner,,89000,89000,2019-05-20,2019-08-30,RE/MAX Ability Plus,Heather Robison
+21666825,,Residential,Single Fam,,Ann,Amber D. Greene,Kevin Greene,89900,89900,2019-09-08,2020-03-08,F.C. Tucker Company,Ryan Goon
+21664742,,Residential,Single Fam,,East,Lisa K Batts,,92000,92000,2019-08-27,2019-10-27,Batts Real Estate Group,Lisa K Batts
+21644358,,Residential,Single Fam,,EAST,Nedra Gentry,,89900,89900,2019-05-31,2019-11-30,"eXpert, REALTORS®",Ian Bell
+21684310,,Residential,Single Fam,,Williams,Adam R. Corya,,96000,96000,2019-12-05,2019-12-06,"Carpenter, REALTORS®",Adam R. Corya
+21635349,,Residential,Single Fam,,Northfield,Joseph Alexander,,110000,110000,2019-04-22,2020-04-21,Berkshire Hathaway Home,Amanda K. Shockley
+21612125,,Residential,Single Fam,,Green,Seth Bernhardt,,94900,94900,2019-01-07,2019-07-07,Dollars and Sense Real Estate,Merribeth Burns
+21636253,,Residential,Single Fam,,Lebanon,Rodney Richardson,,98800,98800,2019-04-24,2020-04-24,Homeland Real Est. Connections,Connie L. Walker
+21643610,,Residential,Single Fam,,Superior,Susan Lehmann,,109900,104500,2019-05-29,2019-08-31,F.C. Tucker Company,Lauren Hewitt
+21655638,,Residential,Single Fam,,SOUTH ST,Rodney Richardson,,99800,99800,2019-07-19,2020-07-19,F.C. Tucker Company,Malvin N. Nyoni
+21653637,,Residential,Single Fam,,SOUTH,Robin Rabanus,,98000,98000,2019-07-11,2019-10-11,F.C. Tucker Company,Heather Tucker
+21656047,,Residential,Single Fam,,South,Sandra Hurless,,125000,125000,2019-07-25,2019-12-25,RE/MAX Ability Plus,Angela Mayner
+21635126,,Residential,Single Fam,,Kersey,Dustin Cox,,130000,120000,2019-04-22,2019-10-28,Non-BLC Office,Non-BLC Member
+21644093,,Residential,Single Fam,,Ann,Roberta Bowman,,110000,110000,2019-05-30,2019-08-31,Heroes Property Group,Autumn Sojka
+21648079,,Residential,Single Fam,,ELM,Heather R. Schaller,,115000,115000,2019-06-19,2019-06-30,Non-BLC Office,Non-BLC Member
+21665436,,Residential,Single Fam,,Ash,Heather Tucker,,129900,126900,2019-09-01,2020-03-02,Keller Williams Indpls Metro N,Tina Floyd-Snodgrass
+21670801,,Residential,Single Fam,,Harney,Lisa Galvin,,129000,122000,2019-09-23,2019-12-23,RE/MAX Ability Plus,Heidi Wolff
+21679335,,Residential,Single Fam,,Walnut,Elizabeth Richardson,,115000,115000,2019-11-01,2020-05-01,Keller Williams Indpls Metro N,Tamara L. Venable
+21655687,,Residential,Single Fam,,Allen,Ryan Richardson,,110000,110000,2019-07-19,2020-07-17,"Carpenter, REALTORS®",Stephanie Latham
+21634979,,Residential,Single Fam,,AUSTIN,Stefan Bean,,119900,119900,2019-04-18,2019-07-31,F.C. Tucker Company,Joe A. Spate
+21675818,,Residential,Single Fam,,Washington,Patsy Smith,,119900,119900,2019-10-18,2020-04-18,United Real Estate Indpls,Dody L. Mariscotti
+21667676,,Residential,Single Fam,,Harney,Douglas M. Taylor,,129900,129900,2019-09-12,2020-03-31,F.C. Tucker Company,Jon S. Hirschfeld
+21667575,,Residential,Single Fam,,250 N,Nathaniel J. Gustus,,310000,120000,2019-09-17,2020-03-12,Keller Williams Indy Metro W,Morgan L Lathery
+21656695,,Residential,Single Fam,,Citation,Delanie Schembra,Devon Hicks,125000,125000,2019-07-24,2020-01-31,United Real Estate Indpls,Dody L. Mariscotti
+21617042,,Residential,Single Fam,,Elm Swamp,Christopher Price,,160700,145700,2019-01-31,2019-05-31,Keller Williams Indy Metro W,Christopher G. Price
+21646009,,Residential,Single Fam,,Brooke,Dale G. Smith,,117500,117500,2019-06-14,2019-08-08,Keller Williams Indy Metro NE,Rich Graham
+21612920,,Residential,Single Fam,,Indianapolis,Elizabeth Stoner,,129900,129900,2019-01-03,2019-08-31,"No Limit Real Estate, LLC",Charlene Gaard
+21664463,,Residential,Single Fam,,Elizabeth,Angela Mayner,,124900,119900,2019-08-27,2020-02-29,CENTURY 21 Scheetz,Kim Lewis
+21673599,,Residential,Single Fam,,East,Tommie Hamilton,,124900,124900,2019-10-07,2020-04-07,"Richardson Realty Company, LLC",Abbey Richardson
+21662449,,Residential,Single Fam,,GLENDALE,Susan Lehmann,,125000,125000,2019-08-14,2019-10-04,RE/MAX Ability Plus,Susan Lehmann
+21656229,,Residential,Single Fam,,Indianapolis,Heather Schaller,,150000,139900,2019-07-23,2020-02-23,High Point Realty Group,Kendrick Davis
+21640930,,Residential,Single Fam,,HARNEY,Sandra J. Busald,,125000,125000,2019-05-17,2020-05-15,RE/MAX Ability Plus,Angela Mayner
+21654628,,Residential,Single Fam,,ELIZABETH,Lynda Lambert,John W. Bradley,128000,128000,2019-07-15,2019-12-31,RE/MAX Ability Plus,Sandra J. Busald
+21670184,,Residential,Single Fam,,Rovene,Reba Evans,Amy Evans,126900,126900,2019-09-19,2020-03-19,RE/MAX Complete,Jeffrey D. Cummings
+21675116,,Residential,Condo,,Somerset,Lisa K Batts,,133900,133900,2019-10-14,2019-12-31,Batts Real Estate Group,Lisa K Batts
+21672603,,Residential,Single Fam,,East,Heather Tucker,,129900,129900,2019-10-22,2020-04-22,"Pursuit Realty, LLC",Sean Daniels
+21639719,,Residential,Single Fam,,Chicago,Maxwell Richter,,105000,128000,2019-05-09,2019-08-09,RE/MAX Ability Plus,Heidi Wolff
+21671385,,Residential,Single Fam,,Main,Lorrie Monn,Lorrie Monn,129900,129900,2019-09-25,2019-12-25,RE/MAX Ability Plus,Heather R. Schaller
+21662934,,Residential,Single Fam,,Citation,Ryan Goon,,129900,129900,2019-08-23,2020-02-23,"Pro-Properties, Inc.",Jason W. Lemen
+21642333,,Residential,Single Fam,,LEBANON,Susan Lehmann,,129900,129900,2019-05-24,2019-08-31,F.C. Tucker Company,Linda Freeman
+21662423,,Residential,Single Fam,,Main,Non-BLC Member,,130000,130000,2019-09-11,2019-09-12,RE/MAX Ability Plus,Judy A. Wothke
+21647537,,Residential,Single Fam,,BROOKE,Avery Garrett,,124900,124900,2019-06-17,2019-12-01,F.C. Tucker Company,Heather Tucker
+21650297,,Residential,Single Fam,,Henry,Lisa K Batts,,139900,139900,2019-06-24,2019-12-24,CENTURY 21 Scheetz,Jeanne Hutcherson
+21640144,,Residential,Single Fam,,Jaques,Heather R. Schaller,,124900,124900,2019-05-14,2019-07-31,Keller Williams Indy Metro W,Christopher G. Price
+21667958,,Residential,Single Fam,,CLIFFORD CT,Connie Walker,,139900,139900,2019-09-13,2020-03-12,Highgarden Real Estate,Stephen Ashpaugh
+21664660,,Residential,Single Fam,,Geri,Heidi Wolff,,129900,129900,2019-09-11,2020-02-28,RE/MAX Ability Plus,Heather R. Schaller
+21652225,,Residential,Single Fam,,ASHLEY,Susan Lehmann,,132900,132900,2019-07-03,2019-10-31,Batts Real Estate Group,Robin Rabanus
+21644776,,Residential,Single Fam,,CITATION,Randy Alex Riley,,120000,135000,2019-06-03,2019-09-03,Highgarden Real Estate,Carol Blackmon
+21635592,,Residential,Single Fam,,Washington,Sandra J. Busald,,175000,160000,2019-04-23,2020-04-23,RE/MAX Ability Plus,Libby Somerville
+21635396,,Residential,Single Fam,,Clear Vista,Heather R. Schaller,,129900,129900,2019-04-25,2019-07-31,F.C. Tucker Company,Ryan Goon
+21632948,,Residential,Single Fam,,BARONNE,Susan Lehmann,,135500,135500,2019-04-13,2019-05-31,RE/MAX Ability Plus,Heidi Wolff
+21646541,,Residential,Single Fam,,Witt,David F. Harting,Tonya Battee,128000,128000,2019-06-11,2019-12-31,Keller Williams Indy Metro W,Matthew Reffeitt
+21671936,,Residential,Single Fam,,Sunnybrook,Andrew Batts,,139000,139000,2019-09-30,2020-03-31,RE/MAX Ability Plus,Heather R. Schaller
+21653910,,Residential,Single Fam,,Jason,Scott Combs,,139000,139000,2019-07-11,2019-09-11,"Traditions Realty, LLC",John W. Bradley
+21679834,,Residential,Single Fam,,MERIDIAN ST,Nicholas J. Laviolette,Zachary Bell,129900,129900,2019-11-07,2020-04-07,"Gold Star Real Estate, LLC",Brenda Stailey
+21659851,,Residential,Single Fam,,Citation,Michelle Steward,,140000,140000,2019-08-04,2020-02-04,Non-BLC Office,Non-BLC Member
+21658334,,Residential,Single Fam,,East,John Bradley,Lynda Lambert,149900,149900,2019-07-28,2019-12-31,F.C. Tucker Company,Heather Tucker
+21641835,,Residential,Single Fam,,ULEN,Patsy Smith,,154500,154500,2019-05-23,2019-11-23,RE/MAX Ability Plus,Heather R. Schaller
+21638571,,Residential,Single Fam,,Jason,Miranda S. Payne,,139900,139900,2019-05-05,2019-11-05,"RCA Realty, Inc.",Lisa Graham
+21678644,,Residential,Single Fam,,Garfield,Stephanie Latham,,158000,150000,2019-10-28,2020-04-28,Non-BLC Office,Non-BLC Member
+21667545,,Residential,Single Fam,,Victoria,Lynn Murray,,149900,149900,2019-09-12,2019-12-12,F.C. Tucker Company,Suzi Leidenfrost
+21660137,,Residential,Single Fam,,Woodland,Lisa Batts,,159000,154900,2019-08-05,2019-12-05,"eXp Realty, LLC",Rodney W. Heard
+21658744,,Residential,Single Fam,,Ascot,Joel McWaters,,150000,150000,2019-07-12,2019-07-31,Berkshire Hathaway Home,Joel McWaters
+21650094,,Residential,Single Fam,,500,Susan Lehmann,,152500,152500,2019-06-24,2019-10-31,Innovative Home Realty,Paul E. Miller Jr.
+21663038,,Residential,Single Fam,,GARFIELD,Lisa Batts,,154900,154900,2019-08-18,2019-11-18,Batts Real Estate Group,Lisa K Batts
+21668562,,Residential,Condo,,Sorrell,Heather Dickerson,,165000,165000,2019-09-19,2019-12-31,Front Porch Real Estate,Heather Dickerson
+21658542,,Residential,Single Fam,,Sam Ralston,Theresa Volk,,155000,155000,2019-07-30,2020-01-26,Non-BLC Office,Non-BLC Member
+21645567,,Residential,Single Fam,,Jameson,Sandra Hurless,,169900,164900,2019-06-18,2019-12-18,"Richardson Realty Company, LLC",Julie Gleb
+21627272,,Residential,Single Fam,,Evans,Rick A. Marshall,,155000,155000,2019-03-15,2019-12-31,D.M. Taylor Realty LLC,Douglas M. Taylor
+21643541,,Residential,Single Fam,,Jaques,Reba Evans,Marlene Bradley,159900,159900,2019-05-29,2019-11-30,Front Porch Real Estate,Olivia Albright
+21648144,,Residential,Single Fam,,Lebanon,Ashlee Pritchett,,175000,165000,2019-06-17,2019-12-18,F.C. Tucker Company,Karma Hamm
+21666732,,Residential,Single Fam,,Thomas,Heather Schaller,,159900,159900,2019-09-13,2020-03-13,F.C. Tucker Company,Joe A. Spate
+21643300,,Residential,Condo,,Sorrell,Tad D. Braner,,160000,160000,2019-06-09,2019-11-15,Keller Williams Indpls Metro N,Ryan Radecki
+21636002,,Residential,Single Fam,,Witt,Tim Reed,,134900,159000,2019-04-24,2019-10-30,Berkshire Hathaway Home,Elizabeth Richardson
+21631455,,Residential,Single Fam,,Grant,Heather R. Schaller,,162500,162500,2019-04-07,2019-06-20,RE/MAX Ability Plus,Heather R. Schaller
+21646355,,Residential,Single Fam,,Clear Vista,Robin Rabanus,,162500,162500,2019-06-11,2019-09-10,"Carpenter, REALTORS®",Phil Ludlow
+21663020,,Residential,Single Fam,,Rovene,Toby Smith,,164900,164900,2019-08-20,2020-02-20,Keller Williams Indpls Metro N,Beverly Johnson
+21663923,,Residential,Single Fam,,Witt,David Lucas,,179900,169900,2019-08-23,2020-02-29,"Traditions Realty, LLC",Lynda Lambert
+21652384,,Residential,Single Fam,,Lindsey,Heather R. Schaller,,164900,164900,2019-07-05,2020-01-05,F.C. Tucker Company,Mathew MacDonald
+21645314,,Residential,Single Fam,,600 E,Heidi Wolff,,225000,186000,2019-06-06,2019-11-30,Trueblood Real Estate,Kimberly S. Carpenter
+21642682,,Residential,Single Fam,,Grant,Megan Porterfield,,187900,165000,2019-05-24,2019-11-24,"Carpenter, REALTORS®",Melissa Barclay
+21674786,,Residential,Single Fam,,Fordice,Kathryn Childress,,174900,174900,2019-10-15,2020-04-13,RE/MAX Ability Plus,Heidi Wolff
+21629312,,Residential,Single Fam,,ROUND LAKE,Heather R. Schaller,,184900,174900,2019-03-26,2019-09-26,RE/MAX Ability Plus,Angela Mayner
+21629025,,Residential,Single Fam,,AUSTIN,Sandra J. Busald,,170000,170000,2019-04-01,2020-04-01,RE/MAX Ability Plus,Sandra J. Busald
+21638578,,Residential,Single Fam,,North,Ryan Goon,,176000,176000,2019-05-07,2019-11-07,Keller Williams Indy Metro W,Ambrosia Ramirez
+21670644,,Residential,Single Fam,,Main,Douglas M. Taylor,,184900,184900,2019-09-23,2020-04-30,F.C. Tucker Company,Joe A. Spate
+21643298,,Residential,Single Fam,,Morningside,Tad D. Braner,,168500,168500,2019-06-06,2019-10-01,Keller Williams Indy Metro NE,Gary Ruble
+21666686,,Residential,Single Fam,,Walnut,Non-BLC Member,,174500,174500,2019-07-25,2019-09-13,Dave Johnson Realty,Dave E. Johnson
+21654256,,Residential,Single Fam,,Lindsey,Elizabeth Richardson,,175000,175000,2019-07-14,2020-01-14,RE/MAX Ability Plus,Sandra J. Busald
+21640113,,Residential,Single Fam,,Austin,Corey Batt,,177900,177900,2019-05-30,2019-11-30,F.C. Tucker Company,Heather Tucker
+21628340,,Residential,Single Fam,,John Bart,Tad D. Braner,,165000,165000,2019-03-21,2019-07-17,RE/MAX Ability Plus,Sandra J. Busald
+21663781,,Residential,Single Fam,,Crimson,Sandra Hurless,,190000,190000,2019-08-28,2020-01-30,Batts Real Estate Group,Andrew Batts
+21658494,,Residential,Single Fam,,CRIMSON,Mathew MacDonald,,179900,179900,2019-07-29,2020-01-27,Non-BLC Office,Non-BLC Member
+21672118,,Residential,Single Fam,,CRIMSON,Lorrie Monn,Lorrie Monn,185000,185000,2019-09-30,2019-11-27,RE/MAX Ability Plus,Tad D. Braner
+21641348,,Residential,Single Fam,,CRIMSON LN,Brittany Kottlowski,,179900,179900,2019-05-18,2019-11-16,Keller Williams Indpls Metro N,Deborah A. Argenta
+21654508,,Residential,Single Fam,,Jaques,Adam Batts,Lisa K Batts,179900,179900,2019-07-15,2019-11-15,Keller Williams Lafayette,Cara Y. McLean-Rolfes
+21653737,,Residential,Single Fam,,Shorewood,Patrick A. Tumbarello,Gene Tumbarello,184900,184900,2019-07-13,2020-01-11,Keller Williams Zionsville,Kevin Hudoba
+21668768,,Residential,Single Fam,,Terrace,Lorrie Monn,Lorrie Monn,195000,195000,2019-09-17,2019-10-18,RE/MAX Ability Plus,Tad D. Braner
+21651837,,Residential,Single Fam,,WITT,Rodney Richardson,,198900,198900,2019-07-04,2020-07-04,Plat Collective,Craig Stevens
+21660748,,Residential,Single Fam,,Danielle,Heather Tucker,,189878,189878,2019-08-07,2019-09-09,F.C. Tucker Company,Heather Tucker
+21643504,,Residential,Single Fam,,550 S,Kendrick Davis,,195000,195000,2019-05-28,2019-10-31,F.C. Tucker Company,Suzi Leidenfrost
+21633440,,Residential,Single Fam,,State Road 32,James Gilday,,198900,198900,2019-04-15,2019-07-20,F.C. Tucker Company,Lindsey K. Smalling
+21679386,,Residential,Single Fam,,John Bart,Ryan Dossey,,199900,199900,2019-11-01,2020-06-01,"Gold Star Real Estate, LLC",Brenda Stailey
+21683794,,Residential,Single Fam,,Danielle,Ryan Goon,,197449,197449,2019-11-27,2019-12-31,F.C. Tucker Company,Joe A. Spate
+21642154,,Residential,Single Fam,,Jaques,Scott White,,209900,205900,2019-05-21,2019-11-22,RE/MAX Ability Plus,Angela Mayner
+21635195,,Residential,Single Fam,,Cherry,Ryan Goon,,204900,198900,2019-04-25,2019-10-25,Batts Real Estate Group,Lisa K Batts
+21656181,,Residential,Single Fam,,John Bart,Debra Palmer,,200000,200000,2019-07-22,2019-12-23,RE/MAX Advanced Realty,Lindsey Winkhart
+21664524,,Residential,Single Fam,,Jaques,Debbie McMillan,Christina Black,200000,200000,2019-08-29,2020-02-29,F.C. Tucker Company,Heather Tucker
+21663784,,Residential,Single Fam,,Kelsey Rose,Heather Tucker,,205900,205900,2019-08-24,2020-02-24,RE/MAX Ability Plus,Tad D. Braner
+21655861,,Residential,Single Fam,,Claiborne,Elizabeth Stoner,,219900,214900,2019-07-21,2019-10-31,RE/MAX Ability Plus,Heidi Wolff
+21638997,,Residential,Single Fam,,Danielle,Nathan Custer,,202990,202990,2019-05-07,2019-11-30,United Real Estate Indpls,William Whitticker
+21645375,,Residential,Single Fam,,Claiborne,Craig Stevens,,205000,205000,2019-06-07,2020-06-07,"Traditions Realty, LLC",Lynda Lambert
+21639487,,Residential,Single Fam,,Sherri,Phil Ludlow,Byron Brown,221150,209500,2019-05-09,2019-11-03,Find Your Bliss Real Estate,Peggy L. Carten
+21652655,,Residential,Single Fam,,Maple,W. R. Stevens,,249900,215000,2019-07-06,2019-11-15,F.C. Tucker Company,Jo C. Thompson
+21667059,,Residential,Single Fam,,Claiborne,Lynda Lambert,John W. Bradley,219900,219900,2019-09-09,2020-09-09,Batts Real Estate Group,Shelbi Swails
+21640976,,Residential,Single Fam,,MERIDIAN,Keri Arthurton,,249900,234900,2019-05-15,2019-11-15,Non-BLC Office,Non-BLC Member
+21639918,,Residential,Single Fam,,Viceroy,Lisa K Batts,,230000,230000,2019-05-10,2019-10-10,Batts Real Estate Group,Elizabeth A Hay
+21676438,,Residential,Single Fam,,Foxglove,Joe A. Spate,,219900,219900,2019-10-28,2020-02-29,F.C. Tucker Company,Joe A. Spate
+21660327,,Residential,Single Fam,,WESTMOOR,Tad Braner,,230000,230000,2019-08-10,2019-12-31,Highgarden Real Estate,Dorothy Carter
+21646176,,Residential,Single Fam,,SR 32,Kevin Hudoba,,224900,224900,2019-06-10,2019-12-31,"Traditions Realty, LLC",Lynda Lambert
+21667219,,Residential,Single Fam,,EAST,Susan Lehmann,,232900,232900,2019-09-11,2019-12-31,Keller Williams Indy Metro W,Morgan L Lathery
+21642270,,Residential,Single Fam,,Elm Swamp,Douglas Dale,,234900,234900,2019-06-12,2020-06-12,Keller Williams Indy Metro NE,Staci M. Woods
+21671684,,Residential,Single Fam,,Morningside,Tad Braner,,245000,235000,2019-10-01,2020-01-03,Berkshire Hathaway Home,Angela Rohrabaugh
+21656354,,Residential,Single Fam,,Foxglove,Joe A. Spate,,230643,230643,2019-07-23,2019-07-31,RE/MAX Ability Plus,Heather R. Schaller
+21659974,,Residential,Single Fam,,CENTER,Susan Lehmann,,249900,249900,2019-08-03,2020-02-03,Berkshire Hathaway Home,Elizabeth Richardson
+21646048,,Residential,Single Fam,,Lakeshore,Ryan Radecki,,239900,239900,2019-06-10,2019-07-31,Keller Williams Indpls Metro N,Ryan Radecki
+21636904,,Residential,Single Fam,,Grant,Dale G. Smith,,249900,249900,2019-04-28,2019-07-28,RE/MAX Ability Plus,Tad D. Braner
+21683494,,Residential,Single Fam,,Trillium,Joe A. Spate,,254840,254840,2019-11-21,2019-12-31,F.C. Tucker Company,Joe A. Spate
+21666096,,Residential,Single Fam,,Foxglove,Joe A. Spate,,256409,256409,2019-09-05,2019-12-31,F.C. Tucker Company,Steve Brandenburg
+21633736,,Residential,Single Fam,,Alba,Nicholas J. Laviolette,Zachary Bell,262000,262000,2019-04-19,2019-09-19,Front Porch Real Estate,Brenda Robidou
+21660677,,Residential,Single Fam,,Foxglove,Joe A. Spate,,266231,266231,2019-08-07,2019-08-31,Keller Williams Zionsville,Dennis Barrow
+21664953,,Residential,Single Fam,,Foxglove,Joe A. Spate,,268557,268557,2019-08-29,2019-09-30,F.C. Tucker Company,Joe A. Spate
+21656295,,Residential,Single Fam,,Muirfield,Angela Mayner,,275000,275000,2019-07-23,2019-12-31,Berkshire Hathaway Home,Elizabeth Richardson
+21615386,,Residential,Single Fam,,Foxglove,Joe Spate,,269900,269900,2019-01-21,2020-01-21,F.C. Tucker Company,Jessica Morrison
+21615401,,Residential,Single Fam,,Foxglove,Joe Spate,,274900,274900,2019-01-21,2020-01-21,Berkshire Hathaway Home,Elizabeth Richardson
+21640288,,Residential,Single Fam,,Detford,Jerry J. Alexander,,280000,280000,2019-05-14,2020-05-14,F.C. Tucker Company,Justin R. Perrey
+21648088,,Residential,Single Fam,,Trillium,Lisa K Batts,,289000,289000,2019-06-18,2019-12-18,Batts Real Estate Group,Lisa K Batts
+21656216,,Residential,Single Fam,,US 52,David Ping,,290000,290000,2019-07-23,2019-10-30,"Carpenter, REALTORS®",Stephanie Latham
+21681771,,Residential,Single Fam,,Millerwood,Joe A. Spate,,289798,289798,2019-11-17,2019-11-19,F.C. Tucker Company,Joe A. Spate
+21654344,,Residential,Single Fam,,Foxglove,Joe Spate,,309900,309900,2019-07-23,2020-01-23,"Craftsman Realty Group, LLC",Katrin Hoffman
+21627933,,Residential,Single Fam,,SHERRI,Sandra J. Busald,,330000,329900,2019-03-20,2020-03-20,Plat Collective,Andrew Barr
+21643480,,Residential,Single Fam,,Foxglove,Joe A. Spate,,314886,314886,2019-05-30,2019-06-30,F.C. Tucker Company,Joe A. Spate
+21626291,,Residential,Single Fam,,Trillium,Joe Spate,,324900,324900,2019-03-12,2019-09-12,Keller Williams Zionsville,Kevin Hudoba
+21617624,,Residential,Single Fam,,Grant,Elizabeth Stoner,,365000,344900,2019-02-05,2019-08-08,"Indiana Realty Brokers, LLC",A William Crawford
+21654492,,Residential,Single Fam,,250,Tad Braner,,300000,300000,2019-08-10,2019-12-31,RE/MAX Ability Plus,Tad D. Braner
+21567464,,Residential,Single Fam,,375 North,Rodney Richardson,,398800,398800,2018-05-18,2020-05-01,F.C. Tucker Company,Patsy Smith
+21646896,,Residential,Single Fam,,375 N,Sarah DeVore,,357500,357500,2019-06-13,2019-12-31,Central Indiana Town & Country,Brad B. Bair
+21613189,,Residential,Single Fam,,Dale,Heather Schaller,,399000,369000,2019-01-07,2019-07-07,F.C. Tucker Company,Laura Turner
+21649666,,Residential,Single Fam,,Sunnybrook,Patsy Smith,,389900,379900,2019-06-21,2019-10-21,RE/MAX Ability Plus,Susan Lehmann
+21628019,,Residential,Single Fam,,Sawgrass,Heather Schaller,,459000,399900,2019-03-22,2019-10-22,Berkshire Hathaway Home,Joel McWaters
+21639525,,Residential,Single Fam,,250,Dawn Kendrick,Sherry Soforic,385000,385000,2019-05-16,2019-11-16,"Davis Morrison Realty, LLC",Lisa Taylor
+21654391,,Residential,Single Fam,,300,Tad Braner,,565000,565000,2019-07-19,2019-12-31,F.C. Tucker Company,Tony Janko
+21643888,,Residential,Single Fam,,300,Christopher Price,Lori Davis Smith,585000,585000,2019-06-06,2020-01-03,Keller Williams Indy Metro W,Christopher G. Price
+21662611,,Residential,Single Fam,,625 South,Jennifer Blandford,Ashley Davidson,175000,175000,2019-08-17,2020-08-15,F.C. Tucker Company,Ryan Goon
+21652729,,Residential,Single Fam,,700,Sue Pfohl,,194900,194900,2019-07-09,2020-04-24,"eXp Realty, LLC",Rodney W. Heard
+21647113,,Residential,Single Fam,,State Road 39,Donald G. Sanders,Lynda Lambert,264900,264900,2019-06-15,2019-09-15,F.C. Tucker Company,Cathy A. Sturm
+21643743,,Residential,Single Fam,,650,Claire Anne Aikman,,400000,400000,2019-05-30,2019-11-30,Encore Sotheby's International,Matthew Meyers
+21647150,,Residential,Single Fam,,50 East,Rick Patton,,465000,450000,2019-06-14,2019-09-12,"The Elite Advantage, Inc.",Peggy Hoffman
+21642155,,Residential,Single Fam,,Main,Timothy Wright,,50000,42500,2019-05-21,2019-08-31,RE/MAX Ability Plus,Maria MacKinnon
+21643059,,Residential,Single Fam,,Elm,Mary Jane Murray,,55000,50000,2019-05-24,2019-10-24,"Carpenter, REALTORS®",Mary Jane Murray
+21611263,,Residential,Single Fam,,Jefferson,Mark Simison,,97000,87000,2018-12-14,2019-07-26,"Carpenter, REALTORS®",Lisa Bohr
+21667415,,Residential,Single Fam,,Main,Matthew Reffeitt,,89900,89900,2019-09-11,2020-03-11,Highgarden Real Estate,John Grogan
+21655255,,Residential,Single Fam,,High,Mark Simison,,95000,95000,2019-07-17,2019-12-17,RE/MAX Ability Plus,Angela Mayner
+21635407,,Residential,Single Fam,,Ash,Rich Boals,,98900,97900,2019-04-21,2020-04-20,F.C. Tucker Company,Rich Boals
+21637951,,Residential,Single Fam,,High,Stephanie Latham,,121000,114900,2019-05-02,2019-11-11,"Carpenter, REALTORS®",Stephanie Latham
+21638266,,Residential,Single Fam,,State Road 75,Stephanie Latham,,112000,112000,2019-05-03,2019-11-03,Go Fish Realty,Richard Wingate
+21645950,,Residential,Single Fam,,1100,Gregory J. Hagan,Michael Ondek,110000,110000,2019-06-08,2019-12-08,"eXp Realty, LLC",Pam Potoczek
+21633831,,Residential,Single Fam,,CHERRY,Abbey Richardson,,125000,125000,2019-04-18,2020-04-18,Highgarden Real Estate,Shannon Gilbert
+21661327,,Residential,Single Fam,,ELM,Linda Ranney,,145000,134900,2019-09-04,2019-12-04,"Carpenter, REALTORS®",Deborah Flowers
+21663006,,Residential,Single Fam,,Jefferson,Stephanie Barker,,155000,139000,2019-08-19,2020-08-31,Berkshire Hathaway Home,Amanda K. Shockley
+21660599,,Residential,Single Fam,,Second,Amanda Shockley,,140000,140000,2019-08-09,2020-08-09,Keller Williams Indpls Metro N,Debbie Van Wyck
+21654494,,Residential,Single Fam,,MAIN,Tad Braner,,165000,157500,2019-07-20,2019-12-31,Dave Johnson Realty,Dave E. Johnson
+21643299,,Residential,Single Fam,,Stockton,Tad Braner,,154900,154900,2019-05-30,2019-10-05,Metro 317 Homes Real Estate,Patricia Hodges
+21663952,,Residential,Single Fam,,ELM,Brenda Robidou,,155000,155000,2019-08-23,2020-01-24,Keller Williams Zionsville,Jordan Moody
+21660877,,Residential,Single Fam,,Lebanon,Maria MacKinnon,,184900,179900,2019-08-16,2020-01-17,Keller Williams Indy Metro S,Sharon Tirey
+21649671,,Residential,Single Fam,,1100,Tad Braner,,185000,185000,2019-07-10,2019-12-01,"Carpenter, REALTORS®",Keith E. Fields
+21645654,,Residential,Single Fam,,Ash,Heather R. Schaller,,175000,175000,2019-06-07,2019-12-07,"Carpenter, REALTORS®",Stephanie Latham
+21613016,,Residential,Single Fam,,State Road 75,Kevin Hudoba,,249900,199900,2019-01-03,2019-06-29,"Home Finders Real Estate, LLC",Angie Woods
+21595938,,Residential,Single Fam,,675,Brian Candlish,,224900,214900,2018-09-18,2019-09-18,RE/MAX Ability Plus,Tad D. Braner
+21655053,,Residential,Single Fam,,550,Joel McWaters,,250000,245000,2019-07-17,2019-12-01,F.C. Tucker Company,Denesa Webber
+21635562,,Residential,Single Fam,,900,Susan Lehmann,,315000,315000,2019-04-22,2019-07-31,High Point Realty Group,Kendrick Davis
+21628623,,Residential,Single Fam,,1050,Jennifer Goodspeed,,430000,399999,2019-04-04,2019-10-04,F.C. Tucker Company,Rich Boals
+21632140,,Residential,Single Fam,,500,Sandra Busald,,699000,699000,2019-04-30,2020-05-01,Berkshire Hathaway Home,Kelly K. Burns
+21661117,,Residential,Single Fam,,State Road 32,Tad Braner,,80000,75000,2019-08-14,2020-08-12,"Carpenter, REALTORS®",Sally Chamness
+21666620,,Residential,Single Fam,,State Road 75,Leslie Cooper Pyle,,120000,120000,2019-09-06,2020-03-31,Front Porch Real Estate,Heather Dickerson
+21633329,,Residential,Single Fam,,St Rd 32,Linda Ranney,Kendrick Davis,260000,225000,2019-04-25,2019-10-26,Non-BLC Office,Non-BLC Member
+21652469,,Residential,Single Fam,,700,Crissi Peters,,279900,274900,2019-07-05,2019-12-31,Priority One Realty,Joseph W Cirillo
+21641610,,Residential,Single Fam,,275,Douglas M. Taylor,,325000,325000,2019-05-24,2019-12-31,CENTURY 21 Scheetz,Jeffrey Sheets
+21652812,,Residential,Single Fam,,100 South,Dody Mariscotti,,365000,365000,2019-07-13,2020-01-14,Batts Real Estate Group,Lisa K Batts
+21640594,,Residential,Single Fam,,State Road 75,Matthew Reffeitt,Ambrosia Ramirez,450000,435000,2019-05-14,2019-09-01,"Ridenour Real Estate Services,",Maria Ridenour
+21654809,,Residential,Single Fam,,WEST,Jordan Moody,,45000,45000,2019-07-16,2019-08-30,Keller Williams Zionsville,Jordan Moody
+21683510,,Residential,Single Fam,,West,Connie Walker,,49900,49900,2019-12-04,2020-12-04,Keller Williams Indpls Metro N,Jordan Moody
+21670596,,Residential,Single Fam,,Vine,Mathew MacDonald,,69900,69900,2019-09-20,2020-03-20,RE/MAX Ability Plus,Angela Mayner
+21581390,,Residential,Single Fam,,State Road 47,John Bradley,Lynda Lambert,89500,88900,2018-07-12,2019-07-31,Non-BLC Office,Non-BLC Member
+21673644,,Residential,Single Fam,,WEST,Jordan Moody,,93900,93900,2019-10-09,2020-02-09,Keller Williams Zionsville,Jordan Moody
+21671184,,Residential,Single Fam,,Bow,Patsy Smith,,110000,110000,2019-09-25,2020-03-25,United Real Estate Indpls,Catherine A. O'Banion
+21642899,,Residential,Single Fam,,West,Doug Anderson,Deena Cooper,125000,125000,2019-06-14,2019-12-14,Lieberman & Associates Inc.,John C Lieberman
+21639749,,Residential,Single Fam,,Plum,Judy Wothke,,130000,130000,2019-05-10,2019-11-30,Keller Williams Zionsville,Jordan Moody
+21638568,,Residential,Single Fam,,B,Joshua Vida,,140000,140000,2019-05-05,2019-11-05,RE/MAX Ability Plus,Susan Lehmann
+21662774,,Residential,Single Fam,,Grant,Jordan Moody,,170000,170000,2019-08-20,2020-02-06,Keller Williams Zionsville,David F. Harting
+21668212,,Residential,Single Fam,,Church,Mathew MacDonald,,174900,169900,2019-09-16,2020-03-16,F.C. Tucker Company,Mathew MacDonald
+21550529,,Residential,Single Fam,,650,Ellen Deck,,179900,169900,2018-03-07,2019-08-14,Keller Williams Zionsville,Kevin Hudoba
+21659697,,Residential,Single Fam,,Wesley,Joseph Alexander,,220000,185000,2019-08-01,2020-08-01,Keller Williams Indpls Metro N,Jordan Moody
+21659517,,Residential,Single Fam,,Elm,Joseph Alexander,,235000,188900,2019-08-01,2020-09-01,"eXp Realty, LLC",Ryan R. Hergott
+21632429,,Residential,Single Fam,,Wesley,Elizabeth Richardson,,199500,199500,2019-04-11,2019-10-11,Non-BLC Office,Non-BLC Member
+21597050,,Residential,Single Fam,,C,Joseph Alexander,,200000,215000,2018-09-22,2019-09-22,RE/MAX Ability Plus,Luanna J. Albrecht
+21647398,,Residential,Single Fam,,Plum,Joseph Alexander,,233500,233500,2019-06-14,2020-06-14,Keller Williams Indy Metro W,Morgan L Lathery
+21645724,,Residential,Single Fam,,1050,Joel McWaters,,399950,399950,2019-06-07,2019-09-30,RE/MAX Ability Plus,Heidi Wolff
+21618308,,Residential,Single Fam,,State Road 47,W. R. Stevens,,439900,409900,2019-02-18,2019-09-28,RE/MAX Ability Plus,Tad D. Braner
+21632011,,Residential,Single Fam,,800,Sandra J. Busald,,420000,420000,2019-05-01,2020-05-01,CENTURY 21 Scheetz,Christopher Porter
+21666752,,Residential,Single Fam,,State Road 39,Angela Mayner,,129900,124900,2019-09-07,2019-12-31,F.C. Tucker Company,Kay Kammeyer
+21671907,,Residential,Single Fam,,Water,Lynda Lambert,John W. Bradley,134900,124900,2019-09-28,2020-03-28,Non-BLC Office,Non-BLC Member
+21644535,,Residential,Single Fam,,450,Heather Robison,,149900,149900,2019-06-02,2019-11-30,RE/MAX Ability Plus,Tad D. Braner
+21642560,,Residential,Single Fam,,State Road 39,Christopher G. Price,Amanda Smith,165000,165000,2019-05-23,2019-11-22,United Real Estate Indpls,Tammy Young
+21673637,,Residential,Single Fam,,Evans,Jordan Moody,,185000,185000,2019-10-08,2020-04-08,Raeco Realty,Rebecca Gibson
+21645348,,Residential,Single Fam,,650,Susan Lehmann,,199900,199900,2019-06-07,2019-09-15,"Wright, REALTORS®",Timothy L. Wright
+21658361,,Residential,Single Fam,,St Rd 47,Jonathan W. Adams,,199900,199900,2019-07-27,2019-10-27,Highgarden Real Estate,Toby Smith
+21643048,,Residential,Single Fam,,State Rd 39,W. R. Stevens,,269900,269900,2019-05-24,2019-10-24,CENTURY 21 Scheetz,Loren Long
+21630978,,Residential,Single Fam,,State Road 47,Tad Braner,,279000,260000,2019-04-09,2019-10-04,RE/MAX Ability Plus,Tad D. Braner
+21661581,,Residential,Single Fam,,500 NORTH,Davon Lee,,385000,385000,2019-08-12,2019-11-12,Keller Williams Indpls Metro N,Angela Line
+21648186,,Residential,Single Fam,,Frankfort,Elizabeth Hay,,499000,467000,2019-06-17,2019-12-17,Batts Real Estate Group,Lisa K Batts
+21644243,,Residential,Single Fam,,State Road 39,Jordan Moody,,435000,435000,2019-06-08,2020-02-01,Keller Williams Zionsville,Jordan Moody
+21585327,,Residential,Single Fam,,150,Jerry Alexander,,490000,472500,2018-08-03,2020-02-03,Batts Real Estate Group,Lisa K Batts
+21671547,,Residential,Single Fam,,450 N,Phillip Tinsley,,625000,625000,2019-09-26,2020-03-31,"The Tinsley Team, LLC",Phillip Tinsley
